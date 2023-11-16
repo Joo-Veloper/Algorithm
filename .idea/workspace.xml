@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Basic/Max3Method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/class.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Max4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/min3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/Max3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/Max3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basic/Max3Method.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/Max3Method.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +75,7 @@
       <workItem from="1700094862729" duration="2472000" />
       <workItem from="1700138331310" duration="237000" />
       <workItem from="1700139066322" duration="645000" />
-      <workItem from="1700141894806" duration="2847000" />
+      <workItem from="1700141894806" duration="4023000" />
     </task>
     <servers />
   </component>
