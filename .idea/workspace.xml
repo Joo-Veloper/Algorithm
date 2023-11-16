@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructure/RestSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructure/RestSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +64,9 @@
       <workItem from="1699696558756" duration="4803000" />
       <workItem from="1699766369385" duration="1686000" />
       <workItem from="1699770470949" duration="123000" />
-      <workItem from="1700094862729" duration="1262000" />
+      <workItem from="1700094862729" duration="2472000" />
+      <workItem from="1700138331310" duration="237000" />
+      <workItem from="1700139066322" duration="645000" />
     </task>
     <servers />
   </component>
