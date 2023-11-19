@@ -1,4 +1,4 @@
-package Basic;
+package Basic.chap01;
 
 public class Max3Method {
     static int max3(int a, int b, int c) {
