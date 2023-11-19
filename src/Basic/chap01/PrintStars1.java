@@ -16,7 +16,7 @@ public class PrintStars1 {
             System.out.print("w값: ");
             w = sc.nextInt();
         }while (w <= 0 || w>n);
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < n; i++) { // for문에서 변수 i값을 w값으로 나눈 나머지가 w-1일때 줄 바꿈
             System.out.print("*");
             if(i%w==w-1){
                 System.out.println();
