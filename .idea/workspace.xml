@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Basic/Chap02/MaxOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Chap02/MaxOfArrayRand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +83,10 @@
       <workItem from="1700280680197" duration="7071000" />
       <workItem from="1700367525026" duration="8205000" />
       <workItem from="1700440632198" duration="1420000" />
-      <workItem from="1700526739084" duration="350000" />
+      <workItem from="1700526739084" duration="1499000" />
+      <workItem from="1700535901851" duration="75000" />
+      <workItem from="1700536048467" duration="753000" />
+      <workItem from="1700612779078" duration="1108000" />
     </task>
     <servers />
   </component>
