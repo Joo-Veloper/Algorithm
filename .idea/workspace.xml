@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Basic/Chap03/BinSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Chap03/SeqSearch2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,6 +58,9 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\SeungJoo\Algorithm\Do Algorithm\src\Basic\chap01" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Basic.Chap03" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -96,7 +99,7 @@
       <workItem from="1701131777871" duration="4378000" />
       <workItem from="1701216776363" duration="2552000" />
       <workItem from="1701220746798" duration="3000" />
-      <workItem from="1701304843807" duration="316000" />
+      <workItem from="1701304843807" duration="1570000" />
     </task>
     <servers />
   </component>
