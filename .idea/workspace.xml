@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Basic/Chap03/IdTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Chap03/StringBinarySearch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +42,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/SeungJoo/Algorithm/Do Algorithm&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/SeungJoo/NB_CAMP/NewsFeed&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -108,7 +108,9 @@
       <workItem from="1701600094801" duration="3083000" />
       <workItem from="1701649078903" duration="1547000" />
       <workItem from="1701694109429" duration="693000" />
-      <workItem from="1701735156117" duration="1331000" />
+      <workItem from="1701735156117" duration="2705000" />
+      <workItem from="1701752685863" duration="766000" />
+      <workItem from="1701821740999" duration="375000" />
     </task>
     <servers />
   </component>
