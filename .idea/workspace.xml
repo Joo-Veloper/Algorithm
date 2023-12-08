@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Basic/Chap03/PhysSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Chap03/GenericClassTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,6 +62,26 @@
       <recent name="Basic.Chap03" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="GenericClassTest$GenericClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.Chap03.GenericClassTest$GenericClass" />
+      <module name="Do Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Basic.Chap03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GenericClassTest$GenericClass" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -111,7 +131,8 @@
       <workItem from="1701735156117" duration="2705000" />
       <workItem from="1701752685863" duration="766000" />
       <workItem from="1701821740999" duration="1692000" />
-      <workItem from="1701908425676" duration="462000" />
+      <workItem from="1701908425676" duration="554000" />
+      <workItem from="1702043783236" duration="454000" />
     </task>
     <servers />
   </component>
