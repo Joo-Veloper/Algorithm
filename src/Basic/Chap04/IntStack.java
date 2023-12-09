@@ -39,4 +39,8 @@ public class IntStack {
             throw new EmptyIntStackException();
         return stk[ptr - 1];
     }
+    // 스택 요소 삭제
+    public void clear() {
+        ptr = 0;
+    }
 }
