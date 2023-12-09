@@ -21,14 +21,22 @@ public class IntStack {
         }
     }
 
+    //push
     public int push(int x) throws OverflowIntStackExceptino {
         if(ptr >= capacity) // 스택이 가득
             throw new OverflowIntStackExceptino();
         return stk[ptr++] = x;
     }
+    //pop
     public int pop() throws EmptyIntStackException {
         if(ptr <= 0)    // 스택이 비워짐
             throw new EmptyIntStackException();
         return stk[--ptr];
+    }
+    // peek
+    public int peek() throws EmptyIntStackException {
+        if (ptr <= 0)
+            throw new EmptyIntStackException();
+        return stk[ptr - 1];
     }
 }
