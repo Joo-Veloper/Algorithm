@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basic/Chap04/IntStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/Chap04/IntStack.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -130,7 +133,7 @@
       <workItem from="1701821740999" duration="1692000" />
       <workItem from="1701908425676" duration="554000" />
       <workItem from="1702043783236" duration="1779000" />
-      <workItem from="1702095381907" duration="1954000" />
+      <workItem from="1702095381907" duration="3090000" />
     </task>
     <servers />
   </component>
