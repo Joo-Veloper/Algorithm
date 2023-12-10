@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Basic/Chap04/IntQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Chap04/IntQueueTes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,13 +61,26 @@
       <recent name="Basic.Chap03" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.IntStackTest">
+  <component name="RunManager" selected="Application.IntQueueTes">
     <configuration name="GenericClassTest$GenericClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Basic.Chap03.GenericClassTest$GenericClass" />
       <module name="Do Algorithm" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Basic.Chap03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntQueueTes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.Chap04.IntQueueTes" />
+      <module name="Do Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Basic.Chap04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,6 +103,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IntQueueTes" />
         <item itemvalue="Application.IntStackTest" />
         <item itemvalue="Application.GenericClassTest$GenericClass" />
       </list>
@@ -150,7 +163,7 @@
       <workItem from="1702095381907" duration="8876000" />
       <workItem from="1702119458073" duration="4005000" />
       <workItem from="1702168443911" duration="800000" />
-      <workItem from="1702201542814" duration="2127000" />
+      <workItem from="1702201542814" duration="4165000" />
     </task>
     <servers />
   </component>
