@@ -42,5 +42,45 @@ public class IntQueue {
             front = 0;
         return x;
     }
+    public int peek() throws EmptyIntQueueException {
+        if(num <= 0)
+            throw new EmptyIntQueueException();
+        return que[front];
+    }
+    public void clear(){
+        num = front = rear =0;
+    }
+    public int indexOf(int x) {
+        for (int i = 0; i < num; i++) {
+            int idx = (i + front) % capacity;
+            if(que[idx] == x)
+                return idx;
+        }
+        return -1;
+    }
+    public int getCapacity() {
+        return capacity;
+    }
+    public int size() {
+        return num;
+    }
+
+    public boolean isEmpty() {
+        return num <= 0;
+    }
+
+    public boolean isFull() {
+        return num >= capacity;
+    }
+    public void dump() {
+        if(num <= 0)
+            System.out.println("큐가 비어있습니다.");
+        else {
+            for (int i = 0; i < num; i++) {
+                System.out.print(que[(i + front) % capacity] + " ");
+            }
+            System.out.println();
+        }
+    }
 
 }
