@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Basic/Chap04/IntStackTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Chap04/IntQueue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/Chap04/IntStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/Chap04/IntStack.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,7 +147,10 @@
       <workItem from="1701821740999" duration="1692000" />
       <workItem from="1701908425676" duration="554000" />
       <workItem from="1702043783236" duration="1779000" />
-      <workItem from="1702095381907" duration="6184000" />
+      <workItem from="1702095381907" duration="8876000" />
+      <workItem from="1702119458073" duration="4005000" />
+      <workItem from="1702168443911" duration="800000" />
+      <workItem from="1702201542814" duration="2127000" />
     </task>
     <servers />
   </component>
