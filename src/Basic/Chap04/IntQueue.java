@@ -23,4 +23,14 @@ public class IntQueue {
             capacity = 0;
         }
     }
+    public int enque(int x) throws IntStack.OverflowIntStackExceptino{
+        if(num >= capacity)
+            throw new OverflowIntQueueException();
+        que[rear++] = x;
+        num++;
+        if (rear == capacity)
+            rear = 0;
+        return x;
+    }
+
 }
