@@ -33,4 +33,14 @@ public class IntQueue {
         return x;
     }
 
+    public int deque() throws EmptyIntQueueException {
+        if(num <= 0)
+            throw new EmptyIntQueueException();
+        int x = que[front];
+        num--;
+        if(front == capacity)
+            front = 0;
+        return x;
+    }
+
 }
