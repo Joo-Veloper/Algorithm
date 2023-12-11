@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Basic/Chap05/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Chap05/EuclidGCD.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +116,7 @@
       <workItem from="1702119458073" duration="4005000" />
       <workItem from="1702168443911" duration="800000" />
       <workItem from="1702201542814" duration="4921000" />
-      <workItem from="1702260458489" duration="1973000" />
+      <workItem from="1702260458489" duration="3070000" />
     </task>
     <servers />
   </component>
