@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Basic/Chap05/gcdRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Chap05/Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +22,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -118,7 +122,8 @@
       <workItem from="1702201542814" duration="4921000" />
       <workItem from="1702260458489" duration="4695000" />
       <workItem from="1702281785965" duration="44000" />
-      <workItem from="1702341241824" duration="960000" />
+      <workItem from="1702341241824" duration="2098000" />
+      <workItem from="1702426111795" duration="1145000" />
     </task>
     <servers />
   </component>
