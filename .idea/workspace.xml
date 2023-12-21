@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Basic/Chap06/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Chap06/BubbleSortCor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -130,7 +130,8 @@
       <workItem from="1702616457825" duration="47000" />
       <workItem from="1702857838899" duration="2838000" />
       <workItem from="1702944081745" duration="6413000" />
-      <workItem from="1703030890994" duration="1536000" />
+      <workItem from="1703030890994" duration="2891000" />
+      <workItem from="1703118158111" duration="1424000" />
     </task>
     <servers />
   </component>
