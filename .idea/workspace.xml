@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Basic/Chap06/CgeBubble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/Chap06/DataArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Chap06/InsertionSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/Chap06/BubbleSort3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/Chap06/BubbleSort3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,7 +134,8 @@
       <workItem from="1703030890994" duration="2891000" />
       <workItem from="1703118158111" duration="2963000" />
       <workItem from="1703203349571" duration="2726000" />
-      <workItem from="1703299689340" duration="5528000" />
+      <workItem from="1703299689340" duration="9348000" />
+      <workItem from="1703421446244" duration="376000" />
     </task>
     <servers />
   </component>
