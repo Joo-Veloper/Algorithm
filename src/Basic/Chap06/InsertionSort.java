@@ -1,6 +1,5 @@
 package Basic.Chap06;
 
-import java.awt.*;
 import java.util.Scanner;
 
 public class InsertionSort {
