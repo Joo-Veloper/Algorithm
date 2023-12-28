@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="shellSort">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basic/Chap06/Partition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/Chap06/Partition.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,6 +155,8 @@
       <workItem from="1703549058245" duration="2942000" />
       <workItem from="1703561622649" duration="206000" />
       <workItem from="1703635386417" duration="1533000" />
+      <workItem from="1703689173352" duration="700000" />
+      <workItem from="1703722270228" duration="1165000" />
     </task>
     <task id="LOCAL-00001" summary="insertionSort">
       <option name="closed" value="true" />
