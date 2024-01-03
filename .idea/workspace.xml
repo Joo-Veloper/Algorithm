@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="QuickSort2">
-      <change afterPath="$PROJECT_DIR$/src/Basic/Chap06/ArraySortTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Chap06/SortCalender.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -161,7 +161,7 @@
       <workItem from="1703909005937" duration="3284000" />
       <workItem from="1704093644259" duration="2743000" />
       <workItem from="1704154939687" duration="2638000" />
-      <workItem from="1704240944762" duration="298000" />
+      <workItem from="1704240944762" duration="1573000" />
     </task>
     <task id="LOCAL-00001" summary="insertionSort">
       <option name="closed" value="true" />
