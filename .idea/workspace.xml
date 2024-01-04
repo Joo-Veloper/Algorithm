@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="QuickSort2">
-      <change afterPath="$PROJECT_DIR$/src/Basic/Chap06/PhySort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Chap06/HeapSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,26 +81,6 @@
       <recent name="Basic.Chap05" />
       <recent name="Basic.Chap03" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration name="PhySort$PhyData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic.Chap06.PhySort$PhyData" />
-      <module name="Do Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Basic.Chap06.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.PhySort$PhyData" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -180,7 +161,8 @@
       <workItem from="1703909005937" duration="3284000" />
       <workItem from="1704093644259" duration="2743000" />
       <workItem from="1704154939687" duration="2638000" />
-      <workItem from="1704240944762" duration="3232000" />
+      <workItem from="1704240944762" duration="3433000" />
+      <workItem from="1704327371368" duration="1380000" />
     </task>
     <task id="LOCAL-00001" summary="insertionSort">
       <option name="closed" value="true" />
