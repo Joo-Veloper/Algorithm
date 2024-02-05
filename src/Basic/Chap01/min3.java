@@ -1,4 +1,4 @@
-package Basic.chap01;
+package Basic.Chap01;
 
 public class min3 {
     static int min3(int a, int b, int c) {

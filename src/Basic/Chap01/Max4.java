@@ -1,4 +1,4 @@
-package Basic.chap01;
+package Basic.Chap01;
 
 public class Max4 {
     static int max4(int a, int b, int c, int d){

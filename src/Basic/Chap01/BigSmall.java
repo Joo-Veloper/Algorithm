@@ -1,6 +1,4 @@
-package Basic.chap01;
-
-import org.w3c.dom.ls.LSOutput;
+package Basic.Chap01;
 
 import java.util.Scanner;
 

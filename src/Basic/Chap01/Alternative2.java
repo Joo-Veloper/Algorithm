@@ -1,8 +1,8 @@
-package Basic.chap01;
+package Basic.Chap01;
 
 import java.util.Scanner;
 
-public class Alternative1 {
+public class Alternative2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n;
@@ -12,12 +12,11 @@ public class Alternative1 {
             n = sc.nextInt();
         } while (n <= 0);
 
-        for (int i = 0; i < n; i++) {
-            if (i % 2 == 0) {
-                System.out.print("+");
-            } else {
-                System.out.print("-");
-            }
+        for (int i = 0; i < n/2; i++) { // for 문은 +-를 2회 출력 n이 12 면 6번 15이면 7번 출력
+            System.out.print("+-");
+        }
+        if (n%2!=0){
+            System.out.print("+");
         }
     }
 }

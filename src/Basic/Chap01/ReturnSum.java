@@ -1,4 +1,4 @@
-package Basic.chap01;
+package Basic.Chap01;
 import java.util.Scanner;
 
 public class ReturnSum {
