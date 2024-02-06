@@ -20,13 +20,32 @@ public class Main {
         System.out.println(Arrays.toString(duplicatesV1.entrySet().toArray()));
 
         System.out.println();
-        System.out.println("Java 8, functional-style solution:");
+        System.out.println("Java 17, functional-style solution:");
         long startTimeV2 = System.nanoTime();
 
-//        Map<Character, Long> duplicatesV2 = Strings.countDuplicateCharactersV2(TEXT);
-//
-//        displayExecutionTime(System.nanoTime() - startTimeV2);
-//        System.out.println(Arrays.toString(duplicatesV2.entrySet().toArray()));
+        Map<Character, Long> duplicatesV2 = Strings.countDuplicateCharactersV2(TEXT);
+
+        displayExecutionTime(System.nanoTime() - startTimeV2);
+        System.out.println(Arrays.toString(duplicatesV2.entrySet().toArray()));
+        System.out.println("\n--------------------------------------\n");
+        System.out.println("Input text: \n" + TEXT_CP + "\n");
+        System.out.println("\n\nIncluding Unicode surrogate pairs examples:\n");
+        System.out.println("HashMap based solution:");
+        long startTimeV3 = System.nanoTime();
+
+        Map<String, Integer> duplicatesV3 = Strings.countDuplicateCharactersVCP1(TEXT_CP);
+
+        displayExecutionTime(System.nanoTime()-startTimeV3);
+        System.out.println(Arrays.toString(duplicatesV3.entrySet().toArray()));
+
+        System.out.println();
+        System.out.println("Java 17, functional-style solution:");
+        long startTimeV4 = System.nanoTime();
+
+        Map<String, Long> duplicatesV4 = Strings.countDuplicateCharactersVCP2(TEXT_CP);
+
+        displayExecutionTime(System.nanoTime()-startTimeV4);
+        System.out.println(Arrays.toString(duplicatesV4.entrySet().toArray()));
     }
 
     private static void displayExecutionTime(long time) {
