@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="LinkedList Node TEST">
-      <change afterPath="$PROJECT_DIR$/src/Basic/Chap08/ArrayLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/Chap08/ToStringTester.java" afterDir="false" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="ArrayLInkedList">
+      <change afterPath="$PROJECT_DIR$/src/Basic/Chap08/DoubleLinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -174,7 +173,10 @@
       <workItem from="1707203998772" duration="115000" />
       <workItem from="1707214018289" duration="7097000" />
       <workItem from="1707479573918" duration="7685000" />
-      <workItem from="1707555613266" duration="3692000" />
+      <workItem from="1707555613266" duration="4355000" />
+      <workItem from="1707572988192" duration="2695000" />
+      <workItem from="1707722211899" duration="1195000" />
+      <workItem from="1707731337060" duration="2867000" />
     </task>
     <task id="LOCAL-00001" summary="insertionSort">
       <option name="closed" value="true" />
@@ -264,7 +266,23 @@
       <option name="project" value="LOCAL" />
       <updated>1707483160456</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="String">
+      <option name="closed" value="true" />
+      <created>1707560386566</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1707560386566</updated>
+    </task>
+    <task id="LOCAL-00013" summary="ArrayLInkedList">
+      <option name="closed" value="true" />
+      <created>1707560398914</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1707560398914</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -292,6 +310,8 @@
     <MESSAGE value="Count Char" />
     <MESSAGE value="Count Strings" />
     <MESSAGE value="LinkedList Node TEST" />
-    <option name="LAST_COMMIT_MESSAGE" value="LinkedList Node TEST" />
+    <MESSAGE value="String" />
+    <MESSAGE value="ArrayLInkedList" />
+    <option name="LAST_COMMIT_MESSAGE" value="ArrayLInkedList" />
   </component>
 </project>
