@@ -75,5 +75,17 @@ public class DoubleLinkedList<E> {
         crnt = crnt.prev;
         return true;
     }
-
+    public void add(E obj){
+        Node<E> node = new Node<E>(obj, crnt, crnt.next);
+        crnt.next = crnt.next.prev = node;
+        crnt = node;
+    }
+    public void addFirst(E obj){
+        crnt = head;
+        add(obj);
+    }
+    public void addLast(E obj){
+        crnt = head.prev;
+        add(obj);
+    }
 }
