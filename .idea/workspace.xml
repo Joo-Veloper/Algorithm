@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="ArrayLInkedList">
-      <change afterPath="$PROJECT_DIR$/src/Basic/Chap08/DoubleLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="NODE">
+      <change beforePath="$PROJECT_DIR$/src/Basic/Chap08/DoubleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/Chap08/DoubleLinkedList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,7 +175,7 @@
       <workItem from="1707555613266" duration="4355000" />
       <workItem from="1707572988192" duration="2695000" />
       <workItem from="1707722211899" duration="1195000" />
-      <workItem from="1707731337060" duration="2867000" />
+      <workItem from="1707731337060" duration="3264000" />
     </task>
     <task id="LOCAL-00001" summary="insertionSort">
       <option name="closed" value="true" />
@@ -282,7 +281,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707560398914</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="NODE">
+      <option name="closed" value="true" />
+      <created>1707736213828</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1707736213828</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -312,6 +319,7 @@
     <MESSAGE value="LinkedList Node TEST" />
     <MESSAGE value="String" />
     <MESSAGE value="ArrayLInkedList" />
-    <option name="LAST_COMMIT_MESSAGE" value="ArrayLInkedList" />
+    <MESSAGE value="NODE" />
+    <option name="LAST_COMMIT_MESSAGE" value="NODE" />
   </component>
 </project>
