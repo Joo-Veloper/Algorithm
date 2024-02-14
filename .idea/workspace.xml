@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="선택, 머리 꼬리 노드 삭제">
-      <change afterPath="$PROJECT_DIR$/src/Basic/Chap08/DoubleLinkedListTester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="연결 리스트 클래스" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -177,7 +174,7 @@
       <workItem from="1707572988192" duration="2695000" />
       <workItem from="1707722211899" duration="1195000" />
       <workItem from="1707731337060" duration="5493000" />
-      <workItem from="1707819051622" duration="3958000" />
+      <workItem from="1707819051622" duration="4585000" />
     </task>
     <task id="LOCAL-00001" summary="insertionSort">
       <option name="closed" value="true" />
@@ -315,7 +312,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707738668338</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="연결 리스트 클래스">
+      <option name="closed" value="true" />
+      <created>1707823393397</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1707823393397</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -349,6 +354,7 @@
     <MESSAGE value="이중 연결 리스트" />
     <MESSAGE value="선택, 머리 꼬리 노드 삽입" />
     <MESSAGE value="선택, 머리 꼬리 노드 삭제" />
-    <option name="LAST_COMMIT_MESSAGE" value="선택, 머리 꼬리 노드 삭제" />
+    <MESSAGE value="연결 리스트 클래스" />
+    <option name="LAST_COMMIT_MESSAGE" value="연결 리스트 클래스" />
   </component>
 </project>
