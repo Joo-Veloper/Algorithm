@@ -59,6 +59,22 @@ public class BinTree<K, V> {
                 p = p.right;
         }
     }
-
+    private void addNode(Node<K, V> node, K key, V data) {
+        int cond = comp(key, node.getKey());
+        if (cond == 0) {
+            return;
+        } else if (cond < 0) {
+            if(node.left == null)
+                node.right = new Node<K, V>(key, data, null, null);
+            else
+                addNode(node.right, key, data);
+        }
+    }
+    public void add(K key, V data){
+        if (root == null)
+            root = new Node<K, V> (key, data, null, null);
+        else
+            addNode(root, key, data);
+    }
 
 }
