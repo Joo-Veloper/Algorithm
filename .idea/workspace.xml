@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="체인법 Hash">
-      <change afterPath="$PROJECT_DIR$/src/Basic/Chap10/ChainHashTest.java" afterDir="false" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="체인법 해쉬">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -180,7 +179,10 @@
       <workItem from="1707819051622" duration="4585000" />
       <workItem from="1707869171218" duration="7838000" />
       <workItem from="1707961372645" duration="3338000" />
-      <workItem from="1708042139867" duration="2898000" />
+      <workItem from="1708042139867" duration="3383000" />
+      <workItem from="1708187295280" duration="4000" />
+      <workItem from="1708246420912" duration="599000" />
+      <workItem from="1708325674381" duration="11037000" />
     </task>
     <task id="LOCAL-00001" summary="insertionSort">
       <option name="closed" value="true" />
@@ -374,7 +376,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707964027001</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="체인법 해쉬">
+      <option name="closed" value="true" />
+      <created>1708065112393</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1708065112393</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -415,6 +425,7 @@
     <MESSAGE value="Serve Tree Node 오름차순" />
     <MESSAGE value="키 값의 Integer 클래스" />
     <MESSAGE value="체인법 Hash" />
-    <option name="LAST_COMMIT_MESSAGE" value="체인법 Hash" />
+    <MESSAGE value="체인법 해쉬" />
+    <option name="LAST_COMMIT_MESSAGE" value="체인법 해쉬" />
   </component>
 </project>
