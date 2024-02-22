@@ -4,17 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="폰켓몬">
-      <change afterPath="$PROJECT_DIR$/src/CodingTest/TwoPointer.java" afterDir="false" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="TwoPointer 시간 복잡도 refactoring">
+      <change afterPath="$PROJECT_DIR$/src/Back/ArithmeticOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Back/HelloWorld.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/DataStructure/Average.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingTest/DataStructure/Average.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/DataStructure/NumericalSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingTest/DataStructure/NumericalSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/DataStructure/RestSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingTest/DataStructure/RestSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/DataStructure/Rule.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingTest/DataStructure/Rule.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/DataStructure/SectionSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingTest/DataStructure/SectionSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/DataStructure/SectionSum2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingTest/DataStructure/SectionSum2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/Time_complexity/NumberSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingTest/Time_complexity/NumberSorting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/Time_complexity/timeComplexity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingTest/Time_complexity/timeComplexity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -194,7 +187,7 @@
       <workItem from="1708325674381" duration="11037000" />
       <workItem from="1708431340978" duration="1112000" />
       <workItem from="1708490710258" duration="10243000" />
-      <workItem from="1708560468643" duration="4615000" />
+      <workItem from="1708560468643" duration="6489000" />
     </task>
     <task id="LOCAL-00001" summary="insertionSort">
       <option name="closed" value="true" />
@@ -404,7 +397,31 @@
       <option name="project" value="LOCAL" />
       <updated>1708431742465</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1708610608894</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1708610608895</updated>
+    </task>
+    <task id="LOCAL-00028" summary="TwoPointer 시간 복잡도">
+      <option name="closed" value="true" />
+      <created>1708610625993</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1708610625993</updated>
+    </task>
+    <task id="LOCAL-00029" summary="TwoPointer 시간 복잡도 refactoring">
+      <option name="closed" value="true" />
+      <created>1708610660185</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1708610660185</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -422,9 +439,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="insertionSort" />
-    <MESSAGE value="BinInsertionSort" />
-    <MESSAGE value="shellSort" />
     <MESSAGE value="QuickSort Refactoring" />
     <MESSAGE value="QuickSort2" />
     <MESSAGE value="보이어/ 무어법" />
@@ -447,6 +461,9 @@
     <MESSAGE value="체인법 Hash" />
     <MESSAGE value="체인법 해쉬" />
     <MESSAGE value="폰켓몬" />
-    <option name="LAST_COMMIT_MESSAGE" value="폰켓몬" />
+    <MESSAGE value="init commit" />
+    <MESSAGE value="TwoPointer 시간 복잡도" />
+    <MESSAGE value="TwoPointer 시간 복잡도 refactoring" />
+    <option name="LAST_COMMIT_MESSAGE" value="TwoPointer 시간 복잡도 refactoring" />
   </component>
 </project>
