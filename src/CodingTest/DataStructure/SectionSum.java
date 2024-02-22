@@ -1,4 +1,4 @@
-package Test.DataStructure;
+package CodingTest.DataStructure;
 
 import java.io.BufferedReader;
 import java.io.IOException;

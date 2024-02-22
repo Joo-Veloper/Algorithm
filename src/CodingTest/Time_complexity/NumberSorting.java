@@ -1,4 +1,4 @@
-package Test.Time_complexity;
+package CodingTest.Time_complexity;
 
 public class NumberSorting {
     // n

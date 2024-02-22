@@ -1,4 +1,4 @@
-package Test.Time_complexity;
+package CodingTest.Time_complexity;
 // 시간복잡도 O(n)
 public class timeComplexity {
     public static void main(String[] args) {
