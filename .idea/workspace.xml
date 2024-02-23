@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="ArithmeticOperation">
-      <change afterPath="$PROJECT_DIR$/src/BJ/LeapYear.java" afterDir="false" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="LeapYear">
+      <change afterPath="$PROJECT_DIR$/src/BJ/number_less_than_X.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -187,7 +187,7 @@
       <workItem from="1708431340978" duration="1112000" />
       <workItem from="1708490710258" duration="10243000" />
       <workItem from="1708560468643" duration="10631000" />
-      <workItem from="1708662591004" duration="1581000" />
+      <workItem from="1708662591004" duration="4010000" />
     </task>
     <task id="LOCAL-00001" summary="insertionSort">
       <option name="closed" value="true" />
@@ -437,7 +437,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708612353643</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="LeapYear">
+      <option name="closed" value="true" />
+      <created>1708665310755</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1708665310755</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -455,7 +463,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="보이어/ 무어법" />
     <MESSAGE value="Algorithm" />
     <MESSAGE value="Count Char" />
     <MESSAGE value="Count Strings" />
@@ -480,6 +487,7 @@
     <MESSAGE value="TwoPointer 시간 복잡도 refactoring" />
     <MESSAGE value="BJ basic" />
     <MESSAGE value="ArithmeticOperation" />
-    <option name="LAST_COMMIT_MESSAGE" value="ArithmeticOperation" />
+    <MESSAGE value="LeapYear" />
+    <option name="LAST_COMMIT_MESSAGE" value="LeapYear" />
   </component>
 </project>
