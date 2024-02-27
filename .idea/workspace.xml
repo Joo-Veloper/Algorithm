@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="LeapYear">
-      <change afterPath="$PROJECT_DIR$/src/BJ/number_less_than_X.java" afterDir="false" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="number_less_than">
+      <change afterPath="$PROJECT_DIR$/src/BJ/ox_quiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pg/KakaoInternship.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,22 +54,23 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/SeungJoo/Spring_Study/JooMart&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/SeungJoo/Spring_Study/JooMart",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Java",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\SeungJoo\Algorithm\Do Algorithm" />
@@ -187,7 +189,9 @@
       <workItem from="1708431340978" duration="1112000" />
       <workItem from="1708490710258" duration="10243000" />
       <workItem from="1708560468643" duration="10631000" />
-      <workItem from="1708662591004" duration="4010000" />
+      <workItem from="1708662591004" duration="6699000" />
+      <workItem from="1708958293184" duration="615000" />
+      <workItem from="1709036905831" duration="1894000" />
     </task>
     <task id="LOCAL-00001" summary="insertionSort">
       <option name="closed" value="true" />
@@ -445,7 +449,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708665310755</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="number_less_than">
+      <option name="closed" value="true" />
+      <created>1708668044469</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1708668044469</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -463,7 +475,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Algorithm" />
     <MESSAGE value="Count Char" />
     <MESSAGE value="Count Strings" />
     <MESSAGE value="LinkedList Node TEST" />
@@ -488,6 +499,7 @@
     <MESSAGE value="BJ basic" />
     <MESSAGE value="ArithmeticOperation" />
     <MESSAGE value="LeapYear" />
-    <option name="LAST_COMMIT_MESSAGE" value="LeapYear" />
+    <MESSAGE value="number_less_than" />
+    <option name="LAST_COMMIT_MESSAGE" value="number_less_than" />
   </component>
 </project>
