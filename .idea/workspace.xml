@@ -4,8 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="그리디 by Kakao">
-      <change afterPath="$PROJECT_DIR$/src/BJ/ox_quiz.java" afterDir="false" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="a doctor's random number">
+      <change afterPath="$PROJECT_DIR$/src/BJ/average.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Practice02/CardConv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Practice02/Copy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Practice02/Physical.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Practice02/ReverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Practice02/SumOf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Practice02/YMD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pg/OutBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pg/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pg/pcce/PCCE5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pg/pcce/PCCE6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -193,7 +203,27 @@
       <workItem from="1709036905831" duration="4339000" />
       <workItem from="1709095619865" duration="1557000" />
       <workItem from="1709134005229" duration="672000" />
-      <workItem from="1709171645659" duration="1439000" />
+      <workItem from="1709171645659" duration="6441000" />
+      <workItem from="1709199525465" duration="298000" />
+      <workItem from="1709199840967" duration="13000" />
+      <workItem from="1709462572327" duration="2376000" />
+      <workItem from="1709536819937" duration="881000" />
+      <workItem from="1709907956290" duration="3449000" />
+      <workItem from="1709965651347" duration="241000" />
+      <workItem from="1709969114248" duration="1272000" />
+      <workItem from="1710050992982" duration="3983000" />
+      <workItem from="1710120268329" duration="5056000" />
+      <workItem from="1710136356845" duration="6540000" />
+      <workItem from="1710203311163" duration="3311000" />
+      <workItem from="1710224485745" duration="1056000" />
+      <workItem from="1710464220088" duration="7319000" />
+      <workItem from="1710474853691" duration="15869000" />
+      <workItem from="1710569460465" duration="8054000" />
+      <workItem from="1710646120304" duration="5543000" />
+      <workItem from="1710739637755" duration="5309000" />
+      <workItem from="1710814219950" duration="597000" />
+      <workItem from="1710914479436" duration="598000" />
+      <workItem from="1711004227889" duration="6902000" />
     </task>
     <task id="LOCAL-00001" summary="insertionSort">
       <option name="closed" value="true" />
@@ -467,7 +497,127 @@
       <option name="project" value="LOCAL" />
       <updated>1709040396544</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="OX QUIZ">
+      <option name="closed" value="true" />
+      <created>1709173472809</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1709173472809</updated>
+    </task>
+    <task id="LOCAL-00036" summary="PCCE1">
+      <option name="closed" value="true" />
+      <created>1709969738518</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1709969738518</updated>
+    </task>
+    <task id="LOCAL-00037" summary="PCCE2">
+      <option name="closed" value="true" />
+      <created>1709969744320</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1709969744320</updated>
+    </task>
+    <task id="LOCAL-00038" summary="PCCE3">
+      <option name="closed" value="true" />
+      <created>1709969748999</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1709969748999</updated>
+    </task>
+    <task id="LOCAL-00039" summary="PCCE4">
+      <option name="closed" value="true" />
+      <created>1709969754291</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1709969754291</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Maximum value for your value">
+      <option name="closed" value="true" />
+      <created>1710468265681</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1710468265681</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Minimum value for three values">
+      <option name="closed" value="true" />
+      <created>1710468282944</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1710468282944</updated>
+    </task>
+    <task id="LOCAL-00042" summary="the minimum of four values">
+      <option name="closed" value="true" />
+      <created>1710469772654</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1710469772654</updated>
+    </task>
+    <task id="LOCAL-00043" summary="the relationship between the three values">
+      <option name="closed" value="true" />
+      <created>1710471547216</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1710471547216</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Refactoring">
+      <option name="closed" value="true" />
+      <created>1710475347527</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1710475347527</updated>
+    </task>
+    <task id="LOCAL-00045" summary="if 문의 판단">
+      <option name="closed" value="true" />
+      <created>1710494561619</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1710494561619</updated>
+    </task>
+    <task id="LOCAL-00046" summary="SumWhile">
+      <option name="closed" value="true" />
+      <created>1710494585523</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1710494585523</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Gauss 공식">
+      <option name="closed" value="true" />
+      <created>1710496500674</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1710496500674</updated>
+    </task>
+    <task id="LOCAL-00048" summary="practice">
+      <option name="closed" value="true" />
+      <created>1710577358426</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1710577358426</updated>
+    </task>
+    <task id="LOCAL-00049" summary="a doctor's random number">
+      <option name="closed" value="true" />
+      <created>1710658156395</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1710658156395</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -485,21 +635,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Count Strings" />
-    <MESSAGE value="LinkedList Node TEST" />
-    <MESSAGE value="String" />
-    <MESSAGE value="ArrayLInkedList" />
-    <MESSAGE value="NODE" />
-    <MESSAGE value="이중 연결 리스트" />
-    <MESSAGE value="선택, 머리 꼬리 노드 삽입" />
-    <MESSAGE value="선택, 머리 꼬리 노드 삭제" />
-    <MESSAGE value="연결 리스트 클래스" />
-    <MESSAGE value="Node" />
-    <MESSAGE value="add Node" />
-    <MESSAGE value="remove method" />
-    <MESSAGE value="Serve Tree Node 오름차순" />
-    <MESSAGE value="키 값의 Integer 클래스" />
-    <MESSAGE value="체인법 Hash" />
     <MESSAGE value="체인법 해쉬" />
     <MESSAGE value="폰켓몬" />
     <MESSAGE value="init commit" />
@@ -510,6 +645,21 @@
     <MESSAGE value="LeapYear" />
     <MESSAGE value="number_less_than" />
     <MESSAGE value="그리디 by Kakao" />
-    <option name="LAST_COMMIT_MESSAGE" value="그리디 by Kakao" />
+    <MESSAGE value="OX QUIZ" />
+    <MESSAGE value="PCCE1" />
+    <MESSAGE value="PCCE2" />
+    <MESSAGE value="PCCE3" />
+    <MESSAGE value="PCCE4" />
+    <MESSAGE value="Maximum value for your value" />
+    <MESSAGE value="Minimum value for three values" />
+    <MESSAGE value="the minimum of four values" />
+    <MESSAGE value="the relationship between the three values" />
+    <MESSAGE value="Refactoring" />
+    <MESSAGE value="if 문의 판단" />
+    <MESSAGE value="SumWhile" />
+    <MESSAGE value="Gauss 공식" />
+    <MESSAGE value="practice" />
+    <MESSAGE value="a doctor's random number" />
+    <option name="LAST_COMMIT_MESSAGE" value="a doctor's random number" />
   </component>
 </project>
