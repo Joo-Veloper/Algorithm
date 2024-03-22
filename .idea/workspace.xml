@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="Data structure Basic">
-      <change afterPath="$PROJECT_DIR$/src/PCC/RequiredGrammar/EarlyReturn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PCC/RequiredGrammar/Generic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PCC/RequiredGrammar/GuardClauses.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="보호 구문" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -216,31 +211,7 @@
       <workItem from="1710814219950" duration="597000" />
       <workItem from="1710914479436" duration="598000" />
       <workItem from="1711004227889" duration="7259000" />
-      <workItem from="1711112366013" duration="2627000" />
-    </task>
-    <task id="LOCAL-00002" summary="BinInsertionSort">
-      <option name="closed" value="true" />
-      <created>1703550522284</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1703550522284</updated>
-    </task>
-    <task id="LOCAL-00003" summary="shellSort">
-      <option name="closed" value="true" />
-      <created>1703551150697</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1703551150697</updated>
-    </task>
-    <task id="LOCAL-00004" summary="QuickSort Refactoring">
-      <option name="closed" value="true" />
-      <created>1703913419530</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1703913419530</updated>
+      <workItem from="1711112366013" duration="3107000" />
     </task>
     <task id="LOCAL-00005" summary="QuickSort2">
       <option name="closed" value="true" />
@@ -610,7 +581,31 @@
       <option name="project" value="LOCAL" />
       <updated>1711011686996</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="EarlyReturn">
+      <option name="closed" value="true" />
+      <created>1711115456213</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1711115456213</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Generic?">
+      <option name="closed" value="true" />
+      <created>1711115464964</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1711115464964</updated>
+    </task>
+    <task id="LOCAL-00053" summary="보호 구문">
+      <option name="closed" value="true" />
+      <created>1711115493046</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1711115493046</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -628,9 +623,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="폰켓몬" />
-    <MESSAGE value="init commit" />
-    <MESSAGE value="TwoPointer 시간 복잡도" />
     <MESSAGE value="TwoPointer 시간 복잡도 refactoring" />
     <MESSAGE value="BJ basic" />
     <MESSAGE value="ArithmeticOperation" />
@@ -653,6 +645,9 @@
     <MESSAGE value="practice" />
     <MESSAGE value="a doctor's random number" />
     <MESSAGE value="Data structure Basic" />
-    <option name="LAST_COMMIT_MESSAGE" value="Data structure Basic" />
+    <MESSAGE value="EarlyReturn" />
+    <MESSAGE value="Generic?" />
+    <MESSAGE value="보호 구문" />
+    <option name="LAST_COMMIT_MESSAGE" value="보호 구문" />
   </component>
 </project>
