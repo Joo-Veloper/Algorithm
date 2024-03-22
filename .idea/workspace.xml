@@ -4,18 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="a doctor's random number">
-      <change afterPath="$PROJECT_DIR$/src/BJ/average.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/Practice02/CardConv.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/Practice02/Copy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/Practice02/Physical.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/Practice02/ReverseArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/Practice02/SumOf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/Practice02/YMD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pg/OutBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pg/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pg/pcce/PCCE5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pg/pcce/PCCE6.java" afterDir="false" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="Data structure Basic">
+      <change afterPath="$PROJECT_DIR$/src/PCC/RequiredGrammar/EarlyReturn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PCC/RequiredGrammar/Generic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PCC/RequiredGrammar/GuardClauses.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -223,15 +215,8 @@
       <workItem from="1710739637755" duration="5309000" />
       <workItem from="1710814219950" duration="597000" />
       <workItem from="1710914479436" duration="598000" />
-      <workItem from="1711004227889" duration="6902000" />
-    </task>
-    <task id="LOCAL-00001" summary="insertionSort">
-      <option name="closed" value="true" />
-      <created>1703550513680</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1703550513680</updated>
+      <workItem from="1711004227889" duration="7259000" />
+      <workItem from="1711112366013" duration="2627000" />
     </task>
     <task id="LOCAL-00002" summary="BinInsertionSort">
       <option name="closed" value="true" />
@@ -617,7 +602,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710658156395</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="Data structure Basic">
+      <option name="closed" value="true" />
+      <created>1711011686996</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1711011686996</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -635,7 +628,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="체인법 해쉬" />
     <MESSAGE value="폰켓몬" />
     <MESSAGE value="init commit" />
     <MESSAGE value="TwoPointer 시간 복잡도" />
@@ -660,6 +652,7 @@
     <MESSAGE value="Gauss 공식" />
     <MESSAGE value="practice" />
     <MESSAGE value="a doctor's random number" />
-    <option name="LAST_COMMIT_MESSAGE" value="a doctor's random number" />
+    <MESSAGE value="Data structure Basic" />
+    <option name="LAST_COMMIT_MESSAGE" value="Data structure Basic" />
   </component>
 </project>
