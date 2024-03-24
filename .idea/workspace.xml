@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="보호 구문" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="Generic Update">
+      <change afterPath="$PROJECT_DIR$/src/PCC/RequiredGrammar/AbandonmentOfMathematics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PCC/RequiredGrammar/ArrayControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PCC/RequiredGrammar/ArrayON.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PCC/RequiredGrammar/ArraySort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PCC/RequiredGrammar/ArrayX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PCC/RequiredGrammar/JavaStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PCC/RequiredGrammar/TwoPickPlus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -211,15 +220,10 @@
       <workItem from="1710814219950" duration="597000" />
       <workItem from="1710914479436" duration="598000" />
       <workItem from="1711004227889" duration="7259000" />
-      <workItem from="1711112366013" duration="3107000" />
-    </task>
-    <task id="LOCAL-00005" summary="QuickSort2">
-      <option name="closed" value="true" />
-      <created>1703913427168</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1703913427168</updated>
+      <workItem from="1711112366013" duration="3946000" />
+      <workItem from="1711175037495" duration="3224000" />
+      <workItem from="1711196742069" duration="2000000" />
+      <workItem from="1711247774250" duration="9112000" />
     </task>
     <task id="LOCAL-00006" summary="보이어/ 무어법">
       <option name="closed" value="true" />
@@ -605,7 +609,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711115493046</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="Generic Update">
+      <option name="closed" value="true" />
+      <created>1711115581077</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1711115581087</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -623,7 +635,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="TwoPointer 시간 복잡도 refactoring" />
     <MESSAGE value="BJ basic" />
     <MESSAGE value="ArithmeticOperation" />
     <MESSAGE value="LeapYear" />
@@ -648,6 +659,7 @@
     <MESSAGE value="EarlyReturn" />
     <MESSAGE value="Generic?" />
     <MESSAGE value="보호 구문" />
-    <option name="LAST_COMMIT_MESSAGE" value="보호 구문" />
+    <MESSAGE value="Generic Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Generic Update" />
   </component>
 </project>
