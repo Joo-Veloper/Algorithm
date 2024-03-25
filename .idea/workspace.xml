@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="Refactoring">
-      <change afterPath="$PROJECT_DIR$/src/CodingTest/Pointer/TwoPointer.java" afterDir="false" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="Two Pointer Sudo">
+      <change afterPath="$PROJECT_DIR$/src/CodingTest/Pointer/Armor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -218,15 +218,8 @@
       <workItem from="1711175037495" duration="3224000" />
       <workItem from="1711196742069" duration="2000000" />
       <workItem from="1711247774250" duration="9752000" />
-      <workItem from="1711328199089" duration="6874000" />
-    </task>
-    <task id="LOCAL-00012" summary="String">
-      <option name="closed" value="true" />
-      <created>1707560386566</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1707560386566</updated>
+      <workItem from="1711328199089" duration="8991000" />
+      <workItem from="1711343302998" duration="1237000" />
     </task>
     <task id="LOCAL-00013" summary="ArrayLInkedList">
       <option name="closed" value="true" />
@@ -612,7 +605,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711334077612</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="Two Pointer Sudo">
+      <option name="closed" value="true" />
+      <created>1711335416311</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1711335416311</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -630,7 +631,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="OX QUIZ" />
     <MESSAGE value="PCCE1" />
     <MESSAGE value="PCCE2" />
     <MESSAGE value="PCCE3" />
@@ -655,6 +655,7 @@
     <MESSAGE value="Array - Algorithm" />
     <MESSAGE value="O(M + NlogN)" />
     <MESSAGE value="Refactoring" />
-    <option name="LAST_COMMIT_MESSAGE" value="Refactoring" />
+    <MESSAGE value="Two Pointer Sudo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Two Pointer Sudo" />
   </component>
 </project>
