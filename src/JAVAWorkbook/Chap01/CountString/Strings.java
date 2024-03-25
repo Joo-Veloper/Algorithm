@@ -1,4 +1,4 @@
-package Problem.Chap01.CountString;
+package JAVAWorkbook.Chap01.CountString;
 
 import java.util.*;
 import java.util.stream.Collectors;

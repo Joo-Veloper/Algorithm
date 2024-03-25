@@ -1,4 +1,4 @@
-package BJ;
+package BaekJ;
 
 public class HelloWorld {
     public static void main(String[] args) {

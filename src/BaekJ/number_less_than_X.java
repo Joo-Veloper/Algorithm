@@ -1,4 +1,4 @@
-package BJ;
+package BaekJ;
 import java.util.*;
 public class number_less_than_X {
     public static void main(String[] args) {

@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="Array - Algorithm">
-      <change afterPath="$PROJECT_DIR$/src/PCC/RequiredGrammar/Fail.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="O(M + NlogN)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -218,15 +215,7 @@
       <workItem from="1711175037495" duration="3224000" />
       <workItem from="1711196742069" duration="2000000" />
       <workItem from="1711247774250" duration="9752000" />
-      <workItem from="1711328199089" duration="5243000" />
-    </task>
-    <task id="LOCAL-00010" summary="Count Strings">
-      <option name="closed" value="true" />
-      <created>1707219123066</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1707219123066</updated>
+      <workItem from="1711328199089" duration="5592000" />
     </task>
     <task id="LOCAL-00011" summary="LinkedList Node TEST">
       <option name="closed" value="true" />
@@ -612,7 +601,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711269768677</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="O(M + NlogN)">
+      <option name="closed" value="true" />
+      <created>1711333683191</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1711333683191</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -630,7 +627,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="그리디 by Kakao" />
     <MESSAGE value="OX QUIZ" />
     <MESSAGE value="PCCE1" />
     <MESSAGE value="PCCE2" />
@@ -655,6 +651,7 @@
     <MESSAGE value="Stream -&gt; data flow" />
     <MESSAGE value="O(NlogN)" />
     <MESSAGE value="Array - Algorithm" />
-    <option name="LAST_COMMIT_MESSAGE" value="Array - Algorithm" />
+    <MESSAGE value="O(M + NlogN)" />
+    <option name="LAST_COMMIT_MESSAGE" value="O(M + NlogN)" />
   </component>
 </project>
