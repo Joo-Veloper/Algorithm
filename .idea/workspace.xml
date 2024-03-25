@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="Generic Update">
-      <change afterPath="$PROJECT_DIR$/src/PCC/RequiredGrammar/AbandonmentOfMathematics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PCC/RequiredGrammar/ArrayControl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PCC/RequiredGrammar/ArrayON.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PCC/RequiredGrammar/ArraySort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PCC/RequiredGrammar/ArrayX.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PCC/RequiredGrammar/JavaStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PCC/RequiredGrammar/TwoPickPlus.java" afterDir="false" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="Array - Algorithm">
+      <change afterPath="$PROJECT_DIR$/src/PCC/RequiredGrammar/Fail.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -223,39 +217,8 @@
       <workItem from="1711112366013" duration="3946000" />
       <workItem from="1711175037495" duration="3224000" />
       <workItem from="1711196742069" duration="2000000" />
-      <workItem from="1711247774250" duration="9112000" />
-    </task>
-    <task id="LOCAL-00006" summary="보이어/ 무어법">
-      <option name="closed" value="true" />
-      <created>1707121831530</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1707121831530</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Algorithm">
-      <option name="closed" value="true" />
-      <created>1707131798070</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1707131798070</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Algorithm">
-      <option name="closed" value="true" />
-      <created>1707131809810</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1707131809810</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Count Char">
-      <option name="closed" value="true" />
-      <created>1707218342982</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1707218342982</updated>
+      <workItem from="1711247774250" duration="9752000" />
+      <workItem from="1711328199089" duration="5243000" />
     </task>
     <task id="LOCAL-00010" summary="Count Strings">
       <option name="closed" value="true" />
@@ -617,7 +580,39 @@
       <option name="project" value="LOCAL" />
       <updated>1711115581087</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="시간복잡도 o(b^3)">
+      <option name="closed" value="true" />
+      <created>1711269684456</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1711269684457</updated>
+    </task>
+    <task id="LOCAL-00056" summary="Stream -&gt; data flow">
+      <option name="closed" value="true" />
+      <created>1711269701922</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1711269701922</updated>
+    </task>
+    <task id="LOCAL-00057" summary="O(NlogN)">
+      <option name="closed" value="true" />
+      <created>1711269720805</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1711269720805</updated>
+    </task>
+    <task id="LOCAL-00058" summary="Array - Algorithm">
+      <option name="closed" value="true" />
+      <created>1711269768677</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1711269768677</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -635,10 +630,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="BJ basic" />
-    <MESSAGE value="ArithmeticOperation" />
-    <MESSAGE value="LeapYear" />
-    <MESSAGE value="number_less_than" />
     <MESSAGE value="그리디 by Kakao" />
     <MESSAGE value="OX QUIZ" />
     <MESSAGE value="PCCE1" />
@@ -660,6 +651,10 @@
     <MESSAGE value="Generic?" />
     <MESSAGE value="보호 구문" />
     <MESSAGE value="Generic Update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Generic Update" />
+    <MESSAGE value="시간복잡도 o(b^3)" />
+    <MESSAGE value="Stream -&gt; data flow" />
+    <MESSAGE value="O(NlogN)" />
+    <MESSAGE value="Array - Algorithm" />
+    <option name="LAST_COMMIT_MESSAGE" value="Array - Algorithm" />
   </component>
 </project>
