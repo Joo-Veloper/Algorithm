@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="Two Pointer Sudo">
-      <change afterPath="$PROJECT_DIR$/src/CodingTest/Pointer/Armor.java" afterDir="false" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="Armor maker">
+      <change afterPath="$PROJECT_DIR$/src/CodingTest/DataStructure/GoodNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodingTest/Pointer/Armor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingTest/DataStructure/Pointer/Armor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodingTest/Pointer/TwoPointer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingTest/DataStructure/Pointer/TwoPointer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -219,15 +221,8 @@
       <workItem from="1711196742069" duration="2000000" />
       <workItem from="1711247774250" duration="9752000" />
       <workItem from="1711328199089" duration="8991000" />
-      <workItem from="1711343302998" duration="1237000" />
-    </task>
-    <task id="LOCAL-00013" summary="ArrayLInkedList">
-      <option name="closed" value="true" />
-      <created>1707560398914</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1707560398914</updated>
+      <workItem from="1711343302998" duration="1259000" />
+      <workItem from="1711419726423" duration="3399000" />
     </task>
     <task id="LOCAL-00014" summary="NODE">
       <option name="closed" value="true" />
@@ -613,7 +608,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711335416311</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="Armor maker">
+      <option name="closed" value="true" />
+      <created>1711350814148</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1711350814148</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -631,7 +634,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="PCCE1" />
     <MESSAGE value="PCCE2" />
     <MESSAGE value="PCCE3" />
     <MESSAGE value="PCCE4" />
@@ -656,6 +658,23 @@
     <MESSAGE value="O(M + NlogN)" />
     <MESSAGE value="Refactoring" />
     <MESSAGE value="Two Pointer Sudo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Two Pointer Sudo" />
+    <MESSAGE value="Armor maker" />
+    <option name="LAST_COMMIT_MESSAGE" value="Armor maker" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CodingTest/DataStructure/GoodNumber.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CodingTest/DataStructure/GoodNumber.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

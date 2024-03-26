@@ -1,4 +1,4 @@
-package CodingTest.Pointer;
+package CodingTest.DataStructure.Pointer;
 
 import java.util.*;
 
