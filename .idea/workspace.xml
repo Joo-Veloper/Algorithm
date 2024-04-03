@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="방문자 길이">
-      <change afterPath="$PROJECT_DIR$/src/CodingTest/DataStructure/SlidingWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodingTest/DataStructure/Pointer/TEst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodingTest/DataStructure/StackArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -225,15 +226,11 @@
       <workItem from="1711636571801" duration="2473000" />
       <workItem from="1711672294028" duration="1829000" />
       <workItem from="1711701395419" duration="3332000" />
-      <workItem from="1712054002503" duration="2331000" />
-    </task>
-    <task id="LOCAL-00018" summary="연결 리스트 클래스">
-      <option name="closed" value="true" />
-      <created>1707823393397</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1707823393397</updated>
+      <workItem from="1712054002503" duration="4287000" />
+      <workItem from="1712107207566" duration="19000" />
+      <workItem from="1712107496689" duration="265000" />
+      <workItem from="1712133948954" duration="854000" />
+      <workItem from="1712139164447" duration="3028000" />
     </task>
     <task id="LOCAL-00019" summary="Node">
       <option name="closed" value="true" />
@@ -619,7 +616,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711638754726</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="방문자 길이">
+      <option name="closed" value="true" />
+      <created>1712058521285</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1712058521285</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
