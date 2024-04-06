@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="Stack PUSH POP">
-      <change afterPath="$PROJECT_DIR$/src/PCC/RequiredGrammar/VisitArray.java" afterDir="false" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="방문자 길이">
+      <change afterPath="$PROJECT_DIR$/src/PCC/Stack/NumChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PCC/Stack/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJ/average.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekJ/average.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -233,23 +233,11 @@
       <workItem from="1712139164447" duration="3687000" />
       <workItem from="1712208985400" duration="1395000" />
       <workItem from="1712219474257" duration="1534000" />
-      <workItem from="1712226782636" duration="4230000" />
-    </task>
-    <task id="LOCAL-00020" summary="add Node">
-      <option name="closed" value="true" />
-      <created>1707873617378</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1707873617378</updated>
-    </task>
-    <task id="LOCAL-00021" summary="remove method">
-      <option name="closed" value="true" />
-      <created>1707875260059</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1707875260059</updated>
+      <workItem from="1712226782636" duration="5941000" />
+      <workItem from="1712301449019" duration="188000" />
+      <workItem from="1712307884894" duration="933000" />
+      <workItem from="1712326262499" duration="1126000" />
+      <workItem from="1712390592095" duration="4283000" />
     </task>
     <task id="LOCAL-00022" summary="Serve Tree Node 오름차순">
       <option name="closed" value="true" />
@@ -627,7 +615,23 @@
       <option name="project" value="LOCAL" />
       <updated>1712143735919</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="average">
+      <option name="closed" value="true" />
+      <created>1712231236094</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1712231236095</updated>
+    </task>
+    <task id="LOCAL-00070" summary="방문자 길이">
+      <option name="closed" value="true" />
+      <created>1712231249250</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1712231249250</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -645,7 +649,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Minimum value for three values" />
     <MESSAGE value="the minimum of four values" />
     <MESSAGE value="the relationship between the three values" />
     <MESSAGE value="if 문의 판단" />
@@ -668,39 +671,9 @@
     <MESSAGE value="Refactoring" />
     <MESSAGE value="find Good Number" />
     <MESSAGE value="Stack Basic" />
-    <MESSAGE value="방문자 길이" />
     <MESSAGE value="Stack PUSH POP" />
-    <option name="LAST_COMMIT_MESSAGE" value="Stack PUSH POP" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/BaekJ/average.java</url>
-          <line>27</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/BaekJ/average.java</url>
-          <line>32</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/BaekJ/average.java</url>
-          <line>36</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/BaekJ/average.java</url>
-          <line>35</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/BaekJ/average.java</url>
-          <line>40</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="average" />
+    <MESSAGE value="방문자 길이" />
+    <option name="LAST_COMMIT_MESSAGE" value="방문자 길이" />
   </component>
 </project>
