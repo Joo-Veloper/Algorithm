@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="STACK - ParenthesesSpin">
-      <change afterPath="$PROJECT_DIR$/src/PCC/Stack/Test.java" afterDir="false" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="XML">
+      <change afterPath="$PROJECT_DIR$/src/PCC/Stack/RemoveSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -235,15 +236,9 @@
       <workItem from="1712301449019" duration="188000" />
       <workItem from="1712307884894" duration="933000" />
       <workItem from="1712326262499" duration="1126000" />
-      <workItem from="1712390592095" duration="10633000" />
-    </task>
-    <task id="LOCAL-00024" summary="체인법 Hash">
-      <option name="closed" value="true" />
-      <created>1707964027001</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1707964027001</updated>
+      <workItem from="1712390592095" duration="10701000" />
+      <workItem from="1712406352295" duration="539000" />
+      <workItem from="1712470311753" duration="3547000" />
     </task>
     <task id="LOCAL-00025" summary="체인법 해쉬">
       <option name="closed" value="true" />
@@ -629,7 +624,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712406190216</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="XML">
+      <option name="closed" value="true" />
+      <created>1712406285928</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1712406285928</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -647,7 +650,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="if 문의 판단" />
     <MESSAGE value="SumWhile" />
     <MESSAGE value="Gauss 공식" />
     <MESSAGE value="practice" />
@@ -672,6 +674,7 @@
     <MESSAGE value="방문자 길이" />
     <MESSAGE value="10 change 2" />
     <MESSAGE value="STACK - ParenthesesSpin" />
-    <option name="LAST_COMMIT_MESSAGE" value="STACK - ParenthesesSpin" />
+    <MESSAGE value="XML" />
+    <option name="LAST_COMMIT_MESSAGE" value="XML" />
   </component>
 </project>
