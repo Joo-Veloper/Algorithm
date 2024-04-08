@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="XML">
-      <change afterPath="$PROJECT_DIR$/src/PCC/Stack/RemoveSet.java" afterDir="false" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="Stack Remove">
+      <change afterPath="$PROJECT_DIR$/src/PCC/Stack/Calculate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PCC/Stack/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -238,23 +239,10 @@
       <workItem from="1712326262499" duration="1126000" />
       <workItem from="1712390592095" duration="10701000" />
       <workItem from="1712406352295" duration="539000" />
-      <workItem from="1712470311753" duration="3547000" />
-    </task>
-    <task id="LOCAL-00025" summary="체인법 해쉬">
-      <option name="closed" value="true" />
-      <created>1708065112393</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1708065112393</updated>
-    </task>
-    <task id="LOCAL-00026" summary="폰켓몬">
-      <option name="closed" value="true" />
-      <created>1708431742465</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1708431742465</updated>
+      <workItem from="1712470311753" duration="4569000" />
+      <workItem from="1712475441522" duration="1084000" />
+      <workItem from="1712483506124" duration="11000" />
+      <workItem from="1712577683482" duration="2405000" />
     </task>
     <task id="LOCAL-00027" summary="init commit">
       <option name="closed" value="true" />
@@ -632,7 +620,23 @@
       <option name="project" value="LOCAL" />
       <updated>1712406285928</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="Stack Remove">
+      <option name="closed" value="true" />
+      <created>1712474149214</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1712474149214</updated>
+    </task>
+    <task id="LOCAL-00075" summary="Stack Remove">
+      <option name="closed" value="true" />
+      <created>1712474346136</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1712474346136</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -650,7 +654,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="SumWhile" />
     <MESSAGE value="Gauss 공식" />
     <MESSAGE value="practice" />
     <MESSAGE value="a doctor's random number" />
@@ -675,6 +678,7 @@
     <MESSAGE value="10 change 2" />
     <MESSAGE value="STACK - ParenthesesSpin" />
     <MESSAGE value="XML" />
-    <option name="LAST_COMMIT_MESSAGE" value="XML" />
+    <MESSAGE value="Stack Remove" />
+    <option name="LAST_COMMIT_MESSAGE" value="Stack Remove" />
   </component>
 </project>
