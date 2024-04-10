@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="Stack Remove">
-      <change afterPath="$PROJECT_DIR$/src/PCC/Stack/Calculate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PCC/Stack/Test.java" afterDir="false" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="stock price">
+      <change afterPath="$PROJECT_DIR$/src/PCC/Stack/ClawMachineGame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -242,15 +241,11 @@
       <workItem from="1712470311753" duration="4569000" />
       <workItem from="1712475441522" duration="1084000" />
       <workItem from="1712483506124" duration="11000" />
-      <workItem from="1712577683482" duration="2405000" />
-    </task>
-    <task id="LOCAL-00027" summary="init commit">
-      <option name="closed" value="true" />
-      <created>1708610608894</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1708610608895</updated>
+      <workItem from="1712577683482" duration="7052000" />
+      <workItem from="1712634254441" duration="598000" />
+      <workItem from="1712668416988" duration="4942000" />
+      <workItem from="1712726823796" duration="46000" />
+      <workItem from="1712750057204" duration="306000" />
     </task>
     <task id="LOCAL-00028" summary="TwoPointer 시간 복잡도">
       <option name="closed" value="true" />
@@ -636,7 +631,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712474346136</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="stock price">
+      <option name="closed" value="true" />
+      <created>1712580364536</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1712580364536</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -654,7 +657,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Gauss 공식" />
     <MESSAGE value="practice" />
     <MESSAGE value="a doctor's random number" />
     <MESSAGE value="Data structure Basic" />
@@ -679,6 +681,7 @@
     <MESSAGE value="STACK - ParenthesesSpin" />
     <MESSAGE value="XML" />
     <MESSAGE value="Stack Remove" />
-    <option name="LAST_COMMIT_MESSAGE" value="Stack Remove" />
+    <MESSAGE value="stock price" />
+    <option name="LAST_COMMIT_MESSAGE" value="stock price" />
   </component>
 </project>
