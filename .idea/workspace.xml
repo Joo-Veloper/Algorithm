@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="BigNumber">
+      <change afterPath="$PROJECT_DIR$/src/CodingTest/DataStructure/CardGame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -245,14 +246,6 @@
       <workItem from="1712668416988" duration="4942000" />
       <workItem from="1712726823796" duration="46000" />
       <workItem from="1712750057204" duration="306000" />
-    </task>
-    <task id="LOCAL-00028" summary="TwoPointer 시간 복잡도">
-      <option name="closed" value="true" />
-      <created>1708610625993</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1708610625993</updated>
     </task>
     <task id="LOCAL-00029" summary="TwoPointer 시간 복잡도 refactoring">
       <option name="closed" value="true" />
@@ -638,7 +631,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712580364536</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="BigNumber">
+      <option name="closed" value="true" />
+      <created>1712926343718</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1712926343718</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -656,7 +657,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="practice" />
     <MESSAGE value="a doctor's random number" />
     <MESSAGE value="Data structure Basic" />
     <MESSAGE value="EarlyReturn" />
@@ -681,6 +681,7 @@
     <MESSAGE value="XML" />
     <MESSAGE value="Stack Remove" />
     <MESSAGE value="stock price" />
-    <option name="LAST_COMMIT_MESSAGE" value="stock price" />
+    <MESSAGE value="BigNumber" />
+    <option name="LAST_COMMIT_MESSAGE" value="BigNumber" />
   </component>
 </project>
