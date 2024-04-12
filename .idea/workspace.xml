@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="stock price">
-      <change afterPath="$PROJECT_DIR$/src/PCC/Stack/ClawMachineGame.java" afterDir="false" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="Crane claw machine game">
+      <change afterPath="$PROJECT_DIR$/src/CodingTest/DataStructure/BigInt.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -245,15 +245,11 @@
       <workItem from="1712634254441" duration="598000" />
       <workItem from="1712668416988" duration="4942000" />
       <workItem from="1712726823796" duration="46000" />
-      <workItem from="1712750057204" duration="306000" />
-    </task>
-    <task id="LOCAL-00028" summary="TwoPointer 시간 복잡도">
-      <option name="closed" value="true" />
-      <created>1708610625993</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1708610625993</updated>
+      <workItem from="1712750057204" duration="358000" />
+      <workItem from="1712813426019" duration="142000" />
+      <workItem from="1712842411562" duration="3072000" />
+      <workItem from="1712894810021" duration="616000" />
+      <workItem from="1712910599943" duration="3746000" />
     </task>
     <task id="LOCAL-00029" summary="TwoPointer 시간 복잡도 refactoring">
       <option name="closed" value="true" />
@@ -639,7 +635,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712580364536</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="Crane claw machine game">
+      <option name="closed" value="true" />
+      <created>1712750388098</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1712750388098</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -657,7 +661,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="practice" />
     <MESSAGE value="a doctor's random number" />
     <MESSAGE value="Data structure Basic" />
     <MESSAGE value="EarlyReturn" />
@@ -682,6 +685,7 @@
     <MESSAGE value="XML" />
     <MESSAGE value="Stack Remove" />
     <MESSAGE value="stock price" />
-    <option name="LAST_COMMIT_MESSAGE" value="stock price" />
+    <MESSAGE value="Crane claw machine game" />
+    <option name="LAST_COMMIT_MESSAGE" value="Crane claw machine game" />
   </component>
 </project>
