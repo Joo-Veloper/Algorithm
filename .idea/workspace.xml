@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="BigNumber">
-      <change afterPath="$PROJECT_DIR$/src/CodingTest/DataStructure/CardGame.java" afterDir="false" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="CardGame">
+      <change afterPath="$PROJECT_DIR$/src/CodingTest/DataStructure/Heap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -246,14 +246,8 @@
       <workItem from="1712668416988" duration="4942000" />
       <workItem from="1712726823796" duration="46000" />
       <workItem from="1712750057204" duration="306000" />
-    </task>
-    <task id="LOCAL-00029" summary="TwoPointer 시간 복잡도 refactoring">
-      <option name="closed" value="true" />
-      <created>1708610660185</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1708610660185</updated>
+      <workItem from="1712928287912" duration="3491000" />
+      <workItem from="1712984050380" duration="2588000" />
     </task>
     <task id="LOCAL-00030" summary="BJ basic">
       <option name="closed" value="true" />
@@ -639,7 +633,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712926343718</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="CardGame">
+      <option name="closed" value="true" />
+      <created>1712927923103</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1712927923103</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -657,7 +659,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="a doctor's random number" />
     <MESSAGE value="Data structure Basic" />
     <MESSAGE value="EarlyReturn" />
     <MESSAGE value="Generic?" />
@@ -682,6 +683,7 @@
     <MESSAGE value="Stack Remove" />
     <MESSAGE value="stock price" />
     <MESSAGE value="BigNumber" />
-    <option name="LAST_COMMIT_MESSAGE" value="BigNumber" />
+    <MESSAGE value="CardGame" />
+    <option name="LAST_COMMIT_MESSAGE" value="CardGame" />
   </component>
 </project>
