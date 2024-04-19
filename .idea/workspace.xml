@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="ReverseWord">
-      <change afterPath="$PROJECT_DIR$/src/PCC/Hash/HashM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PCC/Hash/TwoNumber.java" afterDir="false" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="Create a specific value with two numbers">
+      <change afterPath="$PROJECT_DIR$/src/PCC/Queue/Develop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -251,23 +250,9 @@
       <workItem from="1712984050380" duration="6244000" />
       <workItem from="1713017078981" duration="7000" />
       <workItem from="1713063683037" duration="6106000" />
-      <workItem from="1713093675119" duration="3021000" />
-    </task>
-    <task id="LOCAL-00034" summary="그리디 by Kakao">
-      <option name="closed" value="true" />
-      <created>1709040396544</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1709040396544</updated>
-    </task>
-    <task id="LOCAL-00035" summary="OX QUIZ">
-      <option name="closed" value="true" />
-      <created>1709173472809</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1709173472809</updated>
+      <workItem from="1713093675119" duration="3912000" />
+      <workItem from="1713150650603" duration="1419000" />
+      <workItem from="1713527299570" duration="2437000" />
     </task>
     <task id="LOCAL-00036" summary="PCCE1">
       <option name="closed" value="true" />
@@ -645,7 +630,23 @@
       <option name="project" value="LOCAL" />
       <updated>1713073336775</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="Hash">
+      <option name="closed" value="true" />
+      <created>1713096952976</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1713096952976</updated>
+    </task>
+    <task id="LOCAL-00084" summary="Create a specific value with two numbers">
+      <option name="closed" value="true" />
+      <created>1713096994063</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1713096994063</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -663,8 +664,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Generic Update" />
-    <MESSAGE value="시간복잡도 o(b^3)" />
     <MESSAGE value="Stream -&gt; data flow" />
     <MESSAGE value="O(NlogN)" />
     <MESSAGE value="Array - Algorithm" />
@@ -688,6 +687,8 @@
     <MESSAGE value="JosephusProblem" />
     <MESSAGE value="FindCharacters" />
     <MESSAGE value="ReverseWord" />
-    <option name="LAST_COMMIT_MESSAGE" value="ReverseWord" />
+    <MESSAGE value="Hash" />
+    <MESSAGE value="Create a specific value with two numbers" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create a specific value with two numbers" />
   </component>
 </project>
