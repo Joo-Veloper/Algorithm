@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="Functional development">
-      <change afterPath="$PROJECT_DIR$/src/PCC/Queue/BunchOfCards.java" afterDir="false" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="BunchOfCards">
+      <change afterPath="$PROJECT_DIR$/src/PCC/Hash/AnUnsuccessfulRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PCC/Hash/Runner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -254,15 +255,12 @@
       <workItem from="1713150650603" duration="1419000" />
       <workItem from="1713527299570" duration="3215000" />
       <workItem from="1713587927905" duration="2255000" />
-      <workItem from="1713705295455" duration="730000" />
-    </task>
-    <task id="LOCAL-00037" summary="PCCE2">
-      <option name="closed" value="true" />
-      <created>1709969744320</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1709969744320</updated>
+      <workItem from="1713705295455" duration="998000" />
+      <workItem from="1713711969501" duration="726000" />
+      <workItem from="1713776159393" duration="242000" />
+      <workItem from="1713796468595" duration="2024000" />
+      <workItem from="1713848156290" duration="258000" />
+      <workItem from="1714044185452" duration="1318000" />
     </task>
     <task id="LOCAL-00038" summary="PCCE3">
       <option name="closed" value="true" />
@@ -648,7 +646,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713530100223</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="BunchOfCards">
+      <option name="closed" value="true" />
+      <created>1713706089982</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1713706089982</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -666,7 +672,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="O(NlogN)" />
     <MESSAGE value="Array - Algorithm" />
     <MESSAGE value="O(M + NlogN)" />
     <MESSAGE value="Two Pointer Sudo" />
@@ -691,6 +696,7 @@
     <MESSAGE value="Hash" />
     <MESSAGE value="Create a specific value with two numbers" />
     <MESSAGE value="Functional development" />
-    <option name="LAST_COMMIT_MESSAGE" value="Functional development" />
+    <MESSAGE value="BunchOfCards" />
+    <option name="LAST_COMMIT_MESSAGE" value="BunchOfCards" />
   </component>
 </project>
