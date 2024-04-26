@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="BunchOfCards">
-      <change afterPath="$PROJECT_DIR$/src/PCC/Hash/AnUnsuccessfulRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PCC/Hash/Runner.java" afterDir="false" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="완주하지 못한 선수">
+      <change afterPath="$PROJECT_DIR$/src/PCC/Hash/Mart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -260,23 +260,8 @@
       <workItem from="1713776159393" duration="242000" />
       <workItem from="1713796468595" duration="2024000" />
       <workItem from="1713848156290" duration="258000" />
-      <workItem from="1714044185452" duration="1318000" />
-    </task>
-    <task id="LOCAL-00038" summary="PCCE3">
-      <option name="closed" value="true" />
-      <created>1709969748999</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1709969748999</updated>
-    </task>
-    <task id="LOCAL-00039" summary="PCCE4">
-      <option name="closed" value="true" />
-      <created>1709969754291</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1709969754291</updated>
+      <workItem from="1714044185452" duration="9151000" />
+      <workItem from="1714097099448" duration="835000" />
     </task>
     <task id="LOCAL-00040" summary="Maximum value for your value">
       <option name="closed" value="true" />
@@ -654,7 +639,23 @@
       <option name="project" value="LOCAL" />
       <updated>1713706089982</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="AnUnsuccessfulRunner">
+      <option name="closed" value="true" />
+      <created>1714045567845</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1714045567845</updated>
+    </task>
+    <task id="LOCAL-00088" summary="완주하지 못한 선수">
+      <option name="closed" value="true" />
+      <created>1714045578496</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1714045578496</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -672,8 +673,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Array - Algorithm" />
-    <MESSAGE value="O(M + NlogN)" />
     <MESSAGE value="Two Pointer Sudo" />
     <MESSAGE value="Armor maker" />
     <MESSAGE value="Refactoring" />
@@ -697,6 +696,8 @@
     <MESSAGE value="Create a specific value with two numbers" />
     <MESSAGE value="Functional development" />
     <MESSAGE value="BunchOfCards" />
-    <option name="LAST_COMMIT_MESSAGE" value="BunchOfCards" />
+    <MESSAGE value="AnUnsuccessfulRunner" />
+    <MESSAGE value="완주하지 못한 선수" />
+    <option name="LAST_COMMIT_MESSAGE" value="완주하지 못한 선수" />
   </component>
 </project>
