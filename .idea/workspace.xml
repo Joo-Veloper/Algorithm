@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="BubbleSort">
-      <change afterPath="$PROJECT_DIR$/src/CodingTest/Sort/BubbleSort.java" afterDir="false" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="BubbleSortProgram">
       <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -263,15 +262,8 @@
       <workItem from="1714044185452" duration="9151000" />
       <workItem from="1714097099448" duration="835000" />
       <workItem from="1714132499550" duration="4585000" />
-      <workItem from="1714202926528" duration="2311000" />
-    </task>
-    <task id="LOCAL-00042" summary="the minimum of four values">
-      <option name="closed" value="true" />
-      <created>1710469772654</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1710469772654</updated>
+      <workItem from="1714202926528" duration="3392000" />
+      <workItem from="1714272267625" duration="1090000" />
     </task>
     <task id="LOCAL-00043" summary="the relationship between the three values">
       <option name="closed" value="true" />
@@ -657,7 +649,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714134427756</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="BubbleSortProgram">
+      <option name="closed" value="true" />
+      <created>1714209521681</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1714209521681</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -675,7 +675,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Refactoring" />
     <MESSAGE value="find Good Number" />
     <MESSAGE value="Stack Basic" />
     <MESSAGE value="Stack PUSH POP" />
@@ -700,6 +699,7 @@
     <MESSAGE value="완주하지 못한 선수" />
     <MESSAGE value="Mart HashAlgorithm" />
     <MESSAGE value="BubbleSort" />
-    <option name="LAST_COMMIT_MESSAGE" value="BubbleSort" />
+    <MESSAGE value="BubbleSortProgram" />
+    <option name="LAST_COMMIT_MESSAGE" value="BubbleSortProgram" />
   </component>
 </project>
