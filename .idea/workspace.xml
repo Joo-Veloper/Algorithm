@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="BubbleSortProgram">
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="Menu Renewal">
+      <change afterPath="$PROJECT_DIR$/src/CodingTest/Sort/ATM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PCC/Tree/TreeCircuit.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -263,55 +265,17 @@
       <workItem from="1714097099448" duration="835000" />
       <workItem from="1714132499550" duration="4585000" />
       <workItem from="1714202926528" duration="3392000" />
-      <workItem from="1714272267625" duration="1090000" />
-    </task>
-    <task id="LOCAL-00043" summary="the relationship between the three values">
-      <option name="closed" value="true" />
-      <created>1710471547216</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1710471547216</updated>
-    </task>
-    <task id="LOCAL-00044" summary="Refactoring">
-      <option name="closed" value="true" />
-      <created>1710475347527</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1710475347527</updated>
-    </task>
-    <task id="LOCAL-00045" summary="if 문의 판단">
-      <option name="closed" value="true" />
-      <created>1710494561619</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1710494561619</updated>
-    </task>
-    <task id="LOCAL-00046" summary="SumWhile">
-      <option name="closed" value="true" />
-      <created>1710494585523</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1710494585523</updated>
-    </task>
-    <task id="LOCAL-00047" summary="Gauss 공식">
-      <option name="closed" value="true" />
-      <created>1710496500674</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1710496500674</updated>
-    </task>
-    <task id="LOCAL-00048" summary="practice">
-      <option name="closed" value="true" />
-      <created>1710577358426</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1710577358426</updated>
+      <workItem from="1714272267625" duration="7841000" />
+      <workItem from="1714297374968" duration="5875000" />
+      <workItem from="1714373063178" duration="4423000" />
+      <workItem from="1714399515186" duration="2024000" />
+      <workItem from="1714486983875" duration="3611000" />
+      <workItem from="1714543488306" duration="1402000" />
+      <workItem from="1714569163241" duration="607000" />
+      <workItem from="1714649969799" duration="17000" />
+      <workItem from="1714657062227" duration="5896000" />
+      <workItem from="1714716793684" duration="185000" />
+      <workItem from="1714735641729" duration="7449000" />
     </task>
     <task id="LOCAL-00049" summary="a doctor's random number">
       <option name="closed" value="true" />
@@ -657,7 +621,55 @@
       <option name="project" value="LOCAL" />
       <updated>1714209521681</updated>
     </task>
-    <option name="localTasksCounter" value="92" />
+    <task id="LOCAL-00092" summary="SelectSort">
+      <option name="closed" value="true" />
+      <created>1714282382191</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1714282382191</updated>
+    </task>
+    <task id="LOCAL-00093" summary="SelectSort 설명추가">
+      <option name="closed" value="true" />
+      <created>1714282722135</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1714282722135</updated>
+    </task>
+    <task id="LOCAL-00094" summary="OpenChat">
+      <option name="closed" value="true" />
+      <created>1714313564238</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1714313564238</updated>
+    </task>
+    <task id="LOCAL-00095" summary="Best Album">
+      <option name="closed" value="true" />
+      <created>1714488389023</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1714488389024</updated>
+    </task>
+    <task id="LOCAL-00096" summary="Report">
+      <option name="closed" value="true" />
+      <created>1714658674176</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1714658674176</updated>
+    </task>
+    <task id="LOCAL-00097" summary="Menu Renewal">
+      <option name="closed" value="true" />
+      <created>1714662421665</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1714662421665</updated>
+    </task>
+    <option name="localTasksCounter" value="98" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -675,12 +687,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="find Good Number" />
-    <MESSAGE value="Stack Basic" />
-    <MESSAGE value="Stack PUSH POP" />
-    <MESSAGE value="average" />
-    <MESSAGE value="방문자 길이" />
-    <MESSAGE value="10 change 2" />
     <MESSAGE value="STACK - ParenthesesSpin" />
     <MESSAGE value="XML" />
     <MESSAGE value="Stack Remove" />
@@ -700,6 +706,12 @@
     <MESSAGE value="Mart HashAlgorithm" />
     <MESSAGE value="BubbleSort" />
     <MESSAGE value="BubbleSortProgram" />
-    <option name="LAST_COMMIT_MESSAGE" value="BubbleSortProgram" />
+    <MESSAGE value="SelectSort" />
+    <MESSAGE value="SelectSort 설명추가" />
+    <MESSAGE value="OpenChat" />
+    <MESSAGE value="Best Album" />
+    <MESSAGE value="Report" />
+    <MESSAGE value="Menu Renewal" />
+    <option name="LAST_COMMIT_MESSAGE" value="Menu Renewal" />
   </component>
 </project>
