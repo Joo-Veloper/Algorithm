@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="Menu Renewal">
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="an expected list of matches">
       <change afterPath="$PROJECT_DIR$/src/CodingTest/Sort/ATM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PCC/Tree/TreeCircuit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PCC/Tree/MultiToothbrush.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -275,31 +274,8 @@
       <workItem from="1714649969799" duration="17000" />
       <workItem from="1714657062227" duration="5896000" />
       <workItem from="1714716793684" duration="185000" />
-      <workItem from="1714735641729" duration="7449000" />
-    </task>
-    <task id="LOCAL-00049" summary="a doctor's random number">
-      <option name="closed" value="true" />
-      <created>1710658156395</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1710658156395</updated>
-    </task>
-    <task id="LOCAL-00050" summary="Data structure Basic">
-      <option name="closed" value="true" />
-      <created>1711011686996</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1711011686996</updated>
-    </task>
-    <task id="LOCAL-00051" summary="EarlyReturn">
-      <option name="closed" value="true" />
-      <created>1711115456213</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1711115456213</updated>
+      <workItem from="1714735641729" duration="10023000" />
+      <workItem from="1714969619238" duration="5737000" />
     </task>
     <task id="LOCAL-00052" summary="Generic?">
       <option name="closed" value="true" />
@@ -669,7 +645,31 @@
       <option name="project" value="LOCAL" />
       <updated>1714662421665</updated>
     </task>
-    <option name="localTasksCounter" value="98" />
+    <task id="LOCAL-00098" summary="트리순회">
+      <option name="closed" value="true" />
+      <created>1714745119673</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1714745119673</updated>
+    </task>
+    <task id="LOCAL-00099" summary="Tree Test">
+      <option name="closed" value="true" />
+      <created>1714749139668</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1714749139668</updated>
+    </task>
+    <task id="LOCAL-00100" summary="an expected list of matches">
+      <option name="closed" value="true" />
+      <created>1714983291667</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1714983291667</updated>
+    </task>
+    <option name="localTasksCounter" value="101" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -687,9 +687,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="STACK - ParenthesesSpin" />
-    <MESSAGE value="XML" />
-    <MESSAGE value="Stack Remove" />
     <MESSAGE value="stock price" />
     <MESSAGE value="BigNumber" />
     <MESSAGE value="CardGame" />
@@ -712,6 +709,9 @@
     <MESSAGE value="Best Album" />
     <MESSAGE value="Report" />
     <MESSAGE value="Menu Renewal" />
-    <option name="LAST_COMMIT_MESSAGE" value="Menu Renewal" />
+    <MESSAGE value="트리순회" />
+    <MESSAGE value="Tree Test" />
+    <MESSAGE value="an expected list of matches" />
+    <option name="LAST_COMMIT_MESSAGE" value="an expected list of matches" />
   </component>
 </project>
