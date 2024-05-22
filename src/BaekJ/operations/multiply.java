@@ -1,13 +1,14 @@
-package BaekJ;
+package BaekJ.operations;
 
 import java.util.Scanner;
 
-public class minus {
+public class multiply {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
         int b = sc.nextInt();
-        int minus = a - b;
-        System.out.println(minus);
+        int mul = a * b;
+
+        System.out.println(mul);
     }
 }
