@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="an expected list of matches">
-      <change afterPath="$PROJECT_DIR$/src/CodingTest/Sort/ATM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PCC/Tree/MultiToothbrush.java" afterDir="false" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="I/O and four arithmetic operations">
+      <change afterPath="$PROJECT_DIR$/src/BaekJ/statement/Clock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekJ/statement/Comparison.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekJ/statement/Coordinates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekJ/statement/Dice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekJ/statement/Oven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekJ/statement/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,6 +83,8 @@
       <recent name="C:\Users\SeungJoo\Algorithm\Do Algorithm\src\Basic\chap01" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="BaekJ.statement" />
+      <recent name="BaekJ.operations" />
       <recent name="Basic.Chap06" />
       <recent name="Basic.Chap05" />
       <recent name="Basic.Chap03" />
@@ -275,63 +281,21 @@
       <workItem from="1714657062227" duration="5896000" />
       <workItem from="1714716793684" duration="185000" />
       <workItem from="1714735641729" duration="10023000" />
-      <workItem from="1714969619238" duration="5737000" />
-    </task>
-    <task id="LOCAL-00052" summary="Generic?">
-      <option name="closed" value="true" />
-      <created>1711115464964</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1711115464964</updated>
-    </task>
-    <task id="LOCAL-00053" summary="보호 구문">
-      <option name="closed" value="true" />
-      <created>1711115493046</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1711115493046</updated>
-    </task>
-    <task id="LOCAL-00054" summary="Generic Update">
-      <option name="closed" value="true" />
-      <created>1711115581077</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1711115581087</updated>
-    </task>
-    <task id="LOCAL-00055" summary="시간복잡도 o(b^3)">
-      <option name="closed" value="true" />
-      <created>1711269684456</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1711269684457</updated>
-    </task>
-    <task id="LOCAL-00056" summary="Stream -&gt; data flow">
-      <option name="closed" value="true" />
-      <created>1711269701922</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1711269701922</updated>
-    </task>
-    <task id="LOCAL-00057" summary="O(NlogN)">
-      <option name="closed" value="true" />
-      <created>1711269720805</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1711269720805</updated>
-    </task>
-    <task id="LOCAL-00058" summary="Array - Algorithm">
-      <option name="closed" value="true" />
-      <created>1711269768677</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1711269768677</updated>
+      <workItem from="1714969619238" duration="7307000" />
+      <workItem from="1715059189333" duration="8115000" />
+      <workItem from="1715168452047" duration="2902000" />
+      <workItem from="1715240540706" duration="27000" />
+      <workItem from="1715336715729" duration="6746000" />
+      <workItem from="1715348682229" duration="1095000" />
+      <workItem from="1715400508539" duration="50000" />
+      <workItem from="1716110120047" duration="1559000" />
+      <workItem from="1716119084536" duration="10866000" />
+      <workItem from="1716190316403" duration="21000" />
+      <workItem from="1716301235634" duration="3864000" />
+      <workItem from="1716340226032" duration="1196000" />
+      <workItem from="1716365195189" duration="9350000" />
+      <workItem from="1716436848243" duration="11000" />
+      <workItem from="1716456951143" duration="1814000" />
     </task>
     <task id="LOCAL-00059" summary="O(M + NlogN)">
       <option name="closed" value="true" />
@@ -669,7 +633,63 @@
       <option name="project" value="LOCAL" />
       <updated>1714983291667</updated>
     </task>
-    <option name="localTasksCounter" value="101" />
+    <task id="LOCAL-00101" summary="multi-level toothbrush sales">
+      <option name="closed" value="true" />
+      <created>1714983323374</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1714983323374</updated>
+    </task>
+    <task id="LOCAL-00102" summary="number&amp;Char">
+      <option name="closed" value="true" />
+      <created>1715339244586</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1715339244586</updated>
+    </task>
+    <task id="LOCAL-00103" summary="Vowel and consonant strength">
+      <option name="closed" value="true" />
+      <created>1715343954425</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1715343954425</updated>
+    </task>
+    <task id="LOCAL-00104" summary="BackJoon Minus, PLUS, TARET">
+      <option name="closed" value="true" />
+      <created>1716301296156</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1716301296156</updated>
+    </task>
+    <task id="LOCAL-00105" summary="BackJ Minus, TARET">
+      <option name="closed" value="true" />
+      <created>1716301742906</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1716301742906</updated>
+    </task>
+    <task id="LOCAL-00106" summary="I/O and four arithmetic operations">
+      <option name="closed" value="true" />
+      <created>1716368036260</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1716368036260</updated>
+    </task>
+    <task id="LOCAL-00107" summary="I/O and four arithmetic operations">
+      <option name="closed" value="true" />
+      <created>1716368058895</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1716368058896</updated>
+    </task>
+    <option name="localTasksCounter" value="108" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -687,12 +707,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="stock price" />
-    <MESSAGE value="BigNumber" />
-    <MESSAGE value="CardGame" />
-    <MESSAGE value="Heap" />
-    <MESSAGE value="JosephusProblem" />
-    <MESSAGE value="FindCharacters" />
     <MESSAGE value="ReverseWord" />
     <MESSAGE value="Hash" />
     <MESSAGE value="Create a specific value with two numbers" />
@@ -712,6 +726,12 @@
     <MESSAGE value="트리순회" />
     <MESSAGE value="Tree Test" />
     <MESSAGE value="an expected list of matches" />
-    <option name="LAST_COMMIT_MESSAGE" value="an expected list of matches" />
+    <MESSAGE value="multi-level toothbrush sales" />
+    <MESSAGE value="number&amp;Char" />
+    <MESSAGE value="Vowel and consonant strength" />
+    <MESSAGE value="BackJoon Minus, PLUS, TARET" />
+    <MESSAGE value="BackJ Minus, TARET" />
+    <MESSAGE value="I/O and four arithmetic operations" />
+    <option name="LAST_COMMIT_MESSAGE" value="I/O and four arithmetic operations" />
   </component>
 </project>
