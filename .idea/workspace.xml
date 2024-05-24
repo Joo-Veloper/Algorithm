@@ -4,21 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="conditional statement">
-      <change afterPath="$PROJECT_DIR$/src/BaekJ/loop/A_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaekJ/loop/A_4Rf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaekJ/loop/A_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaekJ/loop/A_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaekJ/loop/A_B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaekJ/loop/ArrayPlus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaekJ/loop/CodingGym.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaekJ/loop/Dan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaekJ/loop/PriceTag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaekJ/loop/SpeedAB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaekJ/loop/Star.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaekJ/loop/Star2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaekJ/loop/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaekJ/loop/hap.java" afterDir="false" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="One-dimensional arrangement">
+      <change afterPath="$PROJECT_DIR$/src/BaekJ/array/NoProject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekJ/array/TheRest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekJ/array/TheRestRf.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -91,11 +80,11 @@
       <recent name="C:\Users\SeungJoo\Algorithm\Do Algorithm\src\Basic\chap01" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="BaekJ.array" />
       <recent name="BaekJ.loop" />
       <recent name="BaekJ.statement" />
       <recent name="BaekJ.operations" />
       <recent name="Basic.Chap06" />
-      <recent name="Basic.Chap05" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -304,31 +293,10 @@
       <workItem from="1716365195189" duration="9350000" />
       <workItem from="1716436848243" duration="11000" />
       <workItem from="1716456951143" duration="12636000" />
-      <workItem from="1716509964819" duration="11936000" />
-    </task>
-    <task id="LOCAL-00060" summary="Refactoring">
-      <option name="closed" value="true" />
-      <created>1711334077612</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1711334077612</updated>
-    </task>
-    <task id="LOCAL-00061" summary="Two Pointer Sudo">
-      <option name="closed" value="true" />
-      <created>1711335416311</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1711335416311</updated>
-    </task>
-    <task id="LOCAL-00062" summary="Armor maker">
-      <option name="closed" value="true" />
-      <created>1711350814148</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
-      <option name="project" value="LOCAL" />
-      <updated>1711350814148</updated>
+      <workItem from="1716509964819" duration="33992000" />
+      <workItem from="1716601183641" duration="962000" />
+      <workItem from="1716616206177" duration="3845000" />
+      <workItem from="1716629085067" duration="6615000" />
     </task>
     <task id="LOCAL-00063" summary="Refactoring">
       <option name="closed" value="true" />
@@ -698,7 +666,31 @@
       <option name="project" value="LOCAL" />
       <updated>1716463901627</updated>
     </task>
-    <option name="localTasksCounter" value="109" />
+    <task id="LOCAL-00109" summary="a repetitive sentence">
+      <option name="closed" value="true" />
+      <created>1716535882828</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1716535882828</updated>
+    </task>
+    <task id="LOCAL-00110" summary="Test Delete">
+      <option name="closed" value="true" />
+      <created>1716535895859</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1716535895859</updated>
+    </task>
+    <task id="LOCAL-00111" summary="One-dimensional arrangement">
+      <option name="closed" value="true" />
+      <created>1716562131030</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1716562131030</updated>
+    </task>
+    <option name="localTasksCounter" value="112" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -716,9 +708,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Hash" />
-    <MESSAGE value="Create a specific value with two numbers" />
-    <MESSAGE value="Functional development" />
     <MESSAGE value="BunchOfCards" />
     <MESSAGE value="AnUnsuccessfulRunner" />
     <MESSAGE value="완주하지 못한 선수" />
@@ -741,6 +730,9 @@
     <MESSAGE value="BackJ Minus, TARET" />
     <MESSAGE value="I/O and four arithmetic operations" />
     <MESSAGE value="conditional statement" />
-    <option name="LAST_COMMIT_MESSAGE" value="conditional statement" />
+    <MESSAGE value="a repetitive sentence" />
+    <MESSAGE value="Test Delete" />
+    <MESSAGE value="One-dimensional arrangement" />
+    <option name="LAST_COMMIT_MESSAGE" value="One-dimensional arrangement" />
   </component>
 </project>
