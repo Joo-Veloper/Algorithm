@@ -4,13 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="I/O and four arithmetic operations">
-      <change afterPath="$PROJECT_DIR$/src/BaekJ/statement/Clock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaekJ/statement/Comparison.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaekJ/statement/Coordinates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaekJ/statement/Dice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaekJ/statement/Oven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaekJ/statement/Test.java" afterDir="false" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="conditional statement">
+      <change afterPath="$PROJECT_DIR$/src/BaekJ/loop/A_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekJ/loop/A_4Rf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekJ/loop/A_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekJ/loop/A_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekJ/loop/A_B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekJ/loop/ArrayPlus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekJ/loop/CodingGym.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekJ/loop/Dan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekJ/loop/PriceTag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekJ/loop/SpeedAB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekJ/loop/Star.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekJ/loop/Star2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekJ/loop/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekJ/loop/hap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,11 +91,11 @@
       <recent name="C:\Users\SeungJoo\Algorithm\Do Algorithm\src\Basic\chap01" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="BaekJ.loop" />
       <recent name="BaekJ.statement" />
       <recent name="BaekJ.operations" />
       <recent name="Basic.Chap06" />
       <recent name="Basic.Chap05" />
-      <recent name="Basic.Chap03" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -295,15 +303,8 @@
       <workItem from="1716340226032" duration="1196000" />
       <workItem from="1716365195189" duration="9350000" />
       <workItem from="1716436848243" duration="11000" />
-      <workItem from="1716456951143" duration="1814000" />
-    </task>
-    <task id="LOCAL-00059" summary="O(M + NlogN)">
-      <option name="closed" value="true" />
-      <created>1711333683191</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1711333683191</updated>
+      <workItem from="1716456951143" duration="12636000" />
+      <workItem from="1716509964819" duration="11936000" />
     </task>
     <task id="LOCAL-00060" summary="Refactoring">
       <option name="closed" value="true" />
@@ -689,7 +690,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716368058896</updated>
     </task>
-    <option name="localTasksCounter" value="108" />
+    <task id="LOCAL-00108" summary="conditional statement">
+      <option name="closed" value="true" />
+      <created>1716463901627</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1716463901627</updated>
+    </task>
+    <option name="localTasksCounter" value="109" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -707,7 +716,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ReverseWord" />
     <MESSAGE value="Hash" />
     <MESSAGE value="Create a specific value with two numbers" />
     <MESSAGE value="Functional development" />
@@ -732,6 +740,7 @@
     <MESSAGE value="BackJoon Minus, PLUS, TARET" />
     <MESSAGE value="BackJ Minus, TARET" />
     <MESSAGE value="I/O and four arithmetic operations" />
-    <option name="LAST_COMMIT_MESSAGE" value="I/O and four arithmetic operations" />
+    <MESSAGE value="conditional statement" />
+    <option name="LAST_COMMIT_MESSAGE" value="conditional statement" />
   </component>
 </project>
