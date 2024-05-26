@@ -1,4 +1,4 @@
-package BaekJ;
+package BaekJ.others;
 
 import java.util.*;
 /*
