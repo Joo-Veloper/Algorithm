@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="One-dimensional arrangement">
-      <change afterPath="$PROJECT_DIR$/src/BaekJ/array/Test.java" afterDir="false" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="File Organization">
+      <change afterPath="$PROJECT_DIR$/src/BaekJ/string/CharactersStrings.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJ/ArithmeticOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekJ/others/ArithmeticOperation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJ/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekJ/others/HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJ/LeapYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekJ/others/LeapYear.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJ/Taret.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekJ/others/Taret.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJ/average.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekJ/others/average.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJ/number_less_than_X.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekJ/others/number_less_than_X.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJ/ox_quiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekJ/others/ox_quiz.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -325,23 +318,7 @@
       <workItem from="1716629085067" duration="6810000" />
       <workItem from="1716644602067" duration="645000" />
       <workItem from="1716689392134" duration="3046000" />
-      <workItem from="1716692631298" duration="5638000" />
-    </task>
-    <task id="LOCAL-00065" summary="Stack Basic">
-      <option name="closed" value="true" />
-      <created>1711638738018</created>
-      <option name="number" value="00065" />
-      <option name="presentableId" value="LOCAL-00065" />
-      <option name="project" value="LOCAL" />
-      <updated>1711638738018</updated>
-    </task>
-    <task id="LOCAL-00066" summary="방문자 길이">
-      <option name="closed" value="true" />
-      <created>1711638754726</created>
-      <option name="number" value="00066" />
-      <option name="presentableId" value="LOCAL-00066" />
-      <option name="project" value="LOCAL" />
-      <updated>1711638754726</updated>
+      <workItem from="1716692631298" duration="6274000" />
     </task>
     <task id="LOCAL-00067" summary="방문자 길이">
       <option name="closed" value="true" />
@@ -719,7 +696,23 @@
       <option name="project" value="LOCAL" />
       <updated>1716707194088</updated>
     </task>
-    <option name="localTasksCounter" value="114" />
+    <task id="LOCAL-00114" summary="File Organization">
+      <option name="closed" value="true" />
+      <created>1716707215113</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1716707215113</updated>
+    </task>
+    <task id="LOCAL-00115" summary="File Organization">
+      <option name="closed" value="true" />
+      <created>1716707258105</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1716707258105</updated>
+    </task>
+    <option name="localTasksCounter" value="116" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -737,7 +730,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="BunchOfCards" />
     <MESSAGE value="AnUnsuccessfulRunner" />
     <MESSAGE value="완주하지 못한 선수" />
     <MESSAGE value="Mart HashAlgorithm" />
@@ -762,7 +754,8 @@
     <MESSAGE value="a repetitive sentence" />
     <MESSAGE value="Test Delete" />
     <MESSAGE value="One-dimensional arrangement" />
-    <option name="LAST_COMMIT_MESSAGE" value="One-dimensional arrangement" />
+    <MESSAGE value="File Organization" />
+    <option name="LAST_COMMIT_MESSAGE" value="File Organization" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -786,11 +779,6 @@
           <url>file://$PROJECT_DIR$/src/BaekJ/array/ChangeBasket.java</url>
           <line>25</line>
           <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/BaekJ/array/avg.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
