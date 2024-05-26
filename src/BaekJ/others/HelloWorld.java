@@ -1,4 +1,4 @@
-package BaekJ;
+package BaekJ.others;
 
 public class HelloWorld {
     public static void main(String[] args) {
