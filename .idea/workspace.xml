@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="Merge branch 'main' of https://github.com/Joo-Veloper/Algorithm">
-      <change afterPath="$PROJECT_DIR$/src/BaekJ/string/ASCII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaekJ/string/Character.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaekJ/string/CharactersStrings.java" afterDir="false" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="String Algorithm">
       <change afterPath="$PROJECT_DIR$/src/BaekJ/string/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekJ/string/findAlphabet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -304,23 +304,11 @@
       <workItem from="1716692631298" duration="7692000" />
       <workItem from="1716731084139" duration="1819000" />
       <workItem from="1716767830742" duration="2958000" />
-      <workItem from="1716894980777" duration="5937000" />
-    </task>
-    <task id="LOCAL-00068" summary="Stack PUSH POP">
-      <option name="closed" value="true" />
-      <created>1712143735919</created>
-      <option name="number" value="00068" />
-      <option name="presentableId" value="LOCAL-00068" />
-      <option name="project" value="LOCAL" />
-      <updated>1712143735919</updated>
-    </task>
-    <task id="LOCAL-00069" summary="average">
-      <option name="closed" value="true" />
-      <created>1712231236094</created>
-      <option name="number" value="00069" />
-      <option name="presentableId" value="LOCAL-00069" />
-      <option name="project" value="LOCAL" />
-      <updated>1712231236095</updated>
+      <workItem from="1716894980777" duration="7074000" />
+      <workItem from="1717057863893" duration="8485000" />
+      <workItem from="1717168157672" duration="1531000" />
+      <workItem from="1717208517973" duration="175000" />
+      <workItem from="1717406902833" duration="2833000" />
     </task>
     <task id="LOCAL-00070" summary="방문자 길이">
       <option name="closed" value="true" />
@@ -698,7 +686,23 @@
       <option name="project" value="LOCAL" />
       <updated>1716707884421</updated>
     </task>
-    <option name="localTasksCounter" value="117" />
+    <task id="LOCAL-00117" summary="String Algorithm">
+      <option name="closed" value="true" />
+      <created>1716904866396</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1716904866396</updated>
+    </task>
+    <task id="LOCAL-00118" summary="String Algorithm">
+      <option name="closed" value="true" />
+      <created>1717069594549</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1717069594549</updated>
+    </task>
+    <option name="localTasksCounter" value="119" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -716,7 +720,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="완주하지 못한 선수" />
     <MESSAGE value="Mart HashAlgorithm" />
     <MESSAGE value="BubbleSort" />
     <MESSAGE value="BubbleSortProgram" />
@@ -741,7 +744,8 @@
     <MESSAGE value="One-dimensional arrangement" />
     <MESSAGE value="File Organization" />
     <MESSAGE value="Merge branch 'main' of https://github.com/Joo-Veloper/Algorithm" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'main' of https://github.com/Joo-Veloper/Algorithm" />
+    <MESSAGE value="String Algorithm" />
+    <option name="LAST_COMMIT_MESSAGE" value="String Algorithm" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -765,6 +769,16 @@
           <url>file://$PROJECT_DIR$/src/BaekJ/array/ChangeBasket.java</url>
           <line>25</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BaekJ/string/SumNumber.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BaekJ/string/SumNumber.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
