@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="String Algorithm">
-      <change afterPath="$PROJECT_DIR$/src/BaekJ/string/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaekJ/string/findAlphabet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml" beforeDir="false" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="Alphabet">
+      <change afterPath="$PROJECT_DIR$/src/BaekJ/string/RepeatString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -308,15 +305,8 @@
       <workItem from="1717057863893" duration="8485000" />
       <workItem from="1717168157672" duration="1531000" />
       <workItem from="1717208517973" duration="175000" />
-      <workItem from="1717406902833" duration="2833000" />
-    </task>
-    <task id="LOCAL-00070" summary="방문자 길이">
-      <option name="closed" value="true" />
-      <created>1712231249250</created>
-      <option name="number" value="00070" />
-      <option name="presentableId" value="LOCAL-00070" />
-      <option name="project" value="LOCAL" />
-      <updated>1712231249250</updated>
+      <workItem from="1717406902833" duration="3843000" />
+      <workItem from="1717507425571" duration="1303000" />
     </task>
     <task id="LOCAL-00071" summary="10 change 2">
       <option name="closed" value="true" />
@@ -702,7 +692,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717069594549</updated>
     </task>
-    <option name="localTasksCounter" value="119" />
+    <task id="LOCAL-00119" summary="Alphabet">
+      <option name="closed" value="true" />
+      <created>1717413142357</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1717413142357</updated>
+    </task>
+    <option name="localTasksCounter" value="120" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -720,7 +718,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Mart HashAlgorithm" />
     <MESSAGE value="BubbleSort" />
     <MESSAGE value="BubbleSortProgram" />
     <MESSAGE value="SelectSort" />
@@ -745,7 +742,8 @@
     <MESSAGE value="File Organization" />
     <MESSAGE value="Merge branch 'main' of https://github.com/Joo-Veloper/Algorithm" />
     <MESSAGE value="String Algorithm" />
-    <option name="LAST_COMMIT_MESSAGE" value="String Algorithm" />
+    <MESSAGE value="Alphabet" />
+    <option name="LAST_COMMIT_MESSAGE" value="Alphabet" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
