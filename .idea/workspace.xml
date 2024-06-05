@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="Alphabet">
-      <change afterPath="$PROJECT_DIR$/src/BaekJ/string/RepeatString.java" afterDir="false" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="RepeatString">
+      <change afterPath="$PROJECT_DIR$/src/BaekJ/string/wordCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekJ/string/wordCountRf.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -306,15 +307,9 @@
       <workItem from="1717168157672" duration="1531000" />
       <workItem from="1717208517973" duration="175000" />
       <workItem from="1717406902833" duration="3843000" />
-      <workItem from="1717507425571" duration="1303000" />
-    </task>
-    <task id="LOCAL-00071" summary="10 change 2">
-      <option name="closed" value="true" />
-      <created>1712396207976</created>
-      <option name="number" value="00071" />
-      <option name="presentableId" value="LOCAL-00071" />
-      <option name="project" value="LOCAL" />
-      <updated>1712396207976</updated>
+      <workItem from="1717507425571" duration="4155000" />
+      <workItem from="1717547648223" duration="1158000" />
+      <workItem from="1717574263614" duration="3622000" />
     </task>
     <task id="LOCAL-00072" summary="STACK - ParenthesesSpin">
       <option name="closed" value="true" />
@@ -700,7 +695,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717413142357</updated>
     </task>
-    <option name="localTasksCounter" value="120" />
+    <task id="LOCAL-00120" summary="RepeatString">
+      <option name="closed" value="true" />
+      <created>1717510506784</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1717510506784</updated>
+    </task>
+    <option name="localTasksCounter" value="121" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -718,7 +721,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="BubbleSort" />
     <MESSAGE value="BubbleSortProgram" />
     <MESSAGE value="SelectSort" />
     <MESSAGE value="SelectSort 설명추가" />
@@ -743,7 +745,8 @@
     <MESSAGE value="Merge branch 'main' of https://github.com/Joo-Veloper/Algorithm" />
     <MESSAGE value="String Algorithm" />
     <MESSAGE value="Alphabet" />
-    <option name="LAST_COMMIT_MESSAGE" value="Alphabet" />
+    <MESSAGE value="RepeatString" />
+    <option name="LAST_COMMIT_MESSAGE" value="RepeatString" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
