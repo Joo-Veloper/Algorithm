@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="RepeatString">
-      <change afterPath="$PROJECT_DIR$/src/BaekJ/string/wordCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaekJ/string/wordCountRf.java" afterDir="false" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="Word Count">
+      <change afterPath="$PROJECT_DIR$/src/BaekJ/string/Constant.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,11 +79,11 @@
       <recent name="C:\Users\SeungJoo\Algorithm\Do Algorithm\src\Basic\chap01" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="BaekJ.string" />
       <recent name="BaekJ.array" />
       <recent name="BaekJ.loop" />
       <recent name="BaekJ.statement" />
       <recent name="BaekJ.operations" />
-      <recent name="Basic.Chap06" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -309,15 +308,7 @@
       <workItem from="1717406902833" duration="3843000" />
       <workItem from="1717507425571" duration="4155000" />
       <workItem from="1717547648223" duration="1158000" />
-      <workItem from="1717574263614" duration="3622000" />
-    </task>
-    <task id="LOCAL-00072" summary="STACK - ParenthesesSpin">
-      <option name="closed" value="true" />
-      <created>1712406190216</created>
-      <option name="number" value="00072" />
-      <option name="presentableId" value="LOCAL-00072" />
-      <option name="project" value="LOCAL" />
-      <updated>1712406190216</updated>
+      <workItem from="1717574263614" duration="5579000" />
     </task>
     <task id="LOCAL-00073" summary="XML">
       <option name="closed" value="true" />
@@ -703,7 +694,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717510506784</updated>
     </task>
-    <option name="localTasksCounter" value="121" />
+    <task id="LOCAL-00121" summary="Word Count">
+      <option name="closed" value="true" />
+      <created>1717581979537</created>
+      <option name="number" value="00121" />
+      <option name="presentableId" value="LOCAL-00121" />
+      <option name="project" value="LOCAL" />
+      <updated>1717581979537</updated>
+    </task>
+    <option name="localTasksCounter" value="122" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -721,7 +720,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="BubbleSortProgram" />
     <MESSAGE value="SelectSort" />
     <MESSAGE value="SelectSort 설명추가" />
     <MESSAGE value="OpenChat" />
@@ -746,7 +744,8 @@
     <MESSAGE value="String Algorithm" />
     <MESSAGE value="Alphabet" />
     <MESSAGE value="RepeatString" />
-    <option name="LAST_COMMIT_MESSAGE" value="RepeatString" />
+    <MESSAGE value="Word Count" />
+    <option name="LAST_COMMIT_MESSAGE" value="Word Count" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
