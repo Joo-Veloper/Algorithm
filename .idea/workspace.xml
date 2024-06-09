@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="Constant">
-      <change afterPath="$PROJECT_DIR$/src/BaekJ/string/Dial.java" afterDir="false" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="Input Scanner">
+      <change afterPath="$PROJECT_DIR$/src/BaekJ/deep/Chess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekJ/deep/ChessArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekJ/deep/StarDiamond.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekJ/deep/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekJ/deep/weed.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,11 +83,11 @@
       <recent name="C:\Users\SeungJoo\Algorithm\Do Algorithm\src\Basic\chap01" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="BaekJ.deep" />
       <recent name="BaekJ.string" />
       <recent name="BaekJ.array" />
       <recent name="BaekJ.loop" />
       <recent name="BaekJ.statement" />
-      <recent name="BaekJ.operations" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -309,23 +313,8 @@
       <workItem from="1717507425571" duration="4155000" />
       <workItem from="1717547648223" duration="1158000" />
       <workItem from="1717574263614" duration="6320000" />
-      <workItem from="1717672846539" duration="2716000" />
-    </task>
-    <task id="LOCAL-00074" summary="Stack Remove">
-      <option name="closed" value="true" />
-      <created>1712474149214</created>
-      <option name="number" value="00074" />
-      <option name="presentableId" value="LOCAL-00074" />
-      <option name="project" value="LOCAL" />
-      <updated>1712474149214</updated>
-    </task>
-    <task id="LOCAL-00075" summary="Stack Remove">
-      <option name="closed" value="true" />
-      <created>1712474346136</created>
-      <option name="number" value="00075" />
-      <option name="presentableId" value="LOCAL-00075" />
-      <option name="project" value="LOCAL" />
-      <updated>1712474346136</updated>
+      <workItem from="1717672846539" duration="3777000" />
+      <workItem from="1717937145599" duration="4617000" />
     </task>
     <task id="LOCAL-00076" summary="stock price">
       <option name="closed" value="true" />
@@ -703,7 +692,23 @@
       <option name="project" value="LOCAL" />
       <updated>1717594547763</updated>
     </task>
-    <option name="localTasksCounter" value="123" />
+    <task id="LOCAL-00123" summary="Dial">
+      <option name="closed" value="true" />
+      <created>1717675603345</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1717675603345</updated>
+    </task>
+    <task id="LOCAL-00124" summary="Input Scanner">
+      <option name="closed" value="true" />
+      <created>1717675865823</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1717675865823</updated>
+    </task>
+    <option name="localTasksCounter" value="125" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -721,8 +726,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="SelectSort 설명추가" />
-    <MESSAGE value="OpenChat" />
     <MESSAGE value="Best Album" />
     <MESSAGE value="Report" />
     <MESSAGE value="Menu Renewal" />
@@ -746,7 +749,9 @@
     <MESSAGE value="RepeatString" />
     <MESSAGE value="Word Count" />
     <MESSAGE value="Constant" />
-    <option name="LAST_COMMIT_MESSAGE" value="Constant" />
+    <MESSAGE value="Dial" />
+    <MESSAGE value="Input Scanner" />
+    <option name="LAST_COMMIT_MESSAGE" value="Input Scanner" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
