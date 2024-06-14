@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="Algorithm Test">
-      <change afterPath="$PROJECT_DIR$/src/BaekJ/deep/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaekJ/deep/Room1.java" afterDir="false" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="Palindrome">
+      <change afterPath="$PROJECT_DIR$/src/BaekJ/deep/ArrayPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekJ/deep/wordStudy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -314,6 +314,9 @@
       <workItem from="1717937145599" duration="5057000" />
       <workItem from="1717974335589" duration="600000" />
       <workItem from="1717998514101" duration="1245000" />
+      <workItem from="1718065017967" duration="3028000" />
+      <workItem from="1718069235801" duration="2183000" />
+      <workItem from="1718363010718" duration="2684000" />
     </task>
     <task id="LOCAL-00077" summary="BigNumber">
       <option name="closed" value="true" />
