@@ -4,9 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="Palindrome">
-      <change afterPath="$PROJECT_DIR$/src/BaekJ/deep/ArrayPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaekJ/deep/wordStudy.java" afterDir="false" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="크로아티아 문제">
+      <change afterPath="$PROJECT_DIR$/src/BaekJ/deep/CountWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekJ/deep/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PCC/Array/ArrayControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PCC/Array/ArrayMultiplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PCC/Array/ArraySort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PCC/Array/MockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PCC/Array/PickTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PCC/Array/Remind.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,11 +86,11 @@
       <recent name="C:\Users\SeungJoo\Algorithm\Do Algorithm\src\Basic\chap01" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="PCC.Array" />
       <recent name="BaekJ.deep" />
       <recent name="BaekJ.string" />
       <recent name="BaekJ.array" />
       <recent name="BaekJ.loop" />
-      <recent name="BaekJ.statement" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -316,47 +322,17 @@
       <workItem from="1717998514101" duration="1245000" />
       <workItem from="1718065017967" duration="3028000" />
       <workItem from="1718069235801" duration="2183000" />
-      <workItem from="1718363010718" duration="2684000" />
-    </task>
-    <task id="LOCAL-00077" summary="BigNumber">
-      <option name="closed" value="true" />
-      <created>1712926343718</created>
-      <option name="number" value="00077" />
-      <option name="presentableId" value="LOCAL-00077" />
-      <option name="project" value="LOCAL" />
-      <updated>1712926343718</updated>
-    </task>
-    <task id="LOCAL-00078" summary="CardGame">
-      <option name="closed" value="true" />
-      <created>1712927923103</created>
-      <option name="number" value="00078" />
-      <option name="presentableId" value="LOCAL-00078" />
-      <option name="project" value="LOCAL" />
-      <updated>1712927923103</updated>
-    </task>
-    <task id="LOCAL-00079" summary="Heap">
-      <option name="closed" value="true" />
-      <created>1712987729315</created>
-      <option name="number" value="00079" />
-      <option name="presentableId" value="LOCAL-00079" />
-      <option name="project" value="LOCAL" />
-      <updated>1712987729316</updated>
-    </task>
-    <task id="LOCAL-00080" summary="JosephusProblem">
-      <option name="closed" value="true" />
-      <created>1712995111728</created>
-      <option name="number" value="00080" />
-      <option name="presentableId" value="LOCAL-00080" />
-      <option name="project" value="LOCAL" />
-      <updated>1712995111728</updated>
-    </task>
-    <task id="LOCAL-00081" summary="FindCharacters">
-      <option name="closed" value="true" />
-      <created>1713073323136</created>
-      <option name="number" value="00081" />
-      <option name="presentableId" value="LOCAL-00081" />
-      <option name="project" value="LOCAL" />
-      <updated>1713073323137</updated>
+      <workItem from="1718363010718" duration="5150000" />
+      <workItem from="1718372253002" duration="498000" />
+      <workItem from="1718429169588" duration="484000" />
+      <workItem from="1718620882839" duration="5928000" />
+      <workItem from="1718718961934" duration="4861000" />
+      <workItem from="1718756261362" duration="1638000" />
+      <workItem from="1718772784123" duration="768000" />
+      <workItem from="1718786661658" duration="4451000" />
+      <workItem from="1718801681677" duration="24000" />
+      <workItem from="1718845349408" duration="1073000" />
+      <workItem from="1718868183871" duration="5521000" />
     </task>
     <task id="LOCAL-00082" summary="ReverseWord">
       <option name="closed" value="true" />
@@ -710,7 +686,47 @@
       <option name="project" value="LOCAL" />
       <updated>1717942242275</updated>
     </task>
-    <option name="localTasksCounter" value="126" />
+    <task id="LOCAL-00126" summary="단어 공부">
+      <option name="closed" value="true" />
+      <created>1718369337295</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1718369337295</updated>
+    </task>
+    <task id="LOCAL-00127" summary="펠린드롬 확인">
+      <option name="closed" value="true" />
+      <created>1718369351294</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1718369351294</updated>
+    </task>
+    <task id="LOCAL-00128" summary="크로아티아 문제">
+      <option name="closed" value="true" />
+      <created>1718624416583</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1718624416583</updated>
+    </task>
+    <task id="LOCAL-00129" summary="크로아티아 문제">
+      <option name="closed" value="true" />
+      <created>1718624425033</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1718624425033</updated>
+    </task>
+    <task id="LOCAL-00130" summary="크로아티아 문제">
+      <option name="closed" value="true" />
+      <created>1718624459934</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1718624459934</updated>
+    </task>
+    <option name="localTasksCounter" value="131" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -728,9 +744,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Report" />
-    <MESSAGE value="Menu Renewal" />
-    <MESSAGE value="트리순회" />
     <MESSAGE value="Tree Test" />
     <MESSAGE value="an expected list of matches" />
     <MESSAGE value="multi-level toothbrush sales" />
@@ -753,7 +766,10 @@
     <MESSAGE value="Dial" />
     <MESSAGE value="Input Scanner" />
     <MESSAGE value="Algorithm Test" />
-    <option name="LAST_COMMIT_MESSAGE" value="Algorithm Test" />
+    <MESSAGE value="단어 공부" />
+    <MESSAGE value="펠린드롬 확인" />
+    <MESSAGE value="크로아티아 문제" />
+    <option name="LAST_COMMIT_MESSAGE" value="크로아티아 문제" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
