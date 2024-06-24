@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="크로아티아 문제">
-      <change afterPath="$PROJECT_DIR$/src/BaekJ/deep/CountWord.java" afterDir="false" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="그룹 단어 체커">
       <change afterPath="$PROJECT_DIR$/src/BaekJ/deep/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PCC/Array/ArrayControl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PCC/Array/ArrayMultiplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PCC/Array/ArraySort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PCC/Array/MockTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PCC/Array/PickTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekJ/deep/average.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/PCC/Array/Remind.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -86,8 +81,8 @@
       <recent name="C:\Users\SeungJoo\Algorithm\Do Algorithm\src\Basic\chap01" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="PCC.Array" />
       <recent name="BaekJ.deep" />
+      <recent name="PCC.Array" />
       <recent name="BaekJ.string" />
       <recent name="BaekJ.array" />
       <recent name="BaekJ.loop" />
@@ -332,23 +327,11 @@
       <workItem from="1718786661658" duration="4451000" />
       <workItem from="1718801681677" duration="24000" />
       <workItem from="1718845349408" duration="1073000" />
-      <workItem from="1718868183871" duration="5521000" />
-    </task>
-    <task id="LOCAL-00082" summary="ReverseWord">
-      <option name="closed" value="true" />
-      <created>1713073336775</created>
-      <option name="number" value="00082" />
-      <option name="presentableId" value="LOCAL-00082" />
-      <option name="project" value="LOCAL" />
-      <updated>1713073336775</updated>
-    </task>
-    <task id="LOCAL-00083" summary="Hash">
-      <option name="closed" value="true" />
-      <created>1713096952976</created>
-      <option name="number" value="00083" />
-      <option name="presentableId" value="LOCAL-00083" />
-      <option name="project" value="LOCAL" />
-      <updated>1713096952976</updated>
+      <workItem from="1718868183871" duration="5941000" />
+      <workItem from="1718937069183" duration="282000" />
+      <workItem from="1719139899735" duration="5650000" />
+      <workItem from="1719193407680" duration="210000" />
+      <workItem from="1719226613592" duration="3182000" />
     </task>
     <task id="LOCAL-00084" summary="Create a specific value with two numbers">
       <option name="closed" value="true" />
@@ -726,7 +709,23 @@
       <option name="project" value="LOCAL" />
       <updated>1718624459934</updated>
     </task>
-    <option name="localTasksCounter" value="131" />
+    <task id="LOCAL-00131" summary="Array">
+      <option name="closed" value="true" />
+      <created>1718881602434</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1718881602435</updated>
+    </task>
+    <task id="LOCAL-00132" summary="그룹 단어 체커">
+      <option name="closed" value="true" />
+      <created>1719141696664</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1719141696664</updated>
+    </task>
+    <option name="localTasksCounter" value="133" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -744,8 +743,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Tree Test" />
-    <MESSAGE value="an expected list of matches" />
     <MESSAGE value="multi-level toothbrush sales" />
     <MESSAGE value="number&amp;Char" />
     <MESSAGE value="Vowel and consonant strength" />
@@ -769,7 +766,9 @@
     <MESSAGE value="단어 공부" />
     <MESSAGE value="펠린드롬 확인" />
     <MESSAGE value="크로아티아 문제" />
-    <option name="LAST_COMMIT_MESSAGE" value="크로아티아 문제" />
+    <MESSAGE value="Array" />
+    <MESSAGE value="그룹 단어 체커" />
+    <option name="LAST_COMMIT_MESSAGE" value="그룹 단어 체커" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
