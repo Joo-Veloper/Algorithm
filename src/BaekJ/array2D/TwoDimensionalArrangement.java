@@ -1,4 +1,4 @@
-package BaekJ;
+package BaekJ.array2D;
 
 
 import java.util.Scanner;
