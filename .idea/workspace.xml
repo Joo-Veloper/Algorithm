@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="최댓값">
-      <change afterPath="$PROJECT_DIR$/src/BaekJ/array2D/ReadLength.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaekJ/array2D/re.java" afterDir="false" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="length">
       <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -337,15 +334,7 @@
       <workItem from="1719278328295" duration="4464000" />
       <workItem from="1719288483237" duration="2232000" />
       <workItem from="1719324860069" duration="1766000" />
-      <workItem from="1719375022272" duration="15559000" />
-    </task>
-    <task id="LOCAL-00087" summary="AnUnsuccessfulRunner">
-      <option name="closed" value="true" />
-      <created>1714045567845</created>
-      <option name="number" value="00087" />
-      <option name="presentableId" value="LOCAL-00087" />
-      <option name="project" value="LOCAL" />
-      <updated>1714045567845</updated>
+      <workItem from="1719375022272" duration="15992000" />
     </task>
     <task id="LOCAL-00088" summary="완주하지 못한 선수">
       <option name="closed" value="true" />
@@ -731,7 +720,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719326608118</updated>
     </task>
-    <option name="localTasksCounter" value="136" />
+    <task id="LOCAL-00136" summary="length">
+      <option name="closed" value="true" />
+      <created>1719405691451</created>
+      <option name="number" value="00136" />
+      <option name="presentableId" value="LOCAL-00136" />
+      <option name="project" value="LOCAL" />
+      <updated>1719405691451</updated>
+    </task>
+    <option name="localTasksCounter" value="137" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -749,7 +746,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="BackJoon Minus, PLUS, TARET" />
     <MESSAGE value="BackJ Minus, TARET" />
     <MESSAGE value="I/O and four arithmetic operations" />
     <MESSAGE value="conditional statement" />
@@ -774,7 +770,8 @@
     <MESSAGE value="rating" />
     <MESSAGE value="ArraysPlus" />
     <MESSAGE value="최댓값" />
-    <option name="LAST_COMMIT_MESSAGE" value="최댓값" />
+    <MESSAGE value="length" />
+    <option name="LAST_COMMIT_MESSAGE" value="length" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
