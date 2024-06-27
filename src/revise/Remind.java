@@ -1,3 +1,5 @@
+package revise;
+
 import java.util.Scanner;
 
 public class Remind {
