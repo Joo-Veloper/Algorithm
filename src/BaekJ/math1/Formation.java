@@ -9,17 +9,19 @@ public class Formation {
         int B = sc.nextInt();
 
         long result = 0;
-        int exponent = 0;
-        int num = 0;
-        for (int i = 0; i < N.length(); i++) {
-            char ch = N.charAt(i);
+        int length = N.length();
+
+        for (int i = 0; i < length; i++) {
+            char ch = N.charAt(length - 1 - i);  // 뒤에서부터 접근
+            int num;
             if (ch >= '0' && ch <= '9') {
-                num = ch - '0';
+                num = ch - '0';  // 숫자일 경우
             } else {
-                num = ch - 55;
+                num = ch - 'A' + 10;  // 문자일 경우
             }
-            result += num * Math.pow(B, exponent++);
+            result += num * Math.pow(B, i);
         }
+
         System.out.println(result);
     }
 }
