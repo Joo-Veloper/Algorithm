@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="Algorithm remind">
-      <change afterPath="$PROJECT_DIR$/src/BaekJ/array2D/ColorPaper.java" afterDir="false" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="진법 변환2">
+      <change afterPath="$PROJECT_DIR$/src/revise/Laundry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/revise/Remind2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,11 +80,11 @@
       <recent name="C:\Users\SeungJoo\Algorithm\Do Algorithm\src\Basic\chap01" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="BaekJ.math1" />
+      <recent name="revise" />
       <recent name="BaekJ.array2D" />
       <recent name="BaekJ.deep" />
       <recent name="PCC.Array" />
-      <recent name="BaekJ.string" />
-      <recent name="BaekJ.array" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -337,63 +338,18 @@
       <workItem from="1719324860069" duration="1766000" />
       <workItem from="1719375022272" duration="16610000" />
       <workItem from="1719454584415" duration="1504000" />
-      <workItem from="1719491830106" duration="1729000" />
-    </task>
-    <task id="LOCAL-00089" summary="Mart HashAlgorithm">
-      <option name="closed" value="true" />
-      <created>1714132753753</created>
-      <option name="number" value="00089" />
-      <option name="presentableId" value="LOCAL-00089" />
-      <option name="project" value="LOCAL" />
-      <updated>1714132753753</updated>
-    </task>
-    <task id="LOCAL-00090" summary="BubbleSort">
-      <option name="closed" value="true" />
-      <created>1714134427756</created>
-      <option name="number" value="00090" />
-      <option name="presentableId" value="LOCAL-00090" />
-      <option name="project" value="LOCAL" />
-      <updated>1714134427756</updated>
-    </task>
-    <task id="LOCAL-00091" summary="BubbleSortProgram">
-      <option name="closed" value="true" />
-      <created>1714209521681</created>
-      <option name="number" value="00091" />
-      <option name="presentableId" value="LOCAL-00091" />
-      <option name="project" value="LOCAL" />
-      <updated>1714209521681</updated>
-    </task>
-    <task id="LOCAL-00092" summary="SelectSort">
-      <option name="closed" value="true" />
-      <created>1714282382191</created>
-      <option name="number" value="00092" />
-      <option name="presentableId" value="LOCAL-00092" />
-      <option name="project" value="LOCAL" />
-      <updated>1714282382191</updated>
-    </task>
-    <task id="LOCAL-00093" summary="SelectSort 설명추가">
-      <option name="closed" value="true" />
-      <created>1714282722135</created>
-      <option name="number" value="00093" />
-      <option name="presentableId" value="LOCAL-00093" />
-      <option name="project" value="LOCAL" />
-      <updated>1714282722135</updated>
-    </task>
-    <task id="LOCAL-00094" summary="OpenChat">
-      <option name="closed" value="true" />
-      <created>1714313564238</created>
-      <option name="number" value="00094" />
-      <option name="presentableId" value="LOCAL-00094" />
-      <option name="project" value="LOCAL" />
-      <updated>1714313564238</updated>
-    </task>
-    <task id="LOCAL-00095" summary="Best Album">
-      <option name="closed" value="true" />
-      <created>1714488389023</created>
-      <option name="number" value="00095" />
-      <option name="presentableId" value="LOCAL-00095" />
-      <option name="project" value="LOCAL" />
-      <updated>1714488389024</updated>
+      <workItem from="1719491830106" duration="2768000" />
+      <workItem from="1719495699593" duration="2241000" />
+      <workItem from="1719533777656" duration="2993000" />
+      <workItem from="1719546891247" duration="599000" />
+      <workItem from="1719577602312" duration="5584000" />
+      <workItem from="1719588474159" duration="446000" />
+      <workItem from="1719589657112" duration="961000" />
+      <workItem from="1719650213625" duration="1323000" />
+      <workItem from="1719661469868" duration="1967000" />
+      <workItem from="1719663465295" duration="3298000" />
+      <workItem from="1719716875642" duration="9000" />
+      <workItem from="1719729935838" duration="3404000" />
     </task>
     <task id="LOCAL-00096" summary="Report">
       <option name="closed" value="true" />
@@ -731,7 +687,63 @@
       <option name="project" value="LOCAL" />
       <updated>1719406189154</updated>
     </task>
-    <option name="localTasksCounter" value="138" />
+    <task id="LOCAL-00138" summary="ColorPaper">
+      <option name="closed" value="true" />
+      <created>1719494599371</created>
+      <option name="number" value="00138" />
+      <option name="presentableId" value="LOCAL-00138" />
+      <option name="project" value="LOCAL" />
+      <updated>1719494599371</updated>
+    </task>
+    <task id="LOCAL-00139" summary="파일 이동">
+      <option name="closed" value="true" />
+      <created>1719494779623</created>
+      <option name="number" value="00139" />
+      <option name="presentableId" value="LOCAL-00139" />
+      <option name="project" value="LOCAL" />
+      <updated>1719494779624</updated>
+    </task>
+    <task id="LOCAL-00140" summary="진법 변환">
+      <option name="closed" value="true" />
+      <created>1719582897021</created>
+      <option name="number" value="00140" />
+      <option name="presentableId" value="LOCAL-00140" />
+      <option name="project" value="LOCAL" />
+      <updated>1719582897021</updated>
+    </task>
+    <task id="LOCAL-00141" summary="진법 변환 ch">
+      <option name="closed" value="true" />
+      <created>1719583293071</created>
+      <option name="number" value="00141" />
+      <option name="presentableId" value="LOCAL-00141" />
+      <option name="project" value="LOCAL" />
+      <updated>1719583293071</updated>
+    </task>
+    <task id="LOCAL-00142" summary="ParseInt 사용">
+      <option name="closed" value="true" />
+      <created>1719650986994</created>
+      <option name="number" value="00142" />
+      <option name="presentableId" value="LOCAL-00142" />
+      <option name="project" value="LOCAL" />
+      <updated>1719650986995</updated>
+    </task>
+    <task id="LOCAL-00143" summary="진법 변환 REF">
+      <option name="closed" value="true" />
+      <created>1719651010401</created>
+      <option name="number" value="00143" />
+      <option name="presentableId" value="LOCAL-00143" />
+      <option name="project" value="LOCAL" />
+      <updated>1719651010401</updated>
+    </task>
+    <task id="LOCAL-00144" summary="진법 변환2">
+      <option name="closed" value="true" />
+      <created>1719651017409</created>
+      <option name="number" value="00144" />
+      <option name="presentableId" value="LOCAL-00144" />
+      <option name="project" value="LOCAL" />
+      <updated>1719651017409</updated>
+    </task>
+    <option name="localTasksCounter" value="145" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -749,13 +761,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="I/O and four arithmetic operations" />
-    <MESSAGE value="conditional statement" />
-    <MESSAGE value="a repetitive sentence" />
-    <MESSAGE value="Test Delete" />
-    <MESSAGE value="One-dimensional arrangement" />
-    <MESSAGE value="File Organization" />
-    <MESSAGE value="Merge branch 'main' of https://github.com/Joo-Veloper/Algorithm" />
     <MESSAGE value="String Algorithm" />
     <MESSAGE value="Alphabet" />
     <MESSAGE value="RepeatString" />
@@ -774,7 +779,14 @@
     <MESSAGE value="최댓값" />
     <MESSAGE value="length" />
     <MESSAGE value="Algorithm remind" />
-    <option name="LAST_COMMIT_MESSAGE" value="Algorithm remind" />
+    <MESSAGE value="ColorPaper" />
+    <MESSAGE value="파일 이동" />
+    <MESSAGE value="진법 변환" />
+    <MESSAGE value="진법 변환 ch" />
+    <MESSAGE value="ParseInt 사용" />
+    <MESSAGE value="진법 변환 REF" />
+    <MESSAGE value="진법 변환2" />
+    <option name="LAST_COMMIT_MESSAGE" value="진법 변환2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
