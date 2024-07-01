@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="세탁소 ref">
-      <change afterPath="$PROJECT_DIR$/src/BaekJ/math1/CenterAlgorithm.java" afterDir="false" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="중앙이동 알고리즘">
+      <change afterPath="$PROJECT_DIR$/src/BaekJ/math1/BeeHouse.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/revise/Remind2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -354,15 +354,7 @@
       <workItem from="1719745215570" duration="354000" />
       <workItem from="1719792263398" duration="1843000" />
       <workItem from="1719794613892" duration="1050000" />
-      <workItem from="1719835900654" duration="2223000" />
-    </task>
-    <task id="LOCAL-00098" summary="트리순회">
-      <option name="closed" value="true" />
-      <created>1714745119673</created>
-      <option name="number" value="00098" />
-      <option name="presentableId" value="LOCAL-00098" />
-      <option name="project" value="LOCAL" />
-      <updated>1714745119673</updated>
+      <workItem from="1719835900654" duration="4622000" />
     </task>
     <task id="LOCAL-00099" summary="Tree Test">
       <option name="closed" value="true" />
@@ -748,7 +740,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719836521631</updated>
     </task>
-    <option name="localTasksCounter" value="147" />
+    <task id="LOCAL-00147" summary="중앙이동 알고리즘">
+      <option name="closed" value="true" />
+      <created>1719838577056</created>
+      <option name="number" value="00147" />
+      <option name="presentableId" value="LOCAL-00147" />
+      <option name="project" value="LOCAL" />
+      <updated>1719838577056</updated>
+    </task>
+    <option name="localTasksCounter" value="148" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -766,7 +766,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="RepeatString" />
     <MESSAGE value="Word Count" />
     <MESSAGE value="Constant" />
     <MESSAGE value="Dial" />
@@ -791,7 +790,8 @@
     <MESSAGE value="진법 변환2" />
     <MESSAGE value="세탁소" />
     <MESSAGE value="세탁소 ref" />
-    <option name="LAST_COMMIT_MESSAGE" value="세탁소 ref" />
+    <MESSAGE value="중앙이동 알고리즘" />
+    <option name="LAST_COMMIT_MESSAGE" value="중앙이동 알고리즘" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
