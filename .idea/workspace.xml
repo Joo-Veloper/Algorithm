@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="진법 변환2">
-      <change afterPath="$PROJECT_DIR$/src/revise/Laundry.java" afterDir="false" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="세탁소">
       <change afterPath="$PROJECT_DIR$/src/revise/Remind2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -349,15 +348,12 @@
       <workItem from="1719661469868" duration="1967000" />
       <workItem from="1719663465295" duration="3298000" />
       <workItem from="1719716875642" duration="9000" />
-      <workItem from="1719729935838" duration="3404000" />
-    </task>
-    <task id="LOCAL-00096" summary="Report">
-      <option name="closed" value="true" />
-      <created>1714658674176</created>
-      <option name="number" value="00096" />
-      <option name="presentableId" value="LOCAL-00096" />
-      <option name="project" value="LOCAL" />
-      <updated>1714658674176</updated>
+      <workItem from="1719729935838" duration="4756000" />
+      <workItem from="1719743607458" duration="404000" />
+      <workItem from="1719745215570" duration="354000" />
+      <workItem from="1719792263398" duration="1843000" />
+      <workItem from="1719794613892" duration="1050000" />
+      <workItem from="1719835900654" duration="548000" />
     </task>
     <task id="LOCAL-00097" summary="Menu Renewal">
       <option name="closed" value="true" />
@@ -743,7 +739,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719651017409</updated>
     </task>
-    <option name="localTasksCounter" value="145" />
+    <task id="LOCAL-00145" summary="세탁소">
+      <option name="closed" value="true" />
+      <created>1719734132396</created>
+      <option name="number" value="00145" />
+      <option name="presentableId" value="LOCAL-00145" />
+      <option name="project" value="LOCAL" />
+      <updated>1719734132396</updated>
+    </task>
+    <option name="localTasksCounter" value="146" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -761,7 +765,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="String Algorithm" />
     <MESSAGE value="Alphabet" />
     <MESSAGE value="RepeatString" />
     <MESSAGE value="Word Count" />
@@ -786,7 +789,8 @@
     <MESSAGE value="ParseInt 사용" />
     <MESSAGE value="진법 변환 REF" />
     <MESSAGE value="진법 변환2" />
-    <option name="LAST_COMMIT_MESSAGE" value="진법 변환2" />
+    <MESSAGE value="세탁소" />
+    <option name="LAST_COMMIT_MESSAGE" value="세탁소" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

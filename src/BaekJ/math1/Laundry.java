@@ -1,4 +1,4 @@
-package revise;
+package BaekJ.math1;
 
 import java.util.Scanner;
 
