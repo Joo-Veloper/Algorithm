@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="세탁소">
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="세탁소 ref">
+      <change afterPath="$PROJECT_DIR$/src/BaekJ/math1/CenterAlgorithm.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/revise/Remind2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -353,15 +354,7 @@
       <workItem from="1719745215570" duration="354000" />
       <workItem from="1719792263398" duration="1843000" />
       <workItem from="1719794613892" duration="1050000" />
-      <workItem from="1719835900654" duration="548000" />
-    </task>
-    <task id="LOCAL-00097" summary="Menu Renewal">
-      <option name="closed" value="true" />
-      <created>1714662421665</created>
-      <option name="number" value="00097" />
-      <option name="presentableId" value="LOCAL-00097" />
-      <option name="project" value="LOCAL" />
-      <updated>1714662421665</updated>
+      <workItem from="1719835900654" duration="2223000" />
     </task>
     <task id="LOCAL-00098" summary="트리순회">
       <option name="closed" value="true" />
@@ -747,7 +740,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719734132396</updated>
     </task>
-    <option name="localTasksCounter" value="146" />
+    <task id="LOCAL-00146" summary="세탁소 ref">
+      <option name="closed" value="true" />
+      <created>1719836521627</created>
+      <option name="number" value="00146" />
+      <option name="presentableId" value="LOCAL-00146" />
+      <option name="project" value="LOCAL" />
+      <updated>1719836521631</updated>
+    </task>
+    <option name="localTasksCounter" value="147" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -765,7 +766,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Alphabet" />
     <MESSAGE value="RepeatString" />
     <MESSAGE value="Word Count" />
     <MESSAGE value="Constant" />
@@ -790,7 +790,8 @@
     <MESSAGE value="진법 변환 REF" />
     <MESSAGE value="진법 변환2" />
     <MESSAGE value="세탁소" />
-    <option name="LAST_COMMIT_MESSAGE" value="세탁소" />
+    <MESSAGE value="세탁소 ref" />
+    <option name="LAST_COMMIT_MESSAGE" value="세탁소 ref" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
