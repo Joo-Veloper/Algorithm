@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="중앙이동 알고리즘">
-      <change afterPath="$PROJECT_DIR$/src/BaekJ/math1/BeeHouse.java" afterDir="false" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="벌집">
+      <change afterPath="$PROJECT_DIR$/src/BaekJ/math1/FindDivide.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/revise/Remind2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -354,15 +354,10 @@
       <workItem from="1719745215570" duration="354000" />
       <workItem from="1719792263398" duration="1843000" />
       <workItem from="1719794613892" duration="1050000" />
-      <workItem from="1719835900654" duration="4622000" />
-    </task>
-    <task id="LOCAL-00099" summary="Tree Test">
-      <option name="closed" value="true" />
-      <created>1714749139668</created>
-      <option name="number" value="00099" />
-      <option name="presentableId" value="LOCAL-00099" />
-      <option name="project" value="LOCAL" />
-      <updated>1714749139668</updated>
+      <workItem from="1719835900654" duration="6409000" />
+      <workItem from="1719881934517" duration="193000" />
+      <workItem from="1719917098926" duration="2206000" />
+      <workItem from="1719927661456" duration="1014000" />
     </task>
     <task id="LOCAL-00100" summary="an expected list of matches">
       <option name="closed" value="true" />
@@ -748,7 +743,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719838577056</updated>
     </task>
-    <option name="localTasksCounter" value="148" />
+    <task id="LOCAL-00148" summary="벌집">
+      <option name="closed" value="true" />
+      <created>1719841988504</created>
+      <option name="number" value="00148" />
+      <option name="presentableId" value="LOCAL-00148" />
+      <option name="project" value="LOCAL" />
+      <updated>1719841988504</updated>
+    </task>
+    <option name="localTasksCounter" value="149" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -766,7 +769,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Word Count" />
     <MESSAGE value="Constant" />
     <MESSAGE value="Dial" />
     <MESSAGE value="Input Scanner" />
@@ -791,7 +793,8 @@
     <MESSAGE value="세탁소" />
     <MESSAGE value="세탁소 ref" />
     <MESSAGE value="중앙이동 알고리즘" />
-    <option name="LAST_COMMIT_MESSAGE" value="중앙이동 알고리즘" />
+    <MESSAGE value="벌집" />
+    <option name="LAST_COMMIT_MESSAGE" value="벌집" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
