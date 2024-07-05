@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="벌집">
-      <change afterPath="$PROJECT_DIR$/src/BaekJ/math1/FindDivide.java" afterDir="false" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="분수 찾기">
+      <change afterPath="$PROJECT_DIR$/src/BaekJ/math1/Snail.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/revise/Remind2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/revise/Remind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/revise/Remind.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -357,15 +358,12 @@
       <workItem from="1719835900654" duration="6409000" />
       <workItem from="1719881934517" duration="193000" />
       <workItem from="1719917098926" duration="2206000" />
-      <workItem from="1719927661456" duration="1014000" />
-    </task>
-    <task id="LOCAL-00100" summary="an expected list of matches">
-      <option name="closed" value="true" />
-      <created>1714983291667</created>
-      <option name="number" value="00100" />
-      <option name="presentableId" value="LOCAL-00100" />
-      <option name="project" value="LOCAL" />
-      <updated>1714983291667</updated>
+      <workItem from="1719927661456" duration="3997000" />
+      <workItem from="1719964789331" duration="1433000" />
+      <workItem from="1720093629376" duration="1170000" />
+      <workItem from="1720145437966" duration="219000" />
+      <workItem from="1720161384680" duration="8988000" />
+      <workItem from="1720177873231" duration="4040000" />
     </task>
     <task id="LOCAL-00101" summary="multi-level toothbrush sales">
       <option name="closed" value="true" />
@@ -751,7 +749,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719841988504</updated>
     </task>
-    <option name="localTasksCounter" value="149" />
+    <task id="LOCAL-00149" summary="분수 찾기">
+      <option name="closed" value="true" />
+      <created>1719929250206</created>
+      <option name="number" value="00149" />
+      <option name="presentableId" value="LOCAL-00149" />
+      <option name="project" value="LOCAL" />
+      <updated>1719929250207</updated>
+    </task>
+    <option name="localTasksCounter" value="150" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -769,7 +775,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Constant" />
     <MESSAGE value="Dial" />
     <MESSAGE value="Input Scanner" />
     <MESSAGE value="Algorithm Test" />
@@ -794,7 +799,8 @@
     <MESSAGE value="세탁소 ref" />
     <MESSAGE value="중앙이동 알고리즘" />
     <MESSAGE value="벌집" />
-    <option name="LAST_COMMIT_MESSAGE" value="벌집" />
+    <MESSAGE value="분수 찾기" />
+    <option name="LAST_COMMIT_MESSAGE" value="분수 찾기" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
