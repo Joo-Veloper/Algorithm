@@ -1,4 +1,4 @@
-package BaekJ.math1;
+package BaekJ.multiples;
 
 import java.util.Scanner;
 
