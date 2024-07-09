@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="분수 찾기">
-      <change afterPath="$PROJECT_DIR$/src/BaekJ/math1/Snail.java" afterDir="false" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="약수 구하기">
       <change afterPath="$PROJECT_DIR$/src/revise/Remind2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/revise/Remind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/revise/Remind.java" afterDir="false" />
@@ -81,11 +80,11 @@
       <recent name="C:\Users\SeungJoo\Algorithm\Do Algorithm\src\Basic\chap01" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="BaekJ.multiples" />
       <recent name="BaekJ.math1" />
       <recent name="revise" />
       <recent name="BaekJ.array2D" />
       <recent name="BaekJ.deep" />
-      <recent name="PCC.Array" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -363,39 +362,14 @@
       <workItem from="1720093629376" duration="1170000" />
       <workItem from="1720145437966" duration="219000" />
       <workItem from="1720161384680" duration="8988000" />
-      <workItem from="1720177873231" duration="4040000" />
-    </task>
-    <task id="LOCAL-00101" summary="multi-level toothbrush sales">
-      <option name="closed" value="true" />
-      <created>1714983323374</created>
-      <option name="number" value="00101" />
-      <option name="presentableId" value="LOCAL-00101" />
-      <option name="project" value="LOCAL" />
-      <updated>1714983323374</updated>
-    </task>
-    <task id="LOCAL-00102" summary="number&amp;Char">
-      <option name="closed" value="true" />
-      <created>1715339244586</created>
-      <option name="number" value="00102" />
-      <option name="presentableId" value="LOCAL-00102" />
-      <option name="project" value="LOCAL" />
-      <updated>1715339244586</updated>
-    </task>
-    <task id="LOCAL-00103" summary="Vowel and consonant strength">
-      <option name="closed" value="true" />
-      <created>1715343954425</created>
-      <option name="number" value="00103" />
-      <option name="presentableId" value="LOCAL-00103" />
-      <option name="project" value="LOCAL" />
-      <updated>1715343954425</updated>
-    </task>
-    <task id="LOCAL-00104" summary="BackJoon Minus, PLUS, TARET">
-      <option name="closed" value="true" />
-      <created>1716301296156</created>
-      <option name="number" value="00104" />
-      <option name="presentableId" value="LOCAL-00104" />
-      <option name="project" value="LOCAL" />
-      <updated>1716301296156</updated>
+      <workItem from="1720177873231" duration="4194000" />
+      <workItem from="1720239971365" duration="1177000" />
+      <workItem from="1720258525803" duration="4341000" />
+      <workItem from="1720321368560" duration="724000" />
+      <workItem from="1720322724880" duration="4897000" />
+      <workItem from="1720335850103" duration="102000" />
+      <workItem from="1720343114310" duration="145000" />
+      <workItem from="1720448112195" duration="3000" />
     </task>
     <task id="LOCAL-00105" summary="BackJ Minus, TARET">
       <option name="closed" value="true" />
@@ -757,7 +731,39 @@
       <option name="project" value="LOCAL" />
       <updated>1719929250207</updated>
     </task>
-    <option name="localTasksCounter" value="150" />
+    <task id="LOCAL-00150" summary="달팽이는 올라가고 싶다">
+      <option name="closed" value="true" />
+      <created>1720183363066</created>
+      <option name="number" value="00150" />
+      <option name="presentableId" value="LOCAL-00150" />
+      <option name="project" value="LOCAL" />
+      <updated>1720183363066</updated>
+    </task>
+    <task id="LOCAL-00151" summary="MultiplesAndDivisors">
+      <option name="closed" value="true" />
+      <created>1720264443861</created>
+      <option name="number" value="00151" />
+      <option name="presentableId" value="LOCAL-00151" />
+      <option name="project" value="LOCAL" />
+      <updated>1720264443861</updated>
+    </task>
+    <task id="LOCAL-00152" summary="파일 위치 변경">
+      <option name="closed" value="true" />
+      <created>1720322753148</created>
+      <option name="number" value="00152" />
+      <option name="presentableId" value="LOCAL-00152" />
+      <option name="project" value="LOCAL" />
+      <updated>1720322753148</updated>
+    </task>
+    <task id="LOCAL-00153" summary="약수 구하기">
+      <option name="closed" value="true" />
+      <created>1720324647697</created>
+      <option name="number" value="00153" />
+      <option name="presentableId" value="LOCAL-00153" />
+      <option name="project" value="LOCAL" />
+      <updated>1720324647697</updated>
+    </task>
+    <option name="localTasksCounter" value="154" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -775,10 +781,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Dial" />
-    <MESSAGE value="Input Scanner" />
-    <MESSAGE value="Algorithm Test" />
-    <MESSAGE value="단어 공부" />
     <MESSAGE value="펠린드롬 확인" />
     <MESSAGE value="크로아티아 문제" />
     <MESSAGE value="Array" />
@@ -800,7 +802,11 @@
     <MESSAGE value="중앙이동 알고리즘" />
     <MESSAGE value="벌집" />
     <MESSAGE value="분수 찾기" />
-    <option name="LAST_COMMIT_MESSAGE" value="분수 찾기" />
+    <MESSAGE value="달팽이는 올라가고 싶다" />
+    <MESSAGE value="MultiplesAndDivisors" />
+    <MESSAGE value="파일 위치 변경" />
+    <MESSAGE value="약수 구하기" />
+    <option name="LAST_COMMIT_MESSAGE" value="약수 구하기" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
