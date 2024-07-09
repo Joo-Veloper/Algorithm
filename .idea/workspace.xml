@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="약수 구하기">
-      <change afterPath="$PROJECT_DIR$/src/revise/Remind2.java" afterDir="false" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="Remind">
+      <change afterPath="$PROJECT_DIR$/src/BaekJ/multiples/Measure_plus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/revise/Remind3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/revise/Remind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/revise/Remind.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -370,14 +370,9 @@
       <workItem from="1720335850103" duration="102000" />
       <workItem from="1720343114310" duration="145000" />
       <workItem from="1720448112195" duration="3000" />
-    </task>
-    <task id="LOCAL-00105" summary="BackJ Minus, TARET">
-      <option name="closed" value="true" />
-      <created>1716301742906</created>
-      <option name="number" value="00105" />
-      <option name="presentableId" value="LOCAL-00105" />
-      <option name="project" value="LOCAL" />
-      <updated>1716301742906</updated>
+      <workItem from="1720488627605" duration="4921000" />
+      <workItem from="1720503818008" duration="81000" />
+      <workItem from="1720526565996" duration="2373000" />
     </task>
     <task id="LOCAL-00106" summary="I/O and four arithmetic operations">
       <option name="closed" value="true" />
@@ -763,7 +758,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720324647697</updated>
     </task>
-    <option name="localTasksCounter" value="154" />
+    <task id="LOCAL-00154" summary="Remind">
+      <option name="closed" value="true" />
+      <created>1720488966333</created>
+      <option name="number" value="00154" />
+      <option name="presentableId" value="LOCAL-00154" />
+      <option name="project" value="LOCAL" />
+      <updated>1720488966333</updated>
+    </task>
+    <option name="localTasksCounter" value="155" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -781,7 +784,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="펠린드롬 확인" />
     <MESSAGE value="크로아티아 문제" />
     <MESSAGE value="Array" />
     <MESSAGE value="그룹 단어 체커" />
@@ -806,7 +808,8 @@
     <MESSAGE value="MultiplesAndDivisors" />
     <MESSAGE value="파일 위치 변경" />
     <MESSAGE value="약수 구하기" />
-    <option name="LAST_COMMIT_MESSAGE" value="약수 구하기" />
+    <MESSAGE value="Remind" />
+    <option name="LAST_COMMIT_MESSAGE" value="Remind" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
