@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="Sum of divisors">
-      <change afterPath="$PROJECT_DIR$/src/BaekJ/multiples/FindDecimal.java" afterDir="false" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="FindDecimal">
       <change afterPath="$PROJECT_DIR$/src/revise/Remind3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -373,15 +372,8 @@
       <workItem from="1720488627605" duration="4921000" />
       <workItem from="1720503818008" duration="81000" />
       <workItem from="1720526565996" duration="3042000" />
-      <workItem from="1720611968235" duration="1857000" />
-    </task>
-    <task id="LOCAL-00107" summary="I/O and four arithmetic operations">
-      <option name="closed" value="true" />
-      <created>1716368058895</created>
-      <option name="number" value="00107" />
-      <option name="presentableId" value="LOCAL-00107" />
-      <option name="project" value="LOCAL" />
-      <updated>1716368058896</updated>
+      <workItem from="1720611968235" duration="2374000" />
+      <workItem from="1720664943616" duration="7000" />
     </task>
     <task id="LOCAL-00108" summary="conditional statement">
       <option name="closed" value="true" />
@@ -767,7 +759,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720528985086</updated>
     </task>
-    <option name="localTasksCounter" value="156" />
+    <task id="LOCAL-00156" summary="FindDecimal">
+      <option name="closed" value="true" />
+      <created>1720613872447</created>
+      <option name="number" value="00156" />
+      <option name="presentableId" value="LOCAL-00156" />
+      <option name="project" value="LOCAL" />
+      <updated>1720613872447</updated>
+    </task>
+    <option name="localTasksCounter" value="157" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -785,7 +785,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Array" />
     <MESSAGE value="그룹 단어 체커" />
     <MESSAGE value="rating" />
     <MESSAGE value="ArraysPlus" />
@@ -810,7 +809,8 @@
     <MESSAGE value="약수 구하기" />
     <MESSAGE value="Remind" />
     <MESSAGE value="Sum of divisors" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sum of divisors" />
+    <MESSAGE value="FindDecimal" />
+    <option name="LAST_COMMIT_MESSAGE" value="FindDecimal" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
