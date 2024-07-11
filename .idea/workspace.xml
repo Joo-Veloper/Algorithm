@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="FindDecimal">
-      <change afterPath="$PROJECT_DIR$/src/revise/Remind3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="RE">
+      <change afterPath="$PROJECT_DIR$/src/BaekJ/multiples/Decimal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -374,14 +373,7 @@
       <workItem from="1720526565996" duration="3042000" />
       <workItem from="1720611968235" duration="2374000" />
       <workItem from="1720664943616" duration="7000" />
-    </task>
-    <task id="LOCAL-00108" summary="conditional statement">
-      <option name="closed" value="true" />
-      <created>1716463901627</created>
-      <option name="number" value="00108" />
-      <option name="presentableId" value="LOCAL-00108" />
-      <option name="project" value="LOCAL" />
-      <updated>1716463901627</updated>
+      <workItem from="1720707021564" duration="1234000" />
     </task>
     <task id="LOCAL-00109" summary="a repetitive sentence">
       <option name="closed" value="true" />
@@ -767,7 +759,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720613872447</updated>
     </task>
-    <option name="localTasksCounter" value="157" />
+    <task id="LOCAL-00157" summary="RE">
+      <option name="closed" value="true" />
+      <created>1720708099280</created>
+      <option name="number" value="00157" />
+      <option name="presentableId" value="LOCAL-00157" />
+      <option name="project" value="LOCAL" />
+      <updated>1720708099280</updated>
+    </task>
+    <option name="localTasksCounter" value="158" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -785,7 +785,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="그룹 단어 체커" />
     <MESSAGE value="rating" />
     <MESSAGE value="ArraysPlus" />
     <MESSAGE value="최댓값" />
@@ -810,7 +809,8 @@
     <MESSAGE value="Remind" />
     <MESSAGE value="Sum of divisors" />
     <MESSAGE value="FindDecimal" />
-    <option name="LAST_COMMIT_MESSAGE" value="FindDecimal" />
+    <MESSAGE value="RE" />
+    <option name="LAST_COMMIT_MESSAGE" value="RE" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
