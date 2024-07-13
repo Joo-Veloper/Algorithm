@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="소수">
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="Retangle">
+      <change afterPath="$PROJECT_DIR$/src/BaekJ/geometry/EscapeRectangle.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/BaekJ/multiples/Count.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaekJ/multiples/Factorization.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -376,23 +376,8 @@
       <workItem from="1720611968235" duration="2374000" />
       <workItem from="1720664943616" duration="7000" />
       <workItem from="1720707021564" duration="3506000" />
-      <workItem from="1720742981851" duration="3638000" />
-    </task>
-    <task id="LOCAL-00110" summary="Test Delete">
-      <option name="closed" value="true" />
-      <created>1716535895859</created>
-      <option name="number" value="00110" />
-      <option name="presentableId" value="LOCAL-00110" />
-      <option name="project" value="LOCAL" />
-      <updated>1716535895859</updated>
-    </task>
-    <task id="LOCAL-00111" summary="One-dimensional arrangement">
-      <option name="closed" value="true" />
-      <created>1716562131030</created>
-      <option name="number" value="00111" />
-      <option name="presentableId" value="LOCAL-00111" />
-      <option name="project" value="LOCAL" />
-      <updated>1716562131030</updated>
+      <workItem from="1720742981851" duration="4480000" />
+      <workItem from="1720855143828" duration="1129000" />
     </task>
     <task id="LOCAL-00112" summary="One-dimensional arrangement">
       <option name="closed" value="true" />
@@ -770,7 +755,23 @@
       <option name="project" value="LOCAL" />
       <updated>1720708310692</updated>
     </task>
-    <option name="localTasksCounter" value="159" />
+    <task id="LOCAL-00159" summary="소인수분해">
+      <option name="closed" value="true" />
+      <created>1720746680410</created>
+      <option name="number" value="00159" />
+      <option name="presentableId" value="LOCAL-00159" />
+      <option name="project" value="LOCAL" />
+      <updated>1720746680411</updated>
+    </task>
+    <task id="LOCAL-00160" summary="Retangle">
+      <option name="closed" value="true" />
+      <created>1720856296222</created>
+      <option name="number" value="00160" />
+      <option name="presentableId" value="LOCAL-00160" />
+      <option name="project" value="LOCAL" />
+      <updated>1720856296222</updated>
+    </task>
+    <option name="localTasksCounter" value="161" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -788,8 +789,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ArraysPlus" />
-    <MESSAGE value="최댓값" />
     <MESSAGE value="length" />
     <MESSAGE value="Algorithm remind" />
     <MESSAGE value="ColorPaper" />
@@ -813,7 +812,9 @@
     <MESSAGE value="FindDecimal" />
     <MESSAGE value="RE" />
     <MESSAGE value="소수" />
-    <option name="LAST_COMMIT_MESSAGE" value="소수" />
+    <MESSAGE value="소인수분해" />
+    <MESSAGE value="Retangle" />
+    <option name="LAST_COMMIT_MESSAGE" value="Retangle" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
