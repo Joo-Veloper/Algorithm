@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="EscapeRectangle">
-      <change afterPath="$PROJECT_DIR$/src/BaekJ/geometry/PointFour.java" afterDir="false" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="4개의 점">
+      <change afterPath="$PROJECT_DIR$/src/BaekJ/geometry/MathGym.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/BaekJ/multiples/Count.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -379,15 +379,8 @@
       <workItem from="1720742981851" duration="4480000" />
       <workItem from="1720855143828" duration="1929000" />
       <workItem from="1720874433474" duration="6000" />
-      <workItem from="1720939542140" duration="5663000" />
-    </task>
-    <task id="LOCAL-00113" summary="One-dimensional arrangement">
-      <option name="closed" value="true" />
-      <created>1716707194087</created>
-      <option name="number" value="00113" />
-      <option name="presentableId" value="LOCAL-00113" />
-      <option name="project" value="LOCAL" />
-      <updated>1716707194088</updated>
+      <workItem from="1720939542140" duration="7171000" />
+      <workItem from="1721043153633" duration="667000" />
     </task>
     <task id="LOCAL-00114" summary="File Organization">
       <option name="closed" value="true" />
@@ -773,7 +766,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720856538256</updated>
     </task>
-    <option name="localTasksCounter" value="162" />
+    <task id="LOCAL-00162" summary="4개의 점">
+      <option name="closed" value="true" />
+      <created>1720948198202</created>
+      <option name="number" value="00162" />
+      <option name="presentableId" value="LOCAL-00162" />
+      <option name="project" value="LOCAL" />
+      <updated>1720948198203</updated>
+    </task>
+    <option name="localTasksCounter" value="163" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -791,7 +792,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Algorithm remind" />
     <MESSAGE value="ColorPaper" />
     <MESSAGE value="파일 이동" />
     <MESSAGE value="진법 변환" />
@@ -816,7 +816,8 @@
     <MESSAGE value="소인수분해" />
     <MESSAGE value="Retangle" />
     <MESSAGE value="EscapeRectangle" />
-    <option name="LAST_COMMIT_MESSAGE" value="EscapeRectangle" />
+    <MESSAGE value="4개의 점" />
+    <option name="LAST_COMMIT_MESSAGE" value="4개의 점" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
