@@ -792,6 +792,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="파일 이동" />
     <MESSAGE value="진법 변환" />
     <MESSAGE value="진법 변환 ch" />
     <MESSAGE value="ParseInt 사용" />
@@ -816,7 +817,8 @@
     <MESSAGE value="EscapeRectangle" />
     <MESSAGE value="4개의 점" />
     <MESSAGE value="수학은 체육" />
-    <option name="LAST_COMMIT_MESSAGE" value="수학은 체육" />
+    <MESSAGE value="대지" />
+    <option name="LAST_COMMIT_MESSAGE" value="대지" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
