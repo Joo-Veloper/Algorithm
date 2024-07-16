@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="수학은 체육">
-      <change afterPath="$PROJECT_DIR$/src/BaekJ/geometry/Earth.java" afterDir="false" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="대지">
+      <change afterPath="$PROJECT_DIR$/src/BaekJ/geometry/MemorizingTriangle.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/BaekJ/multiples/Count.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -379,15 +380,8 @@
       <workItem from="1720855143828" duration="1929000" />
       <workItem from="1720874433474" duration="6000" />
       <workItem from="1720939542140" duration="7171000" />
-      <workItem from="1721043153633" duration="1889000" />
-    </task>
-    <task id="LOCAL-00115" summary="File Organization">
-      <option name="closed" value="true" />
-      <created>1716707258105</created>
-      <option name="number" value="00115" />
-      <option name="presentableId" value="LOCAL-00115" />
-      <option name="project" value="LOCAL" />
-      <updated>1716707258105</updated>
+      <workItem from="1721043153633" duration="2437000" />
+      <workItem from="1721133704443" duration="304000" />
     </task>
     <task id="LOCAL-00116" summary="Merge branch 'main' of https://github.com/Joo-Veloper/Algorithm">
       <option name="closed" value="true" />
@@ -773,7 +767,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721045745507</updated>
     </task>
-    <option name="localTasksCounter" value="164" />
+    <task id="LOCAL-00164" summary="대지">
+      <option name="closed" value="true" />
+      <created>1721046302015</created>
+      <option name="number" value="00164" />
+      <option name="presentableId" value="LOCAL-00164" />
+      <option name="project" value="LOCAL" />
+      <updated>1721046302015</updated>
+    </task>
+    <option name="localTasksCounter" value="165" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -791,7 +793,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="파일 이동" />
     <MESSAGE value="진법 변환" />
     <MESSAGE value="진법 변환 ch" />
     <MESSAGE value="ParseInt 사용" />
@@ -816,7 +817,8 @@
     <MESSAGE value="EscapeRectangle" />
     <MESSAGE value="4개의 점" />
     <MESSAGE value="수학은 체육" />
-    <option name="LAST_COMMIT_MESSAGE" value="수학은 체육" />
+    <MESSAGE value="대지" />
+    <option name="LAST_COMMIT_MESSAGE" value="대지" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
