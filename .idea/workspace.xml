@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="xml Merge">
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="Algorithm1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -380,22 +380,10 @@
       <workItem from="1720939542140" duration="7171000" />
       <workItem from="1721043153633" duration="2437000" />
       <workItem from="1721133704443" duration="304000" />
-    </task>
-    <task id="LOCAL-00117" summary="String Algorithm">
-      <option name="closed" value="true" />
-      <created>1716904866396</created>
-      <option name="number" value="00117" />
-      <option name="presentableId" value="LOCAL-00117" />
-      <option name="project" value="LOCAL" />
-      <updated>1716904866396</updated>
-    </task>
-    <task id="LOCAL-00118" summary="String Algorithm">
-      <option name="closed" value="true" />
-      <created>1717069594549</created>
-      <option name="number" value="00118" />
-      <option name="presentableId" value="LOCAL-00118" />
-      <option name="project" value="LOCAL" />
-      <updated>1717069594549</updated>
+      <workItem from="1721219508086" duration="4661000" />
+      <workItem from="1721276809099" duration="1283000" />
+      <workItem from="1721297192264" duration="2219000" />
+      <workItem from="1721349871424" duration="61000" />
     </task>
     <task id="LOCAL-00119" summary="Alphabet">
       <option name="closed" value="true" />
@@ -773,7 +761,23 @@
       <option name="project" value="LOCAL" />
       <updated>1721136061725</updated>
     </task>
-    <option name="localTasksCounter" value="166" />
+    <task id="LOCAL-00166" summary="세 막대">
+      <option name="closed" value="true" />
+      <created>1721221505443</created>
+      <option name="number" value="00166" />
+      <option name="presentableId" value="LOCAL-00166" />
+      <option name="project" value="LOCAL" />
+      <updated>1721221505443</updated>
+    </task>
+    <task id="LOCAL-00167" summary="Algorithm1">
+      <option name="closed" value="true" />
+      <created>1721302998356</created>
+      <option name="number" value="00167" />
+      <option name="presentableId" value="LOCAL-00167" />
+      <option name="project" value="LOCAL" />
+      <updated>1721302998356</updated>
+    </task>
+    <option name="localTasksCounter" value="168" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -791,8 +795,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="진법 변환 ch" />
-    <MESSAGE value="ParseInt 사용" />
     <MESSAGE value="진법 변환 REF" />
     <MESSAGE value="진법 변환2" />
     <MESSAGE value="세탁소" />
@@ -817,7 +819,9 @@
     <MESSAGE value="대지" />
     <MESSAGE value="삼각형과 세 변" />
     <MESSAGE value="xml Merge" />
-    <option name="LAST_COMMIT_MESSAGE" value="xml Merge" />
+    <MESSAGE value="세 막대" />
+    <MESSAGE value="Algorithm1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Algorithm1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
