@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="Algorithm1">
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="알고리즘 수업 - 알고리즘의 수행 시간 3">
+      <change afterPath="$PROJECT_DIR$/src/BaekJ/TimeComplexity/Algorithm4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekJ/TimeComplexity/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,11 +80,11 @@
       <recent name="C:\Users\SeungJoo\Algorithm\Do Algorithm\src\Basic\chap01" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="BaekJ.TimeComplexity" />
       <recent name="BaekJ.multiples" />
       <recent name="BaekJ.math1" />
       <recent name="revise" />
       <recent name="BaekJ.array2D" />
-      <recent name="BaekJ.deep" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -384,22 +386,8 @@
       <workItem from="1721276809099" duration="1283000" />
       <workItem from="1721297192264" duration="2219000" />
       <workItem from="1721349871424" duration="61000" />
-    </task>
-    <task id="LOCAL-00119" summary="Alphabet">
-      <option name="closed" value="true" />
-      <created>1717413142357</created>
-      <option name="number" value="00119" />
-      <option name="presentableId" value="LOCAL-00119" />
-      <option name="project" value="LOCAL" />
-      <updated>1717413142357</updated>
-    </task>
-    <task id="LOCAL-00120" summary="RepeatString">
-      <option name="closed" value="true" />
-      <created>1717510506784</created>
-      <option name="number" value="00120" />
-      <option name="presentableId" value="LOCAL-00120" />
-      <option name="project" value="LOCAL" />
-      <updated>1717510506784</updated>
+      <workItem from="1721393680754" duration="1703000" />
+      <workItem from="1721461171333" duration="877000" />
     </task>
     <task id="LOCAL-00121" summary="Word Count">
       <option name="closed" value="true" />
@@ -777,7 +765,23 @@
       <option name="project" value="LOCAL" />
       <updated>1721302998356</updated>
     </task>
-    <option name="localTasksCounter" value="168" />
+    <task id="LOCAL-00168" summary="알고리즘 수업 - 알고리즘의 수행 시간 2">
+      <option name="closed" value="true" />
+      <created>1721393816142</created>
+      <option name="number" value="00168" />
+      <option name="presentableId" value="LOCAL-00168" />
+      <option name="project" value="LOCAL" />
+      <updated>1721393816142</updated>
+    </task>
+    <task id="LOCAL-00169" summary="알고리즘 수업 - 알고리즘의 수행 시간 3">
+      <option name="closed" value="true" />
+      <created>1721394014684</created>
+      <option name="number" value="00169" />
+      <option name="presentableId" value="LOCAL-00169" />
+      <option name="project" value="LOCAL" />
+      <updated>1721394014684</updated>
+    </task>
+    <option name="localTasksCounter" value="170" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -795,8 +799,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="진법 변환 REF" />
-    <MESSAGE value="진법 변환2" />
     <MESSAGE value="세탁소" />
     <MESSAGE value="세탁소 ref" />
     <MESSAGE value="중앙이동 알고리즘" />
@@ -821,7 +823,9 @@
     <MESSAGE value="xml Merge" />
     <MESSAGE value="세 막대" />
     <MESSAGE value="Algorithm1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Algorithm1" />
+    <MESSAGE value="알고리즘 수업 - 알고리즘의 수행 시간 2" />
+    <MESSAGE value="알고리즘 수업 - 알고리즘의 수행 시간 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="알고리즘 수업 - 알고리즘의 수행 시간 3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
