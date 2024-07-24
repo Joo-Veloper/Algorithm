@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="알고리즘 수업 - 알고리즘의 수행 시간5">
-      <change afterPath="$PROJECT_DIR$/src/BaekJ/TimeComplexity/Algorithm6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaekJ/TimeComplexity/Test.java" afterDir="false" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="알고리즘 수업 - 알고리즘의 수행 시간6">
+      <change afterPath="$PROJECT_DIR$/src/BaekJ/TimeComplexity/Algorithm7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -390,15 +389,8 @@
       <workItem from="1721461171333" duration="2064000" />
       <workItem from="1721541083598" duration="887000" />
       <workItem from="1721542638262" duration="143000" />
-      <workItem from="1721648265789" duration="1171000" />
-    </task>
-    <task id="LOCAL-00123" summary="Dial">
-      <option name="closed" value="true" />
-      <created>1717675603345</created>
-      <option name="number" value="00123" />
-      <option name="presentableId" value="LOCAL-00123" />
-      <option name="project" value="LOCAL" />
-      <updated>1717675603345</updated>
+      <workItem from="1721648265789" duration="1446000" />
+      <workItem from="1721821643124" duration="1485000" />
     </task>
     <task id="LOCAL-00124" summary="Input Scanner">
       <option name="closed" value="true" />
@@ -784,7 +776,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721541957153</updated>
     </task>
-    <option name="localTasksCounter" value="172" />
+    <task id="LOCAL-00172" summary="알고리즘 수업 - 알고리즘의 수행 시간6">
+      <option name="closed" value="true" />
+      <created>1721649563357</created>
+      <option name="number" value="00172" />
+      <option name="presentableId" value="LOCAL-00172" />
+      <option name="project" value="LOCAL" />
+      <updated>1721649563357</updated>
+    </task>
+    <option name="localTasksCounter" value="173" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -802,7 +802,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="중앙이동 알고리즘" />
     <MESSAGE value="벌집" />
     <MESSAGE value="분수 찾기" />
     <MESSAGE value="달팽이는 올라가고 싶다" />
@@ -828,7 +827,8 @@
     <MESSAGE value="알고리즘 수업 - 알고리즘의 수행 시간 3" />
     <MESSAGE value="알고리즘 수업 - 알고리즘의 수행 시간 4" />
     <MESSAGE value="알고리즘 수업 - 알고리즘의 수행 시간5" />
-    <option name="LAST_COMMIT_MESSAGE" value="알고리즘 수업 - 알고리즘의 수행 시간5" />
+    <MESSAGE value="알고리즘 수업 - 알고리즘의 수행 시간6" />
+    <option name="LAST_COMMIT_MESSAGE" value="알고리즘 수업 - 알고리즘의 수행 시간6" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
