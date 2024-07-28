@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="알고리즘 수업 - 알고리즘의 수행 시간7">
-      <change afterPath="$PROJECT_DIR$/src/BaekJ/sort/SortNumber.java" afterDir="false" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="SortNumber">
+      <change afterPath="$PROJECT_DIR$/src/BaekJ/sort/RepresentativeValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/company/number1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/company/number2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/company/number3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,12 +82,46 @@
       <recent name="C:\Users\SeungJoo\Algorithm\Do Algorithm\src\Basic\chap01" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="BaekJ.sort" />
       <recent name="BaekJ.TimeComplexity" />
       <recent name="BaekJ.multiples" />
       <recent name="BaekJ.math1" />
       <recent name="revise" />
-      <recent name="BaekJ.array2D" />
     </key>
+  </component>
+  <component name="RunManager" selected="Application.RepresentativeValue2">
+    <configuration name="RepresentativeValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJ.sort.RepresentativeValue" />
+      <module name="Do Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BaekJ.sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RepresentativeValue2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJ.sort.RepresentativeValue2" />
+      <module name="Do Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BaekJ.sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RepresentativeValue2" />
+        <item itemvalue="Application.RepresentativeValue" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -392,15 +429,10 @@
       <workItem from="1721648265789" duration="1446000" />
       <workItem from="1721821643124" duration="1944000" />
       <workItem from="1721887260408" duration="169000" />
-      <workItem from="1721897647868" duration="575000" />
-    </task>
-    <task id="LOCAL-00125" summary="Algorithm Test">
-      <option name="closed" value="true" />
-      <created>1717942242275</created>
-      <option name="number" value="00125" />
-      <option name="presentableId" value="LOCAL-00125" />
-      <option name="project" value="LOCAL" />
-      <updated>1717942242275</updated>
+      <workItem from="1721897647868" duration="1402000" />
+      <workItem from="1721972316287" duration="9000" />
+      <workItem from="1722150495837" duration="76000" />
+      <workItem from="1722162935037" duration="1701000" />
     </task>
     <task id="LOCAL-00126" summary="단어 공부">
       <option name="closed" value="true" />
@@ -786,7 +818,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721824277471</updated>
     </task>
-    <option name="localTasksCounter" value="174" />
+    <task id="LOCAL-00174" summary="SortNumber">
+      <option name="closed" value="true" />
+      <created>1721898620499</created>
+      <option name="number" value="00174" />
+      <option name="presentableId" value="LOCAL-00174" />
+      <option name="project" value="LOCAL" />
+      <updated>1721898620499</updated>
+    </task>
+    <option name="localTasksCounter" value="175" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -804,7 +844,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="분수 찾기" />
     <MESSAGE value="달팽이는 올라가고 싶다" />
     <MESSAGE value="MultiplesAndDivisors" />
     <MESSAGE value="파일 위치 변경" />
@@ -830,7 +869,8 @@
     <MESSAGE value="알고리즘 수업 - 알고리즘의 수행 시간5" />
     <MESSAGE value="알고리즘 수업 - 알고리즘의 수행 시간6" />
     <MESSAGE value="알고리즘 수업 - 알고리즘의 수행 시간7" />
-    <option name="LAST_COMMIT_MESSAGE" value="알고리즘 수업 - 알고리즘의 수행 시간7" />
+    <MESSAGE value="SortNumber" />
+    <option name="LAST_COMMIT_MESSAGE" value="SortNumber" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
