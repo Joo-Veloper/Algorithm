@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="CutLine">
-      <change afterPath="$PROJECT_DIR$/src/BaekJ/sort/SortNumber2.java" afterDir="false" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="SortNumber 2">
+      <change afterPath="$PROJECT_DIR$/src/BaekJ/sort/SortInside.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/company/number1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/company/number2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/company/number3" afterDir="false" />
@@ -88,26 +88,6 @@
       <recent name="BaekJ.math1" />
       <recent name="revise" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration name="SortNumber2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJ.sort.SortNumber2" />
-      <module name="Do Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BaekJ.sort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.SortNumber2" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -420,15 +400,8 @@
       <workItem from="1722150495837" duration="76000" />
       <workItem from="1722162935037" duration="4651000" />
       <workItem from="1722251223936" duration="1795000" />
-      <workItem from="1722323819100" duration="517000" />
-    </task>
-    <task id="LOCAL-00129" summary="크로아티아 문제">
-      <option name="closed" value="true" />
-      <created>1718624425033</created>
-      <option name="number" value="00129" />
-      <option name="presentableId" value="LOCAL-00129" />
-      <option name="project" value="LOCAL" />
-      <updated>1718624425033</updated>
+      <workItem from="1722323819100" duration="940000" />
+      <workItem from="1722423940006" duration="1060000" />
     </task>
     <task id="LOCAL-00130" summary="크로아티아 문제">
       <option name="closed" value="true" />
@@ -814,7 +787,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722252304917</updated>
     </task>
-    <option name="localTasksCounter" value="178" />
+    <task id="LOCAL-00178" summary="SortNumber 2">
+      <option name="closed" value="true" />
+      <created>1722324761765</created>
+      <option name="number" value="00178" />
+      <option name="presentableId" value="LOCAL-00178" />
+      <option name="project" value="LOCAL" />
+      <updated>1722324761765</updated>
+    </task>
+    <option name="localTasksCounter" value="179" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -832,7 +813,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="약수 구하기" />
     <MESSAGE value="Remind" />
     <MESSAGE value="Sum of divisors" />
     <MESSAGE value="FindDecimal" />
@@ -858,7 +838,8 @@
     <MESSAGE value="대표값" />
     <MESSAGE value="scanner 대표값" />
     <MESSAGE value="CutLine" />
-    <option name="LAST_COMMIT_MESSAGE" value="CutLine" />
+    <MESSAGE value="SortNumber 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="SortNumber 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
