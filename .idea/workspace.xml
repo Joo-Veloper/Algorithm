@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="SortNumber 2">
-      <change afterPath="$PROJECT_DIR$/src/BaekJ/sort/SortInside.java" afterDir="false" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="SortInside">
+      <change afterPath="$PROJECT_DIR$/src/BaekJ/sort/CoordinateSort.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/company/number1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/company/number2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/company/number3" afterDir="false" />
@@ -88,6 +88,26 @@
       <recent name="BaekJ.math1" />
       <recent name="revise" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="CoordinateSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJ.sort.CoordinateSort" />
+      <module name="Do Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BaekJ.sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CoordinateSort" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -401,15 +421,10 @@
       <workItem from="1722162935037" duration="4651000" />
       <workItem from="1722251223936" duration="1795000" />
       <workItem from="1722323819100" duration="940000" />
-      <workItem from="1722423940006" duration="1060000" />
-    </task>
-    <task id="LOCAL-00130" summary="크로아티아 문제">
-      <option name="closed" value="true" />
-      <created>1718624459934</created>
-      <option name="number" value="00130" />
-      <option name="presentableId" value="LOCAL-00130" />
-      <option name="project" value="LOCAL" />
-      <updated>1718624459934</updated>
+      <workItem from="1722423940006" duration="2320000" />
+      <workItem from="1722472657572" duration="406000" />
+      <workItem from="1722499925529" duration="669000" />
+      <workItem from="1722512416886" duration="2333000" />
     </task>
     <task id="LOCAL-00131" summary="Array">
       <option name="closed" value="true" />
@@ -795,7 +810,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722324761765</updated>
     </task>
-    <option name="localTasksCounter" value="179" />
+    <task id="LOCAL-00179" summary="SortInside">
+      <option name="closed" value="true" />
+      <created>1722427410613</created>
+      <option name="number" value="00179" />
+      <option name="presentableId" value="LOCAL-00179" />
+      <option name="project" value="LOCAL" />
+      <updated>1722427410613</updated>
+    </task>
+    <option name="localTasksCounter" value="180" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -813,7 +836,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Remind" />
     <MESSAGE value="Sum of divisors" />
     <MESSAGE value="FindDecimal" />
     <MESSAGE value="RE" />
@@ -839,7 +861,8 @@
     <MESSAGE value="scanner 대표값" />
     <MESSAGE value="CutLine" />
     <MESSAGE value="SortNumber 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="SortNumber 2" />
+    <MESSAGE value="SortInside" />
+    <option name="LAST_COMMIT_MESSAGE" value="SortInside" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
