@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="SortInside">
-      <change afterPath="$PROJECT_DIR$/src/BaekJ/sort/CoordinateSort.java" afterDir="false" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="좌표 정렬">
+      <change afterPath="$PROJECT_DIR$/src/BaekJ/sort/CoordinateSort2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/company/number1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/company/number2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/company/number3" afterDir="false" />
@@ -89,7 +89,7 @@
       <recent name="revise" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.CoordinateSort2">
     <configuration name="CoordinateSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BaekJ.sort.CoordinateSort" />
       <module name="Do Algorithm" />
@@ -103,8 +103,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CoordinateSort2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJ.sort.CoordinateSort2" />
+      <module name="Do Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BaekJ.sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CoordinateSort2" />
         <item itemvalue="Application.CoordinateSort" />
       </list>
     </recent_temporary>
@@ -424,15 +438,8 @@
       <workItem from="1722423940006" duration="2320000" />
       <workItem from="1722472657572" duration="406000" />
       <workItem from="1722499925529" duration="669000" />
-      <workItem from="1722512416886" duration="2333000" />
-    </task>
-    <task id="LOCAL-00131" summary="Array">
-      <option name="closed" value="true" />
-      <created>1718881602434</created>
-      <option name="number" value="00131" />
-      <option name="presentableId" value="LOCAL-00131" />
-      <option name="project" value="LOCAL" />
-      <updated>1718881602435</updated>
+      <workItem from="1722512416886" duration="2349000" />
+      <workItem from="1722591339729" duration="298000" />
     </task>
     <task id="LOCAL-00132" summary="그룹 단어 체커">
       <option name="closed" value="true" />
@@ -818,7 +825,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722427410613</updated>
     </task>
-    <option name="localTasksCounter" value="180" />
+    <task id="LOCAL-00180" summary="좌표 정렬">
+      <option name="closed" value="true" />
+      <created>1722515301124</created>
+      <option name="number" value="00180" />
+      <option name="presentableId" value="LOCAL-00180" />
+      <option name="project" value="LOCAL" />
+      <updated>1722515301125</updated>
+    </task>
+    <option name="localTasksCounter" value="181" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -836,7 +851,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Sum of divisors" />
     <MESSAGE value="FindDecimal" />
     <MESSAGE value="RE" />
     <MESSAGE value="소수" />
@@ -862,7 +876,8 @@
     <MESSAGE value="CutLine" />
     <MESSAGE value="SortNumber 2" />
     <MESSAGE value="SortInside" />
-    <option name="LAST_COMMIT_MESSAGE" value="SortInside" />
+    <MESSAGE value="좌표 정렬" />
+    <option name="LAST_COMMIT_MESSAGE" value="좌표 정렬" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
