@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="좌표 정렬">
-      <change afterPath="$PROJECT_DIR$/src/BaekJ/sort/CoordinateSort2.java" afterDir="false" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="좌표 정렬2">
+      <change afterPath="$PROJECT_DIR$/src/BaekJ/sort/SortWord.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/company/number1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/company/number2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/company/number3" afterDir="false" />
@@ -89,7 +89,7 @@
       <recent name="revise" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CoordinateSort2">
+  <component name="RunManager" selected="Application.SortWord">
     <configuration name="CoordinateSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BaekJ.sort.CoordinateSort" />
       <module name="Do Algorithm" />
@@ -116,8 +116,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SortWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJ.sort.SortWord" />
+      <module name="Do Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BaekJ.sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SortWord" />
         <item itemvalue="Application.CoordinateSort2" />
         <item itemvalue="Application.CoordinateSort" />
       </list>
@@ -439,15 +453,10 @@
       <workItem from="1722472657572" duration="406000" />
       <workItem from="1722499925529" duration="669000" />
       <workItem from="1722512416886" duration="2349000" />
-      <workItem from="1722591339729" duration="298000" />
-    </task>
-    <task id="LOCAL-00132" summary="그룹 단어 체커">
-      <option name="closed" value="true" />
-      <created>1719141696664</created>
-      <option name="number" value="00132" />
-      <option name="presentableId" value="LOCAL-00132" />
-      <option name="project" value="LOCAL" />
-      <updated>1719141696664</updated>
+      <workItem from="1722591339729" duration="563000" />
+      <workItem from="1722591923359" duration="1160000" />
+      <workItem from="1722606229486" duration="1321000" />
+      <workItem from="1722934708721" duration="2479000" />
     </task>
     <task id="LOCAL-00133" summary="rating">
       <option name="closed" value="true" />
@@ -833,7 +842,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722515301125</updated>
     </task>
-    <option name="localTasksCounter" value="181" />
+    <task id="LOCAL-00181" summary="좌표 정렬2">
+      <option name="closed" value="true" />
+      <created>1722591893136</created>
+      <option name="number" value="00181" />
+      <option name="presentableId" value="LOCAL-00181" />
+      <option name="project" value="LOCAL" />
+      <updated>1722591893136</updated>
+    </task>
+    <option name="localTasksCounter" value="182" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -851,7 +868,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="FindDecimal" />
     <MESSAGE value="RE" />
     <MESSAGE value="소수" />
     <MESSAGE value="소인수분해" />
@@ -877,7 +893,8 @@
     <MESSAGE value="SortNumber 2" />
     <MESSAGE value="SortInside" />
     <MESSAGE value="좌표 정렬" />
-    <option name="LAST_COMMIT_MESSAGE" value="좌표 정렬" />
+    <MESSAGE value="좌표 정렬2" />
+    <option name="LAST_COMMIT_MESSAGE" value="좌표 정렬2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
