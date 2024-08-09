@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="문자열 정렬 - BufferedReader">
-      <change afterPath="$PROJECT_DIR$/src/BaekJ/sort/SortAge.java" afterDir="false" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="Sort Age">
+      <change afterPath="$PROJECT_DIR$/src/BaekJ/sort/Press.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/company/number1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/company/number2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/company/number3" afterDir="false" />
@@ -89,7 +89,7 @@
       <recent name="revise" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SortAge">
+  <component name="RunManager" selected="Application.Press">
     <configuration name="CoordinateSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BaekJ.sort.CoordinateSort" />
       <module name="Do Algorithm" />
@@ -105,6 +105,19 @@
     </configuration>
     <configuration name="CoordinateSort2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BaekJ.sort.CoordinateSort2" />
+      <module name="Do Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BaekJ.sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Press" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJ.sort.Press" />
       <module name="Do Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -144,6 +157,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Press" />
         <item itemvalue="Application.SortAge" />
         <item itemvalue="Application.SortWord" />
         <item itemvalue="Application.CoordinateSort2" />
@@ -471,15 +485,11 @@
       <workItem from="1722591923359" duration="1160000" />
       <workItem from="1722606229486" duration="1321000" />
       <workItem from="1722934708721" duration="2757000" />
-      <workItem from="1723036714908" duration="1339000" />
-    </task>
-    <task id="LOCAL-00135" summary="최댓값">
-      <option name="closed" value="true" />
-      <created>1719326608118</created>
-      <option name="number" value="00135" />
-      <option name="presentableId" value="LOCAL-00135" />
-      <option name="project" value="LOCAL" />
-      <updated>1719326608118</updated>
+      <workItem from="1723036714908" duration="2384000" />
+      <workItem from="1723076493770" duration="10000" />
+      <workItem from="1723110450037" duration="3789000" />
+      <workItem from="1723117175270" duration="611000" />
+      <workItem from="1723163747935" duration="114000" />
     </task>
     <task id="LOCAL-00136" summary="length">
       <option name="closed" value="true" />
@@ -865,7 +875,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722938406876</updated>
     </task>
-    <option name="localTasksCounter" value="184" />
+    <task id="LOCAL-00184" summary="Sort Age">
+      <option name="closed" value="true" />
+      <created>1723039698306</created>
+      <option name="number" value="00184" />
+      <option name="presentableId" value="LOCAL-00184" />
+      <option name="project" value="LOCAL" />
+      <updated>1723039698306</updated>
+    </task>
+    <option name="localTasksCounter" value="185" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -883,7 +901,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="소인수분해" />
     <MESSAGE value="Retangle" />
     <MESSAGE value="EscapeRectangle" />
     <MESSAGE value="4개의 점" />
@@ -909,7 +926,8 @@
     <MESSAGE value="좌표 정렬2" />
     <MESSAGE value="문자열 정렬 - Scanner" />
     <MESSAGE value="문자열 정렬 - BufferedReader" />
-    <option name="LAST_COMMIT_MESSAGE" value="문자열 정렬 - BufferedReader" />
+    <MESSAGE value="Sort Age" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sort Age" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
