@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="Sort Age">
-      <change afterPath="$PROJECT_DIR$/src/BaekJ/sort/Press.java" afterDir="false" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="좌표 압축">
+      <change afterPath="$PROJECT_DIR$/src/BaekJ/SetsAndMaps/CardNumber.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/company/number1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/company/number2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/company/number3" afterDir="false" />
@@ -89,13 +89,13 @@
       <recent name="revise" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Press">
-    <configuration name="CoordinateSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJ.sort.CoordinateSort" />
+  <component name="RunManager" selected="Application.CardNumber">
+    <configuration name="CardNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJ.SetsAndMaps.CardNumber" />
       <module name="Do Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BaekJ.sort.*" />
+          <option name="PATTERN" value="BaekJ.SetsAndMaps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CardNumber" />
         <item itemvalue="Application.Press" />
         <item itemvalue="Application.SortAge" />
         <item itemvalue="Application.SortWord" />
         <item itemvalue="Application.CoordinateSort2" />
-        <item itemvalue="Application.CoordinateSort" />
       </list>
     </recent_temporary>
   </component>
@@ -490,14 +490,7 @@
       <workItem from="1723110450037" duration="3789000" />
       <workItem from="1723117175270" duration="611000" />
       <workItem from="1723163747935" duration="114000" />
-    </task>
-    <task id="LOCAL-00136" summary="length">
-      <option name="closed" value="true" />
-      <created>1719405691451</created>
-      <option name="number" value="00136" />
-      <option name="presentableId" value="LOCAL-00136" />
-      <option name="project" value="LOCAL" />
-      <updated>1719405691451</updated>
+      <workItem from="1723202854440" duration="1581000" />
     </task>
     <task id="LOCAL-00137" summary="Algorithm remind">
       <option name="closed" value="true" />
@@ -883,7 +876,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723039698306</updated>
     </task>
-    <option name="localTasksCounter" value="185" />
+    <task id="LOCAL-00185" summary="좌표 압축">
+      <option name="closed" value="true" />
+      <created>1723202878569</created>
+      <option name="number" value="00185" />
+      <option name="presentableId" value="LOCAL-00185" />
+      <option name="project" value="LOCAL" />
+      <updated>1723202878570</updated>
+    </task>
+    <option name="localTasksCounter" value="186" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -901,7 +902,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Retangle" />
     <MESSAGE value="EscapeRectangle" />
     <MESSAGE value="4개의 점" />
     <MESSAGE value="수학은 체육" />
@@ -927,7 +927,8 @@
     <MESSAGE value="문자열 정렬 - Scanner" />
     <MESSAGE value="문자열 정렬 - BufferedReader" />
     <MESSAGE value="Sort Age" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sort Age" />
+    <MESSAGE value="좌표 압축" />
+    <option name="LAST_COMMIT_MESSAGE" value="좌표 압축" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
