@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="숫자 카드">
-      <change afterPath="$PROJECT_DIR$/src/BaekJ/SetsAndMaps/StringSet.java" afterDir="false" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="문자열 집합">
+      <change afterPath="$PROJECT_DIR$/src/BaekJ/SetsAndMaps/Office.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/company/number1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/company/number2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/company/number3" afterDir="false" />
@@ -89,7 +89,7 @@
       <recent name="revise" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StringSet">
+  <component name="RunManager" selected="Application.Office">
     <configuration name="CardNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BaekJ.SetsAndMaps.CardNumber" />
       <module name="Do Algorithm" />
@@ -103,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Press" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJ.sort.Press" />
+    <configuration name="Office" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJ.SetsAndMaps.Office" />
       <module name="Do Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BaekJ.sort.*" />
+          <option name="PATTERN" value="BaekJ.SetsAndMaps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,8 +116,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortAge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJ.sort.SortAge" />
+    <configuration name="Press" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJ.sort.Press" />
       <module name="Do Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -157,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Office" />
         <item itemvalue="Application.StringSet" />
         <item itemvalue="Application.re" />
         <item itemvalue="Application.CardNumber" />
         <item itemvalue="Application.Press" />
-        <item itemvalue="Application.SortAge" />
       </list>
     </recent_temporary>
   </component>
@@ -491,15 +491,9 @@
       <workItem from="1723117175270" duration="611000" />
       <workItem from="1723163747935" duration="114000" />
       <workItem from="1723202854440" duration="2803000" />
-      <workItem from="1723293411745" duration="345000" />
-    </task>
-    <task id="LOCAL-00138" summary="ColorPaper">
-      <option name="closed" value="true" />
-      <created>1719494599371</created>
-      <option name="number" value="00138" />
-      <option name="presentableId" value="LOCAL-00138" />
-      <option name="project" value="LOCAL" />
-      <updated>1719494599371</updated>
+      <workItem from="1723293411745" duration="2333000" />
+      <workItem from="1723346031429" duration="1188000" />
+      <workItem from="1723369836459" duration="1645000" />
     </task>
     <task id="LOCAL-00139" summary="파일 이동">
       <option name="closed" value="true" />
@@ -885,7 +879,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723204455343</updated>
     </task>
-    <option name="localTasksCounter" value="187" />
+    <task id="LOCAL-00187" summary="문자열 집합">
+      <option name="closed" value="true" />
+      <created>1723294000294</created>
+      <option name="number" value="00187" />
+      <option name="presentableId" value="LOCAL-00187" />
+      <option name="project" value="LOCAL" />
+      <updated>1723294000295</updated>
+    </task>
+    <option name="localTasksCounter" value="188" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -903,7 +905,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="4개의 점" />
     <MESSAGE value="수학은 체육" />
     <MESSAGE value="대지" />
     <MESSAGE value="삼각형과 세 변" />
@@ -929,7 +930,8 @@
     <MESSAGE value="Sort Age" />
     <MESSAGE value="좌표 압축" />
     <MESSAGE value="숫자 카드" />
-    <option name="LAST_COMMIT_MESSAGE" value="숫자 카드" />
+    <MESSAGE value="문자열 집합" />
+    <option name="LAST_COMMIT_MESSAGE" value="문자열 집합" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
