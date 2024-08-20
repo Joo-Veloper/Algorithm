@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="숫자 카드 2">
-      <change afterPath="$PROJECT_DIR$/src/BaekJ/SetsAndMaps/hear.java" afterDir="false" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="듣보잡">
+      <change afterPath="$PROJECT_DIR$/src/BaekJ/geometry/Difference.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/company/number1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/company/number2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/company/number3" afterDir="false" />
@@ -89,7 +89,7 @@
       <recent name="BaekJ.math1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.hear">
+  <component name="RunManager" selected="Application.Difference">
     <configuration name="CardNumber2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BaekJ.SetsAndMaps.CardNumber2" />
       <module name="Do Algorithm" />
@@ -116,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PokemonMaster" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJ.SetsAndMaps.PokemonMaster" />
+    <configuration name="Difference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJ.geometry.Difference" />
       <module name="Do Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BaekJ.SetsAndMaps.*" />
+          <option name="PATTERN" value="BaekJ.geometry.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Difference" />
         <item itemvalue="Application.hear" />
         <item itemvalue="Application.CartTest" />
         <item itemvalue="Application.CardNumber2" />
         <item itemvalue="Application.PokemonMaster1" />
-        <item itemvalue="Application.PokemonMaster" />
       </list>
     </recent_temporary>
   </component>
@@ -501,23 +501,8 @@
       <workItem from="1723626715206" duration="3043000" />
       <workItem from="1723644237306" duration="551000" />
       <workItem from="1723956910972" duration="1193000" />
-      <workItem from="1723973412975" duration="2969000" />
-    </task>
-    <task id="LOCAL-00142" summary="ParseInt 사용">
-      <option name="closed" value="true" />
-      <created>1719650986994</created>
-      <option name="number" value="00142" />
-      <option name="presentableId" value="LOCAL-00142" />
-      <option name="project" value="LOCAL" />
-      <updated>1719650986995</updated>
-    </task>
-    <task id="LOCAL-00143" summary="진법 변환 REF">
-      <option name="closed" value="true" />
-      <created>1719651010401</created>
-      <option name="number" value="00143" />
-      <option name="presentableId" value="LOCAL-00143" />
-      <option name="project" value="LOCAL" />
-      <updated>1719651010401</updated>
+      <workItem from="1723973412975" duration="4203000" />
+      <workItem from="1724155837749" duration="520000" />
     </task>
     <task id="LOCAL-00144" summary="진법 변환2">
       <option name="closed" value="true" />
@@ -895,7 +880,23 @@
       <option name="project" value="LOCAL" />
       <updated>1723647615079</updated>
     </task>
-    <option name="localTasksCounter" value="191" />
+    <task id="LOCAL-00191" summary="듣보잡">
+      <option name="closed" value="true" />
+      <created>1723977243811</created>
+      <option name="number" value="00191" />
+      <option name="presentableId" value="LOCAL-00191" />
+      <option name="project" value="LOCAL" />
+      <updated>1723977243811</updated>
+    </task>
+    <task id="LOCAL-00192" summary="듣보잡">
+      <option name="closed" value="true" />
+      <created>1723977700494</created>
+      <option name="number" value="00192" />
+      <option name="presentableId" value="LOCAL-00192" />
+      <option name="project" value="LOCAL" />
+      <updated>1723977700494</updated>
+    </task>
+    <option name="localTasksCounter" value="193" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -913,8 +914,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="xml Merge" />
-    <MESSAGE value="세 막대" />
     <MESSAGE value="Algorithm1" />
     <MESSAGE value="알고리즘 수업 - 알고리즘의 수행 시간 2" />
     <MESSAGE value="알고리즘 수업 - 알고리즘의 수행 시간 3" />
@@ -939,7 +938,8 @@
     <MESSAGE value="회사에 있는 사람" />
     <MESSAGE value="PokemonMaster1,2" />
     <MESSAGE value="숫자 카드 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="숫자 카드 2" />
+    <MESSAGE value="듣보잡" />
+    <option name="LAST_COMMIT_MESSAGE" value="듣보잡" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
