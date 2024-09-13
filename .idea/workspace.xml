@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="Dreamy">
-      <change afterPath="$PROJECT_DIR$/src/BaekJ/stack/Queue2.java" afterDir="false" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="Queue 2">
+      <change afterPath="$PROJECT_DIR$/src/BaekJ/stack/Card2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/BaekJ/stack/Test.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/company/number1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/company/number2.java" afterDir="false" />
@@ -90,7 +90,7 @@
       <recent name="BaekJ.multiples" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Queue2">
+  <component name="RunManager" selected="Application.Card2">
     <configuration name="BalancedWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BaekJ.stack.BalancedWorld" />
       <module name="Do Algorithm" />
@@ -104,8 +104,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Dreamy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJ.stack.Dreamy" />
+    <configuration name="Card2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJ.stack.Card2" />
       <module name="Do Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -117,8 +117,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Parenthesis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJ.stack.Parenthesis" />
+    <configuration name="Dreamy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJ.stack.Dreamy" />
       <module name="Do Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -158,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Card2" />
         <item itemvalue="Application.Queue2" />
         <item itemvalue="Application.Dreamy" />
         <item itemvalue="Application.BalancedWorld" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Parenthesis" />
       </list>
     </recent_temporary>
   </component>
@@ -528,15 +528,8 @@
       <workItem from="1725839169990" duration="1006000" />
       <workItem from="1725856796149" duration="2080000" />
       <workItem from="1725940690496" duration="3273000" />
-      <workItem from="1726217227848" duration="631000" />
-    </task>
-    <task id="LOCAL-00162" summary="4개의 점">
-      <option name="closed" value="true" />
-      <created>1720948198202</created>
-      <option name="number" value="00162" />
-      <option name="presentableId" value="LOCAL-00162" />
-      <option name="project" value="LOCAL" />
-      <updated>1720948198203</updated>
+      <workItem from="1726217227848" duration="1916000" />
+      <workItem from="1726223411143" duration="2487000" />
     </task>
     <task id="LOCAL-00163" summary="수학은 체육">
       <option name="closed" value="true" />
@@ -922,7 +915,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725858466507</updated>
     </task>
-    <option name="localTasksCounter" value="211" />
+    <task id="LOCAL-00211" summary="Queue 2">
+      <option name="closed" value="true" />
+      <created>1726220398223</created>
+      <option name="number" value="00211" />
+      <option name="presentableId" value="LOCAL-00211" />
+      <option name="project" value="LOCAL" />
+      <updated>1726220398223</updated>
+    </task>
+    <option name="localTasksCounter" value="212" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -940,7 +941,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="좌표 압축" />
     <MESSAGE value="숫자 카드" />
     <MESSAGE value="문자열 집합" />
     <MESSAGE value="회사에 있는 사람" />
@@ -965,7 +965,8 @@
     <MESSAGE value="Parenthesis" />
     <MESSAGE value="Balanced" />
     <MESSAGE value="Dreamy" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dreamy" />
+    <MESSAGE value="Queue 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Queue 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
