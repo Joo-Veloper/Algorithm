@@ -17,8 +17,8 @@ public class Problem6_OMNlogN {
     static class Solution {
         public int[] solution(int N, int[] stages) {
             int[] challenger = new int[N + 2]; // 각 스테이지에 도달한 사용자 수 저장
-            for (int stage : stages) {
-                challenger[stage] += 1;
+            for (int i = 0; i < stages.length; i++) {
+                challenger[stages[i]] += 1;
             }
 
             Map<Integer, Double> fails = new HashMap<>();
