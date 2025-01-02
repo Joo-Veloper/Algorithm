@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="Queue 2">
-      <change afterPath="$PROJECT_DIR$/src/BaekJ/stack/Card2.java" afterDir="false" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="Easy Algorithm Learning - 07(ValidPalindrome)">
       <change afterPath="$PROJECT_DIR$/src/BaekJ/stack/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/company/number1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/company/number2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/company/number3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EAL/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/exercise/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,11 +69,14 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="revise.Test" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\SeungJoo\Algorithm\Do Algorithm" />
     </key>
@@ -83,20 +84,20 @@
       <recent name="C:\Users\SeungJoo\Algorithm\Do Algorithm\src\Basic\chap01" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="EAL" />
+      <recent name="Practice.exercise" />
+      <recent name="BaekJ.BackTracking" />
       <recent name="BaekJ.FactorsAndMultiplesAndDecimals" />
       <recent name="BaekJ.SetsAndMaps" />
-      <recent name="BaekJ.sort" />
-      <recent name="BaekJ.TimeComplexity" />
-      <recent name="BaekJ.multiples" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Card2">
-    <configuration name="BalancedWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJ.stack.BalancedWorld" />
+  <component name="RunManager" selected="Application.P08_ValidPalindrome">
+    <configuration name="P06_1_RemoveDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EAL.P06_1_RemoveDuplicate" />
       <module name="Do Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BaekJ.stack.*" />
+          <option name="PATTERN" value="EAL.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Card2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJ.stack.Card2" />
+    <configuration name="P06_RemoveDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EAL.P06_RemoveDuplicate" />
       <module name="Do Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BaekJ.stack.*" />
+          <option name="PATTERN" value="EAL.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Dreamy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJ.stack.Dreamy" />
+    <configuration name="P07_PalindromicString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EAL.P07_PalindromicString" />
       <module name="Do Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BaekJ.stack.*" />
+          <option name="PATTERN" value="EAL.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Queue2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJ.stack.Queue2" />
+    <configuration name="P08_ValidPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EAL.P08_ValidPalindrome" />
       <module name="Do Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BaekJ.stack.*" />
+          <option name="PATTERN" value="EAL.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,11 +145,11 @@
       </method>
     </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJ.stack.Test" />
+      <option name="MAIN_CLASS_NAME" value="EAL.Test" />
       <module name="Do Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BaekJ.stack.*" />
+          <option name="PATTERN" value="EAL.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Card2" />
-        <item itemvalue="Application.Queue2" />
-        <item itemvalue="Application.Dreamy" />
-        <item itemvalue="Application.BalancedWorld" />
+        <item itemvalue="Application.P08_ValidPalindrome" />
         <item itemvalue="Application.Test" />
+        <item itemvalue="Application.P07_PalindromicString" />
+        <item itemvalue="Application.P06_1_RemoveDuplicate" />
+        <item itemvalue="Application.P06_RemoveDuplicate" />
       </list>
     </recent_temporary>
   </component>
@@ -529,391 +530,88 @@
       <workItem from="1725856796149" duration="2080000" />
       <workItem from="1725940690496" duration="3273000" />
       <workItem from="1726217227848" duration="1916000" />
-      <workItem from="1726223411143" duration="2487000" />
-    </task>
-    <task id="LOCAL-00163" summary="수학은 체육">
-      <option name="closed" value="true" />
-      <created>1721045745506</created>
-      <option name="number" value="00163" />
-      <option name="presentableId" value="LOCAL-00163" />
-      <option name="project" value="LOCAL" />
-      <updated>1721045745507</updated>
-    </task>
-    <task id="LOCAL-00164" summary="대지">
-      <option name="closed" value="true" />
-      <created>1721046302015</created>
-      <option name="number" value="00164" />
-      <option name="presentableId" value="LOCAL-00164" />
-      <option name="project" value="LOCAL" />
-      <updated>1721046302015</updated>
-    </task>
-    <task id="LOCAL-00165" summary="xml Merge">
-      <option name="closed" value="true" />
-      <created>1721136061725</created>
-      <option name="number" value="00165" />
-      <option name="presentableId" value="LOCAL-00165" />
-      <option name="project" value="LOCAL" />
-      <updated>1721136061725</updated>
-    </task>
-    <task id="LOCAL-00166" summary="세 막대">
-      <option name="closed" value="true" />
-      <created>1721221505443</created>
-      <option name="number" value="00166" />
-      <option name="presentableId" value="LOCAL-00166" />
-      <option name="project" value="LOCAL" />
-      <updated>1721221505443</updated>
-    </task>
-    <task id="LOCAL-00167" summary="Algorithm1">
-      <option name="closed" value="true" />
-      <created>1721302998356</created>
-      <option name="number" value="00167" />
-      <option name="presentableId" value="LOCAL-00167" />
-      <option name="project" value="LOCAL" />
-      <updated>1721302998356</updated>
-    </task>
-    <task id="LOCAL-00168" summary="알고리즘 수업 - 알고리즘의 수행 시간 2">
-      <option name="closed" value="true" />
-      <created>1721393816142</created>
-      <option name="number" value="00168" />
-      <option name="presentableId" value="LOCAL-00168" />
-      <option name="project" value="LOCAL" />
-      <updated>1721393816142</updated>
-    </task>
-    <task id="LOCAL-00169" summary="알고리즘 수업 - 알고리즘의 수행 시간 3">
-      <option name="closed" value="true" />
-      <created>1721394014684</created>
-      <option name="number" value="00169" />
-      <option name="presentableId" value="LOCAL-00169" />
-      <option name="project" value="LOCAL" />
-      <updated>1721394014684</updated>
-    </task>
-    <task id="LOCAL-00170" summary="알고리즘 수업 - 알고리즘의 수행 시간 4">
-      <option name="closed" value="true" />
-      <created>1721463923750</created>
-      <option name="number" value="00170" />
-      <option name="presentableId" value="LOCAL-00170" />
-      <option name="project" value="LOCAL" />
-      <updated>1721463923750</updated>
-    </task>
-    <task id="LOCAL-00171" summary="알고리즘 수업 - 알고리즘의 수행 시간5">
-      <option name="closed" value="true" />
-      <created>1721541957153</created>
-      <option name="number" value="00171" />
-      <option name="presentableId" value="LOCAL-00171" />
-      <option name="project" value="LOCAL" />
-      <updated>1721541957153</updated>
-    </task>
-    <task id="LOCAL-00172" summary="알고리즘 수업 - 알고리즘의 수행 시간6">
-      <option name="closed" value="true" />
-      <created>1721649563357</created>
-      <option name="number" value="00172" />
-      <option name="presentableId" value="LOCAL-00172" />
-      <option name="project" value="LOCAL" />
-      <updated>1721649563357</updated>
-    </task>
-    <task id="LOCAL-00173" summary="알고리즘 수업 - 알고리즘의 수행 시간7">
-      <option name="closed" value="true" />
-      <created>1721824277471</created>
-      <option name="number" value="00173" />
-      <option name="presentableId" value="LOCAL-00173" />
-      <option name="project" value="LOCAL" />
-      <updated>1721824277471</updated>
-    </task>
-    <task id="LOCAL-00174" summary="SortNumber">
-      <option name="closed" value="true" />
-      <created>1721898620499</created>
-      <option name="number" value="00174" />
-      <option name="presentableId" value="LOCAL-00174" />
-      <option name="project" value="LOCAL" />
-      <updated>1721898620499</updated>
-    </task>
-    <task id="LOCAL-00175" summary="대표값">
-      <option name="closed" value="true" />
-      <created>1722168492078</created>
-      <option name="number" value="00175" />
-      <option name="presentableId" value="LOCAL-00175" />
-      <option name="project" value="LOCAL" />
-      <updated>1722168492078</updated>
-    </task>
-    <task id="LOCAL-00176" summary="scanner 대표값">
-      <option name="closed" value="true" />
-      <created>1722171224993</created>
-      <option name="number" value="00176" />
-      <option name="presentableId" value="LOCAL-00176" />
-      <option name="project" value="LOCAL" />
-      <updated>1722171224993</updated>
-    </task>
-    <task id="LOCAL-00177" summary="CutLine">
-      <option name="closed" value="true" />
-      <created>1722252304917</created>
-      <option name="number" value="00177" />
-      <option name="presentableId" value="LOCAL-00177" />
-      <option name="project" value="LOCAL" />
-      <updated>1722252304917</updated>
-    </task>
-    <task id="LOCAL-00178" summary="SortNumber 2">
-      <option name="closed" value="true" />
-      <created>1722324761765</created>
-      <option name="number" value="00178" />
-      <option name="presentableId" value="LOCAL-00178" />
-      <option name="project" value="LOCAL" />
-      <updated>1722324761765</updated>
-    </task>
-    <task id="LOCAL-00179" summary="SortInside">
-      <option name="closed" value="true" />
-      <created>1722427410613</created>
-      <option name="number" value="00179" />
-      <option name="presentableId" value="LOCAL-00179" />
-      <option name="project" value="LOCAL" />
-      <updated>1722427410613</updated>
-    </task>
-    <task id="LOCAL-00180" summary="좌표 정렬">
-      <option name="closed" value="true" />
-      <created>1722515301124</created>
-      <option name="number" value="00180" />
-      <option name="presentableId" value="LOCAL-00180" />
-      <option name="project" value="LOCAL" />
-      <updated>1722515301125</updated>
-    </task>
-    <task id="LOCAL-00181" summary="좌표 정렬2">
-      <option name="closed" value="true" />
-      <created>1722591893136</created>
-      <option name="number" value="00181" />
-      <option name="presentableId" value="LOCAL-00181" />
-      <option name="project" value="LOCAL" />
-      <updated>1722591893136</updated>
-    </task>
-    <task id="LOCAL-00182" summary="문자열 정렬 - Scanner">
-      <option name="closed" value="true" />
-      <created>1722938391286</created>
-      <option name="number" value="00182" />
-      <option name="presentableId" value="LOCAL-00182" />
-      <option name="project" value="LOCAL" />
-      <updated>1722938391287</updated>
-    </task>
-    <task id="LOCAL-00183" summary="문자열 정렬 - BufferedReader">
-      <option name="closed" value="true" />
-      <created>1722938406876</created>
-      <option name="number" value="00183" />
-      <option name="presentableId" value="LOCAL-00183" />
-      <option name="project" value="LOCAL" />
-      <updated>1722938406876</updated>
-    </task>
-    <task id="LOCAL-00184" summary="Sort Age">
-      <option name="closed" value="true" />
-      <created>1723039698306</created>
-      <option name="number" value="00184" />
-      <option name="presentableId" value="LOCAL-00184" />
-      <option name="project" value="LOCAL" />
-      <updated>1723039698306</updated>
-    </task>
-    <task id="LOCAL-00185" summary="좌표 압축">
-      <option name="closed" value="true" />
-      <created>1723202878569</created>
-      <option name="number" value="00185" />
-      <option name="presentableId" value="LOCAL-00185" />
-      <option name="project" value="LOCAL" />
-      <updated>1723202878570</updated>
-    </task>
-    <task id="LOCAL-00186" summary="숫자 카드">
-      <option name="closed" value="true" />
-      <created>1723204455343</created>
-      <option name="number" value="00186" />
-      <option name="presentableId" value="LOCAL-00186" />
-      <option name="project" value="LOCAL" />
-      <updated>1723204455343</updated>
-    </task>
-    <task id="LOCAL-00187" summary="문자열 집합">
-      <option name="closed" value="true" />
-      <created>1723294000294</created>
-      <option name="number" value="00187" />
-      <option name="presentableId" value="LOCAL-00187" />
-      <option name="project" value="LOCAL" />
-      <updated>1723294000295</updated>
-    </task>
-    <task id="LOCAL-00188" summary="회사에 있는 사람">
-      <option name="closed" value="true" />
-      <created>1723373464999</created>
-      <option name="number" value="00188" />
-      <option name="presentableId" value="LOCAL-00188" />
-      <option name="project" value="LOCAL" />
-      <updated>1723373464999</updated>
-    </task>
-    <task id="LOCAL-00189" summary="PokemonMaster1,2">
-      <option name="closed" value="true" />
-      <created>1723550608223</created>
-      <option name="number" value="00189" />
-      <option name="presentableId" value="LOCAL-00189" />
-      <option name="project" value="LOCAL" />
-      <updated>1723550608223</updated>
-    </task>
-    <task id="LOCAL-00190" summary="숫자 카드 2">
-      <option name="closed" value="true" />
-      <created>1723647615079</created>
-      <option name="number" value="00190" />
-      <option name="presentableId" value="LOCAL-00190" />
-      <option name="project" value="LOCAL" />
-      <updated>1723647615079</updated>
-    </task>
-    <task id="LOCAL-00191" summary="re">
-      <option name="closed" value="true" />
-      <created>1724156797449</created>
-      <option name="number" value="00191" />
-      <option name="presentableId" value="LOCAL-00191" />
-      <option name="project" value="LOCAL" />
-      <updated>1724156797449</updated>
-    </task>
-    <task id="LOCAL-00192" summary="AnotherString">
-      <option name="closed" value="true" />
-      <created>1724292372480</created>
-      <option name="number" value="00192" />
-      <option name="presentableId" value="LOCAL-00192" />
-      <option name="project" value="LOCAL" />
-      <updated>1724292372480</updated>
-    </task>
-    <task id="LOCAL-00193" summary="유클리드 호재법">
-      <option name="closed" value="true" />
-      <created>1724410799584</created>
-      <option name="number" value="00193" />
-      <option name="presentableId" value="LOCAL-00193" />
-      <option name="project" value="LOCAL" />
-      <updated>1724410799586</updated>
-    </task>
-    <task id="LOCAL-00194" summary="최소공배수">
-      <option name="closed" value="true" />
-      <created>1724632125535</created>
-      <option name="number" value="00194" />
-      <option name="presentableId" value="LOCAL-00194" />
-      <option name="project" value="LOCAL" />
-      <updated>1724632125536</updated>
-    </task>
-    <task id="LOCAL-00195" summary="최소공배수">
-      <option name="closed" value="true" />
-      <created>1724681646101</created>
-      <option name="number" value="00195" />
-      <option name="presentableId" value="LOCAL-00195" />
-      <option name="project" value="LOCAL" />
-      <updated>1724681646101</updated>
-    </task>
-    <task id="LOCAL-00196" summary="ToothBrush">
-      <option name="closed" value="true" />
-      <created>1724684486291</created>
-      <option name="number" value="00196" />
-      <option name="presentableId" value="LOCAL-00196" />
-      <option name="project" value="LOCAL" />
-      <updated>1724684486291</updated>
-    </task>
-    <task id="LOCAL-00197" summary="분수 합">
-      <option name="closed" value="true" />
-      <created>1724936239632</created>
-      <option name="number" value="00197" />
-      <option name="presentableId" value="LOCAL-00197" />
-      <option name="project" value="LOCAL" />
-      <updated>1724936239632</updated>
-    </task>
-    <task id="LOCAL-00198" summary="가로수">
-      <option name="closed" value="true" />
-      <created>1725009043432</created>
-      <option name="number" value="00198" />
-      <option name="presentableId" value="LOCAL-00198" />
-      <option name="project" value="LOCAL" />
-      <updated>1725009043433</updated>
-    </task>
-    <task id="LOCAL-00199" summary="다음 소수">
-      <option name="closed" value="true" />
-      <created>1725108617193</created>
-      <option name="number" value="00199" />
-      <option name="presentableId" value="LOCAL-00199" />
-      <option name="project" value="LOCAL" />
-      <updated>1725108617194</updated>
-    </task>
-    <task id="LOCAL-00200" summary="소수 구하기">
-      <option name="closed" value="true" />
-      <created>1725115008002</created>
-      <option name="number" value="00200" />
-      <option name="presentableId" value="LOCAL-00200" />
-      <option name="project" value="LOCAL" />
-      <updated>1725115008002</updated>
-    </task>
-    <task id="LOCAL-00201" summary="베르트랑 소수">
-      <option name="closed" value="true" />
-      <created>1725190296758</created>
-      <option name="number" value="00201" />
-      <option name="presentableId" value="LOCAL-00201" />
-      <option name="project" value="LOCAL" />
-      <updated>1725190296758</updated>
-    </task>
-    <task id="LOCAL-00202" summary="베르트랑 소수">
-      <option name="closed" value="true" />
-      <created>1725192362548</created>
-      <option name="number" value="00202" />
-      <option name="presentableId" value="LOCAL-00202" />
-      <option name="project" value="LOCAL" />
-      <updated>1725192362548</updated>
-    </task>
-    <task id="LOCAL-00203" summary="에라토스테네스의 체">
-      <option name="closed" value="true" />
-      <created>1725236923668</created>
-      <option name="number" value="00203" />
-      <option name="presentableId" value="LOCAL-00203" />
-      <option name="project" value="LOCAL" />
-      <updated>1725236923668</updated>
-    </task>
-    <task id="LOCAL-00204" summary="골드바흐 파티션">
-      <option name="closed" value="true" />
-      <created>1725419849064</created>
-      <option name="number" value="00204" />
-      <option name="presentableId" value="LOCAL-00204" />
-      <option name="project" value="LOCAL" />
-      <updated>1725419849065</updated>
-    </task>
-    <task id="LOCAL-00205" summary="CloseWindow">
-      <option name="closed" value="true" />
-      <created>1725534801421</created>
-      <option name="number" value="00205" />
-      <option name="presentableId" value="LOCAL-00205" />
-      <option name="project" value="LOCAL" />
-      <updated>1725534801421</updated>
-    </task>
-    <task id="LOCAL-00206" summary="Stack 2">
-      <option name="closed" value="true" />
-      <created>1725541180632</created>
-      <option name="number" value="00206" />
-      <option name="presentableId" value="LOCAL-00206" />
-      <option name="project" value="LOCAL" />
-      <updated>1725541180632</updated>
-    </task>
-    <task id="LOCAL-00207" summary="Zero">
-      <option name="closed" value="true" />
-      <created>1725596725011</created>
-      <option name="number" value="00207" />
-      <option name="presentableId" value="LOCAL-00207" />
-      <option name="project" value="LOCAL" />
-      <updated>1725596725011</updated>
-    </task>
-    <task id="LOCAL-00208" summary="Parenthesis">
-      <option name="closed" value="true" />
-      <created>1725706080632</created>
-      <option name="number" value="00208" />
-      <option name="presentableId" value="LOCAL-00208" />
-      <option name="project" value="LOCAL" />
-      <updated>1725706080633</updated>
-    </task>
-    <task id="LOCAL-00209" summary="Balanced">
-      <option name="closed" value="true" />
-      <created>1725796230593</created>
-      <option name="number" value="00209" />
-      <option name="presentableId" value="LOCAL-00209" />
-      <option name="project" value="LOCAL" />
-      <updated>1725796230593</updated>
-    </task>
-    <task id="LOCAL-00210" summary="Dreamy">
-      <option name="closed" value="true" />
-      <created>1725858466507</created>
-      <option name="number" value="00210" />
-      <option name="presentableId" value="LOCAL-00210" />
-      <option name="project" value="LOCAL" />
-      <updated>1725858466507</updated>
+      <workItem from="1726223411143" duration="2506000" />
+      <workItem from="1726311596779" duration="579000" />
+      <workItem from="1726382324478" duration="128000" />
+      <workItem from="1726399842094" duration="3861000" />
+      <workItem from="1726452866502" duration="534000" />
+      <workItem from="1726461661445" duration="596000" />
+      <workItem from="1726576271559" duration="6897000" />
+      <workItem from="1726634081306" duration="14908000" />
+      <workItem from="1726708421712" duration="119000" />
+      <workItem from="1726739550862" duration="16319000" />
+      <workItem from="1726803553282" duration="599000" />
+      <workItem from="1726813362924" duration="5733000" />
+      <workItem from="1726923347853" duration="4000000" />
+      <workItem from="1726927496023" duration="222000" />
+      <workItem from="1726976783911" duration="984000" />
+      <workItem from="1726978374214" duration="2538000" />
+      <workItem from="1727002421081" duration="1597000" />
+      <workItem from="1727084974842" duration="8365000" />
+      <workItem from="1727147287886" duration="1981000" />
+      <workItem from="1727157473377" duration="16000" />
+      <workItem from="1727168381749" duration="9390000" />
+      <workItem from="1727225360152" duration="600000" />
+      <workItem from="1727339429127" duration="5291000" />
+      <workItem from="1727349884772" duration="7417000" />
+      <workItem from="1727398549999" duration="2177000" />
+      <workItem from="1727685838166" duration="442000" />
+      <workItem from="1727697490285" duration="5015000" />
+      <workItem from="1727747055931" duration="748000" />
+      <workItem from="1727753456405" duration="648000" />
+      <workItem from="1727781078431" duration="8115000" />
+      <workItem from="1727834904705" duration="4371000" />
+      <workItem from="1727951631248" duration="9742000" />
+      <workItem from="1728010524968" duration="1999000" />
+      <workItem from="1728025979687" duration="17000" />
+      <workItem from="1728026919049" duration="4491000" />
+      <workItem from="1728047269323" duration="6084000" />
+      <workItem from="1728104956448" duration="2779000" />
+      <workItem from="1728123628001" duration="4710000" />
+      <workItem from="1728189316819" duration="1983000" />
+      <workItem from="1728303804479" duration="2797000" />
+      <workItem from="1728817634316" duration="2097000" />
+      <workItem from="1728871003987" duration="30000" />
+      <workItem from="1728916917698" duration="1751000" />
+      <workItem from="1728954649720" duration="597000" />
+      <workItem from="1729602121770" duration="1450000" />
+      <workItem from="1729678563720" duration="2171000" />
+      <workItem from="1729771711990" duration="5508000" />
+      <workItem from="1730120281105" duration="2181000" />
+      <workItem from="1730160757866" duration="2103000" />
+      <workItem from="1730175027102" duration="597000" />
+      <workItem from="1731063447931" duration="7000" />
+      <workItem from="1731071342566" duration="54000" />
+      <workItem from="1731326842217" duration="3244000" />
+      <workItem from="1731370315880" duration="1787000" />
+      <workItem from="1731383279884" duration="850000" />
+      <workItem from="1733752665175" duration="1640000" />
+      <workItem from="1733789033375" duration="13083000" />
+      <workItem from="1733903464661" duration="7952000" />
+      <workItem from="1733923672199" duration="6000" />
+      <workItem from="1734071435958" duration="206000" />
+      <workItem from="1734848399135" duration="3880000" />
+      <workItem from="1734860330550" duration="6491000" />
+      <workItem from="1734930546529" duration="6247000" />
+      <workItem from="1734943349022" duration="15000" />
+      <workItem from="1735013060665" duration="8416000" />
+      <workItem from="1735036078649" duration="2289000" />
+      <workItem from="1735100497926" duration="246000" />
+      <workItem from="1735116462319" duration="10714000" />
+      <workItem from="1735177915057" duration="10990000" />
+      <workItem from="1735281981961" duration="848000" />
+      <workItem from="1735296315544" duration="8794000" />
+      <workItem from="1735372983004" duration="1919000" />
+      <workItem from="1735390367769" duration="7295000" />
+      <workItem from="1735447591059" duration="3499000" />
+      <workItem from="1735471634321" duration="12461000" />
+      <workItem from="1735523968809" duration="10675000" />
+      <workItem from="1735563270788" duration="6000" />
+      <workItem from="1735607065730" duration="4983000" />
+      <workItem from="1735622992124" duration="2402000" />
+      <workItem from="1735661373784" duration="8000" />
+      <workItem from="1735718389376" duration="5713000" />
+      <workItem from="1735789224383" duration="9867000" />
     </task>
     <task id="LOCAL-00211" summary="Queue 2">
       <option name="closed" value="true" />
@@ -923,7 +621,391 @@
       <option name="project" value="LOCAL" />
       <updated>1726220398223</updated>
     </task>
-    <option name="localTasksCounter" value="212" />
+    <task id="LOCAL-00212" summary="Card2">
+      <option name="closed" value="true" />
+      <created>1726226102854</created>
+      <option name="number" value="00212" />
+      <option name="presentableId" value="LOCAL-00212" />
+      <option name="project" value="LOCAL" />
+      <updated>1726226102854</updated>
+    </task>
+    <task id="LOCAL-00213" summary="요세푸스">
+      <option name="closed" value="true" />
+      <created>1726404461009</created>
+      <option name="number" value="00213" />
+      <option name="presentableId" value="LOCAL-00213" />
+      <option name="project" value="LOCAL" />
+      <updated>1726404461009</updated>
+    </task>
+    <task id="LOCAL-00214" summary="Deck 2">
+      <option name="closed" value="true" />
+      <created>1726578244805</created>
+      <option name="number" value="00214" />
+      <option name="presentableId" value="LOCAL-00214" />
+      <option name="project" value="LOCAL" />
+      <updated>1726578244805</updated>
+    </task>
+    <task id="LOCAL-00215" summary="풍선 터뜨리기">
+      <option name="closed" value="true" />
+      <created>1726662458718</created>
+      <option name="number" value="00215" />
+      <option name="presentableId" value="LOCAL-00215" />
+      <option name="project" value="LOCAL" />
+      <updated>1726662458718</updated>
+    </task>
+    <task id="LOCAL-00216" summary="풍선 터뜨리기 Deque 사용">
+      <option name="closed" value="true" />
+      <created>1726665407961</created>
+      <option name="number" value="00216" />
+      <option name="presentableId" value="LOCAL-00216" />
+      <option name="project" value="LOCAL" />
+      <updated>1726665407961</updated>
+    </task>
+    <task id="LOCAL-00217" summary="QueueStack">
+      <option name="closed" value="true" />
+      <created>1726819467700</created>
+      <option name="number" value="00217" />
+      <option name="presentableId" value="LOCAL-00217" />
+      <option name="project" value="LOCAL" />
+      <updated>1726819467700</updated>
+    </task>
+    <task id="LOCAL-00218" summary="The Fashion Of Bera">
+      <option name="closed" value="true" />
+      <created>1726925316394</created>
+      <option name="number" value="00218" />
+      <option name="presentableId" value="LOCAL-00218" />
+      <option name="project" value="LOCAL" />
+      <updated>1726925316394</updated>
+    </task>
+    <task id="LOCAL-00219" summary="GreenTower">
+      <option name="closed" value="true" />
+      <created>1726926860415</created>
+      <option name="number" value="00219" />
+      <option name="presentableId" value="LOCAL-00219" />
+      <option name="project" value="LOCAL" />
+      <updated>1726926860415</updated>
+    </task>
+    <task id="LOCAL-00220" summary="Factorial">
+      <option name="closed" value="true" />
+      <created>1727005425628</created>
+      <option name="number" value="00220" />
+      <option name="presentableId" value="LOCAL-00220" />
+      <option name="project" value="LOCAL" />
+      <updated>1727005425628</updated>
+    </task>
+    <task id="LOCAL-00221" summary="BinomialCoefficient">
+      <option name="closed" value="true" />
+      <created>1727168402577</created>
+      <option name="number" value="00221" />
+      <option name="presentableId" value="LOCAL-00221" />
+      <option name="project" value="LOCAL" />
+      <updated>1727168402577</updated>
+    </task>
+    <task id="LOCAL-00222" summary="Building Of Bridge">
+      <option name="closed" value="true" />
+      <created>1727172853099</created>
+      <option name="number" value="00222" />
+      <option name="presentableId" value="LOCAL-00222" />
+      <option name="project" value="LOCAL" />
+      <updated>1727172853099</updated>
+    </task>
+    <task id="LOCAL-00223" summary="Factorial2">
+      <option name="closed" value="true" />
+      <created>1727339956439</created>
+      <option name="number" value="00223" />
+      <option name="presentableId" value="LOCAL-00223" />
+      <option name="project" value="LOCAL" />
+      <updated>1727339956439</updated>
+    </task>
+    <task id="LOCAL-00224" summary="피보나치 수열">
+      <option name="closed" value="true" />
+      <created>1727699393514</created>
+      <option name="number" value="00224" />
+      <option name="presentableId" value="LOCAL-00224" />
+      <option name="project" value="LOCAL" />
+      <updated>1727699393514</updated>
+    </task>
+    <task id="LOCAL-00225" summary="재귀의 귀재">
+      <option name="closed" value="true" />
+      <created>1727953703109</created>
+      <option name="number" value="00225" />
+      <option name="presentableId" value="LOCAL-00225" />
+      <option name="project" value="LOCAL" />
+      <updated>1727953703109</updated>
+    </task>
+    <task id="LOCAL-00226" summary="병합 정렬">
+      <option name="closed" value="true" />
+      <created>1728048783881</created>
+      <option name="number" value="00226" />
+      <option name="presentableId" value="LOCAL-00226" />
+      <option name="project" value="LOCAL" />
+      <updated>1728048783881</updated>
+    </task>
+    <task id="LOCAL-00227" summary="칸토어 집합">
+      <option name="closed" value="true" />
+      <created>1728125403519</created>
+      <option name="number" value="00227" />
+      <option name="presentableId" value="LOCAL-00227" />
+      <option name="project" value="LOCAL" />
+      <updated>1728125403519</updated>
+    </task>
+    <task id="LOCAL-00228" summary="별 찍기">
+      <option name="closed" value="true" />
+      <created>1728305486024</created>
+      <option name="number" value="00228" />
+      <option name="presentableId" value="LOCAL-00228" />
+      <option name="project" value="LOCAL" />
+      <updated>1728305486024</updated>
+    </task>
+    <task id="LOCAL-00229" summary="하노이">
+      <option name="closed" value="true" />
+      <created>1729602978296</created>
+      <option name="number" value="00229" />
+      <option name="presentableId" value="LOCAL-00229" />
+      <option name="project" value="LOCAL" />
+      <updated>1729602978296</updated>
+    </task>
+    <task id="LOCAL-00230" summary="N과 M">
+      <option name="closed" value="true" />
+      <created>1729680151319</created>
+      <option name="number" value="00230" />
+      <option name="presentableId" value="LOCAL-00230" />
+      <option name="project" value="LOCAL" />
+      <updated>1729680151319</updated>
+    </task>
+    <task id="LOCAL-00231" summary="N과 M(Ascending)">
+      <option name="closed" value="true" />
+      <created>1729774214617</created>
+      <option name="number" value="00231" />
+      <option name="presentableId" value="LOCAL-00231" />
+      <option name="project" value="LOCAL" />
+      <updated>1729774214617</updated>
+    </task>
+    <task id="LOCAL-00232" summary="1">
+      <option name="closed" value="true" />
+      <created>1731071388842</created>
+      <option name="number" value="00232" />
+      <option name="presentableId" value="LOCAL-00232" />
+      <option name="project" value="LOCAL" />
+      <updated>1731071388843</updated>
+    </task>
+    <task id="LOCAL-00233" summary="N and M-3">
+      <option name="closed" value="true" />
+      <created>1731326973338</created>
+      <option name="number" value="00233" />
+      <option name="presentableId" value="LOCAL-00233" />
+      <option name="project" value="LOCAL" />
+      <updated>1731326973338</updated>
+    </task>
+    <task id="LOCAL-00234" summary="num2,3">
+      <option name="closed" value="true" />
+      <created>1734071469525</created>
+      <option name="number" value="00234" />
+      <option name="presentableId" value="LOCAL-00234" />
+      <option name="project" value="LOCAL" />
+      <updated>1734071469526</updated>
+    </task>
+    <task id="LOCAL-00235" summary="Warm-up Question">
+      <option name="closed" value="true" />
+      <created>1734937307238</created>
+      <option name="number" value="00235" />
+      <option name="presentableId" value="LOCAL-00235" />
+      <option name="project" value="LOCAL" />
+      <updated>1734937307239</updated>
+    </task>
+    <task id="LOCAL-00236" summary="O(N^2) instead of sort() method">
+      <option name="closed" value="true" />
+      <created>1734937356388</created>
+      <option name="number" value="00236" />
+      <option name="presentableId" value="LOCAL-00236" />
+      <option name="project" value="LOCAL" />
+      <updated>1734937356389</updated>
+    </task>
+    <task id="LOCAL-00237" summary="O(N) guaranteed when using distinct">
+      <option name="closed" value="true" />
+      <created>1735029205839</created>
+      <option name="number" value="00237" />
+      <option name="presentableId" value="LOCAL-00237" />
+      <option name="project" value="LOCAL" />
+      <updated>1735029205839</updated>
+    </task>
+    <task id="LOCAL-00238" summary="O (NlogN) with TreeSet">
+      <option name="closed" value="true" />
+      <created>1735029305259</created>
+      <option name="number" value="00238" />
+      <option name="presentableId" value="LOCAL-00238" />
+      <option name="project" value="LOCAL" />
+      <updated>1735029305259</updated>
+    </task>
+    <task id="LOCAL-00239" summary="Time complexity O(N^2 log(N^2))">
+      <option name="closed" value="true" />
+      <created>1735029436050</created>
+      <option name="number" value="00239" />
+      <option name="presentableId" value="LOCAL-00239" />
+      <option name="project" value="LOCAL" />
+      <updated>1735029436050</updated>
+    </task>
+    <task id="LOCAL-00240" summary="Time complexity O(N^2 log(N^2))">
+      <option name="closed" value="true" />
+      <created>1735100657429</created>
+      <option name="number" value="00240" />
+      <option name="presentableId" value="LOCAL-00240" />
+      <option name="project" value="LOCAL" />
+      <updated>1735100657429</updated>
+    </task>
+    <task id="LOCAL-00241" summary="mock test O(N)">
+      <option name="closed" value="true" />
+      <created>1735200941971</created>
+      <option name="number" value="00241" />
+      <option name="presentableId" value="LOCAL-00241" />
+      <option name="project" value="LOCAL" />
+      <updated>1735200941971</updated>
+    </task>
+    <task id="LOCAL-00242" summary="Multiplication of matrices O(N^3)">
+      <option name="closed" value="true" />
+      <created>1735200976126</created>
+      <option name="number" value="00242" />
+      <option name="presentableId" value="LOCAL-00242" />
+      <option name="project" value="LOCAL" />
+      <updated>1735200976126</updated>
+    </task>
+    <task id="LOCAL-00243" summary="Failure rate (O(M+NlogN))">
+      <option name="closed" value="true" />
+      <created>1735302432643</created>
+      <option name="number" value="00243" />
+      <option name="presentableId" value="LOCAL-00243" />
+      <option name="project" value="LOCAL" />
+      <updated>1735302432643</updated>
+    </task>
+    <task id="LOCAL-00244" summary="UnversionedFiles">
+      <option name="closed" value="true" />
+      <created>1735304907208</created>
+      <option name="number" value="00244" />
+      <option name="presentableId" value="LOCAL-00244" />
+      <option name="project" value="LOCAL" />
+      <updated>1735304907208</updated>
+    </task>
+    <task id="LOCAL-00245" summary="update">
+      <option name="closed" value="true" />
+      <created>1735398591760</created>
+      <option name="number" value="00245" />
+      <option name="presentableId" value="LOCAL-00245" />
+      <option name="project" value="LOCAL" />
+      <updated>1735398591760</updated>
+    </task>
+    <task id="LOCAL-00246" summary="Easy Algorithm Learning - 1">
+      <option name="closed" value="true" />
+      <created>1735398640750</created>
+      <option name="number" value="00246" />
+      <option name="presentableId" value="LOCAL-00246" />
+      <option name="project" value="LOCAL" />
+      <updated>1735398640750</updated>
+    </task>
+    <task id="LOCAL-00247" summary="Easy Algorithm Learning - 1">
+      <option name="closed" value="true" />
+      <created>1735450289131</created>
+      <option name="number" value="00247" />
+      <option name="presentableId" value="LOCAL-00247" />
+      <option name="project" value="LOCAL" />
+      <updated>1735450289131</updated>
+    </task>
+    <task id="LOCAL-00248" summary="Easy Algorithm Learning - 02">
+      <option name="closed" value="true" />
+      <created>1735450299130</created>
+      <option name="number" value="00248" />
+      <option name="presentableId" value="LOCAL-00248" />
+      <option name="project" value="LOCAL" />
+      <updated>1735450299130</updated>
+    </task>
+    <task id="LOCAL-00249" summary="Easy Algorithm Learning - 02">
+      <option name="closed" value="true" />
+      <created>1735475116090</created>
+      <option name="number" value="00249" />
+      <option name="presentableId" value="LOCAL-00249" />
+      <option name="project" value="LOCAL" />
+      <updated>1735475116091</updated>
+    </task>
+    <task id="LOCAL-00250" summary="Easy Algorithm Learning - 03">
+      <option name="closed" value="true" />
+      <created>1735484196558</created>
+      <option name="number" value="00250" />
+      <option name="presentableId" value="LOCAL-00250" />
+      <option name="project" value="LOCAL" />
+      <updated>1735484196558</updated>
+    </task>
+    <task id="LOCAL-00251" summary="Easy Algorithm Learning - 04">
+      <option name="closed" value="true" />
+      <created>1735558799323</created>
+      <option name="number" value="00251" />
+      <option name="presentableId" value="LOCAL-00251" />
+      <option name="project" value="LOCAL" />
+      <updated>1735558799323</updated>
+    </task>
+    <task id="LOCAL-00252" summary="The way to visit-07(O(N))">
+      <option name="closed" value="true" />
+      <created>1735558852597</created>
+      <option name="number" value="00252" />
+      <option name="presentableId" value="LOCAL-00252" />
+      <option name="project" value="LOCAL" />
+      <updated>1735558852597</updated>
+    </task>
+    <task id="LOCAL-00253" summary="Easy Algorithm Learning(logic change) - 04">
+      <option name="closed" value="true" />
+      <created>1735617559648</created>
+      <option name="number" value="00253" />
+      <option name="presentableId" value="LOCAL-00253" />
+      <option name="project" value="LOCAL" />
+      <updated>1735617559648</updated>
+    </task>
+    <task id="LOCAL-00254" summary="Easy Algorithm Learning - 05">
+      <option name="closed" value="true" />
+      <created>1735617569728</created>
+      <option name="number" value="00254" />
+      <option name="presentableId" value="LOCAL-00254" />
+      <option name="project" value="LOCAL" />
+      <updated>1735617569728</updated>
+    </task>
+    <task id="LOCAL-00255" summary="Easy Algorithm Learning - 05">
+      <option name="closed" value="true" />
+      <created>1735719116504</created>
+      <option name="number" value="00255" />
+      <option name="presentableId" value="LOCAL-00255" />
+      <option name="project" value="LOCAL" />
+      <updated>1735719116505</updated>
+    </task>
+    <task id="LOCAL-00256" summary="Easy Algorithm Learning - 06">
+      <option name="closed" value="true" />
+      <created>1735727307632</created>
+      <option name="number" value="00256" />
+      <option name="presentableId" value="LOCAL-00256" />
+      <option name="project" value="LOCAL" />
+      <updated>1735727307632</updated>
+    </task>
+    <task id="LOCAL-00257" summary="Easy Algorithm Learning - 05(Modify)">
+      <option name="closed" value="true" />
+      <created>1735809034359</created>
+      <option name="number" value="00257" />
+      <option name="presentableId" value="LOCAL-00257" />
+      <option name="project" value="LOCAL" />
+      <updated>1735809034359</updated>
+    </task>
+    <task id="LOCAL-00258" summary="Easy Algorithm Learning - 07(PalindromicString)">
+      <option name="closed" value="true" />
+      <created>1735815166861</created>
+      <option name="number" value="00258" />
+      <option name="presentableId" value="LOCAL-00258" />
+      <option name="project" value="LOCAL" />
+      <updated>1735815166861</updated>
+    </task>
+    <task id="LOCAL-00259" summary="Easy Algorithm Learning - 07(ValidPalindrome)">
+      <option name="closed" value="true" />
+      <created>1735815184491</created>
+      <option name="number" value="00259" />
+      <option name="presentableId" value="LOCAL-00259" />
+      <option name="project" value="LOCAL" />
+      <updated>1735815184492</updated>
+    </task>
+    <option name="localTasksCounter" value="260" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -941,32 +1023,32 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="숫자 카드" />
-    <MESSAGE value="문자열 집합" />
-    <MESSAGE value="회사에 있는 사람" />
-    <MESSAGE value="PokemonMaster1,2" />
-    <MESSAGE value="숫자 카드 2" />
-    <MESSAGE value="대칭 차집합" />
-    <MESSAGE value="re" />
-    <MESSAGE value="AnotherString" />
-    <MESSAGE value="유클리드 호재법" />
-    <MESSAGE value="최소공배수" />
-    <MESSAGE value="ToothBrush" />
-    <MESSAGE value="분수 합" />
-    <MESSAGE value="가로수" />
-    <MESSAGE value="다음 소수" />
-    <MESSAGE value="소수 구하기" />
-    <MESSAGE value="베르트랑 소수" />
-    <MESSAGE value="에라토스테네스의 체" />
-    <MESSAGE value="골드바흐 파티션" />
-    <MESSAGE value="CloseWindow" />
-    <MESSAGE value="Stack 2" />
-    <MESSAGE value="Zero" />
-    <MESSAGE value="Parenthesis" />
-    <MESSAGE value="Balanced" />
-    <MESSAGE value="Dreamy" />
-    <MESSAGE value="Queue 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Queue 2" />
+    <MESSAGE value="N과 M(Ascending)" />
+    <MESSAGE value="1" />
+    <MESSAGE value="N and M-3" />
+    <MESSAGE value="num2,3" />
+    <MESSAGE value="Warm-up Question" />
+    <MESSAGE value="O(N^2) instead of sort() method" />
+    <MESSAGE value="O(N) guaranteed when using distinct" />
+    <MESSAGE value="O (NlogN) with TreeSet" />
+    <MESSAGE value="Time complexity O(N^2 log(N^2))" />
+    <MESSAGE value="mock test O(N)" />
+    <MESSAGE value="Multiplication of matrices O(N^3)" />
+    <MESSAGE value="Failure rate (O(M+NlogN))" />
+    <MESSAGE value="UnversionedFiles" />
+    <MESSAGE value="update" />
+    <MESSAGE value="Easy Algorithm Learning - 1" />
+    <MESSAGE value="Easy Algorithm Learning - 02" />
+    <MESSAGE value="Easy Algorithm Learning - 03" />
+    <MESSAGE value="Easy Algorithm Learning - 04" />
+    <MESSAGE value="The way to visit-07(O(N))" />
+    <MESSAGE value="Easy Algorithm Learning(logic change) - 04" />
+    <MESSAGE value="Easy Algorithm Learning - 05" />
+    <MESSAGE value="Easy Algorithm Learning - 06" />
+    <MESSAGE value="Easy Algorithm Learning - 05(Modify)" />
+    <MESSAGE value="Easy Algorithm Learning - 07(PalindromicString)" />
+    <MESSAGE value="Easy Algorithm Learning - 07(ValidPalindrome)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Easy Algorithm Learning - 07(ValidPalindrome)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1000,6 +1082,11 @@
           <url>file://$PROJECT_DIR$/src/BaekJ/string/SumNumber.java</url>
           <line>16</line>
           <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BaekJ/BackTracking/N_And_M.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
