@@ -18,7 +18,7 @@ public class P05_ReverseString {
             if (!Character.isAlphabetic(chars[left])) {
                 left++;
             } else if (!Character.isAlphabetic(chars[right])) {
-                right++;
+                right--;
             }  else {
                 char temp = chars[left];
                 chars[left] = chars[right];
