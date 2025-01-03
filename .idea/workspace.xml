@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="Easy Algorithm Learning - 07(ValidPalindrome)">
-      <change afterPath="$PROJECT_DIR$/src/BaekJ/stack/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EAL/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/exercise/Solution.java" afterDir="false" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="Easy Algorithm Learning - 07(ChangeTitle)">
+      <change afterPath="$PROJECT_DIR$/src/EAL/P09_ExtractOnlyNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -91,22 +89,9 @@
       <recent name="BaekJ.SetsAndMaps" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P08_ValidPalindrome">
+  <component name="RunManager" selected="Application.P09_ExtractOnlyNumbers">
     <configuration name="P06_1_RemoveDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EAL.P06_1_RemoveDuplicate" />
-      <module name="Do Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="EAL.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P06_RemoveDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EAL.P06_RemoveDuplicate" />
       <module name="Do Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -144,6 +129,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="P09_ExtractOnlyNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EAL.P09_ExtractOnlyNumbers" />
+      <module name="Do Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EAL.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EAL.Test" />
       <module name="Do Algorithm" />
@@ -159,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P09_ExtractOnlyNumbers" />
         <item itemvalue="Application.P08_ValidPalindrome" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.P07_PalindromicString" />
         <item itemvalue="Application.P06_1_RemoveDuplicate" />
-        <item itemvalue="Application.P06_RemoveDuplicate" />
       </list>
     </recent_temporary>
   </component>
@@ -612,22 +610,8 @@
       <workItem from="1735661373784" duration="8000" />
       <workItem from="1735718389376" duration="5713000" />
       <workItem from="1735789224383" duration="9867000" />
-    </task>
-    <task id="LOCAL-00211" summary="Queue 2">
-      <option name="closed" value="true" />
-      <created>1726220398223</created>
-      <option name="number" value="00211" />
-      <option name="presentableId" value="LOCAL-00211" />
-      <option name="project" value="LOCAL" />
-      <updated>1726220398223</updated>
-    </task>
-    <task id="LOCAL-00212" summary="Card2">
-      <option name="closed" value="true" />
-      <created>1726226102854</created>
-      <option name="number" value="00212" />
-      <option name="presentableId" value="LOCAL-00212" />
-      <option name="project" value="LOCAL" />
-      <updated>1726226102854</updated>
+      <workItem from="1735829339611" duration="439000" />
+      <workItem from="1735883961877" duration="2238000" />
     </task>
     <task id="LOCAL-00213" summary="요세푸스">
       <option name="closed" value="true" />
@@ -1005,7 +989,23 @@
       <option name="project" value="LOCAL" />
       <updated>1735815184492</updated>
     </task>
-    <option name="localTasksCounter" value="260" />
+    <task id="LOCAL-00260" summary="Easy Algorithm Learning - 07(ValidPalindrome)">
+      <option name="closed" value="true" />
+      <created>1735829492562</created>
+      <option name="number" value="00260" />
+      <option name="presentableId" value="LOCAL-00260" />
+      <option name="project" value="LOCAL" />
+      <updated>1735829492563</updated>
+    </task>
+    <task id="LOCAL-00261" summary="Easy Algorithm Learning - 07(ChangeTitle)">
+      <option name="closed" value="true" />
+      <created>1735884034026</created>
+      <option name="number" value="00261" />
+      <option name="presentableId" value="LOCAL-00261" />
+      <option name="project" value="LOCAL" />
+      <updated>1735884034026</updated>
+    </task>
+    <option name="localTasksCounter" value="262" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1023,7 +1023,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="N과 M(Ascending)" />
     <MESSAGE value="1" />
     <MESSAGE value="N and M-3" />
     <MESSAGE value="num2,3" />
@@ -1048,7 +1047,8 @@
     <MESSAGE value="Easy Algorithm Learning - 05(Modify)" />
     <MESSAGE value="Easy Algorithm Learning - 07(PalindromicString)" />
     <MESSAGE value="Easy Algorithm Learning - 07(ValidPalindrome)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Easy Algorithm Learning - 07(ValidPalindrome)" />
+    <MESSAGE value="Easy Algorithm Learning - 07(ChangeTitle)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Easy Algorithm Learning - 07(ChangeTitle)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1087,6 +1087,16 @@
           <url>file://$PROJECT_DIR$/src/BaekJ/BackTracking/N_And_M.java</url>
           <line>32</line>
           <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/EAL/P09_ExtractOnlyNumbers.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/EAL/P09_ExtractOnlyNumbers.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
