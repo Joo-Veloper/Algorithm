@@ -3,7 +3,7 @@ package BCTP.solution.Array;
 import java.util.HashMap;
 import java.util.HashSet;
 
-public class problem7_ON {
+public class Problem7_ON {
     public static void main(String[] args) {
         String dirs1 = "ULURRDLLU";
         int result1 = solution(dirs1);
