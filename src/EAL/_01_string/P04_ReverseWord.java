@@ -1,4 +1,4 @@
-package EAL;
+package EAL._01_string;
 
 import java.util.Scanner;
 

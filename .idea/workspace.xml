@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="Easy Algorithm Learning - 10">
-      <change afterPath="$PROJECT_DIR$/src/EAL/P11_StringCompression.java" afterDir="false" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="Easy Algorithm Learning - 12">
+      <change afterPath="$PROJECT_DIR$/src/EAL/ReO3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EAL/ReP1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EAL/ReP2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,46 +91,7 @@
       <recent name="BaekJ.SetsAndMaps" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration name="P08_ValidPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EAL.P08_ValidPalindrome" />
-      <module name="Do Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="EAL.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P09_ExtractOnlyNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EAL.P09_ExtractOnlyNumbers" />
-      <module name="Do Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="EAL.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P10_ShortestCharacterDistance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EAL.P10_ShortestCharacterDistance" />
-      <module name="Do Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="EAL.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ReO3">
     <configuration name="P11_StringCompression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EAL.P11_StringCompression" />
       <module name="Do Algorithm" />
@@ -142,8 +105,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EAL.Test" />
+    <configuration name="P12_Password" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EAL.P12_Password" />
+      <module name="Do Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EAL.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReO3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EAL.ReO3" />
+      <module name="Do Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EAL.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReP1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EAL.ReP1" />
+      <module name="Do Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EAL.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReP2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EAL.ReP2" />
       <module name="Do Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -157,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.ReO3" />
+        <item itemvalue="Application.ReP2" />
+        <item itemvalue="Application.ReP1" />
+        <item itemvalue="Application.P12_Password" />
         <item itemvalue="Application.P11_StringCompression" />
-        <item itemvalue="Application.P10_ShortestCharacterDistance" />
-        <item itemvalue="Application.P09_ExtractOnlyNumbers" />
-        <item itemvalue="Application.P08_ValidPalindrome" />
       </list>
     </recent_temporary>
   </component>
@@ -613,23 +615,11 @@
       <workItem from="1735829339611" duration="439000" />
       <workItem from="1735883961877" duration="2888000" />
       <workItem from="1735979718856" duration="8279000" />
-      <workItem from="1736051977763" duration="9687000" />
-    </task>
-    <task id="LOCAL-00215" summary="풍선 터뜨리기">
-      <option name="closed" value="true" />
-      <created>1726662458718</created>
-      <option name="number" value="00215" />
-      <option name="presentableId" value="LOCAL-00215" />
-      <option name="project" value="LOCAL" />
-      <updated>1726662458718</updated>
-    </task>
-    <task id="LOCAL-00216" summary="풍선 터뜨리기 Deque 사용">
-      <option name="closed" value="true" />
-      <created>1726665407961</created>
-      <option name="number" value="00216" />
-      <option name="presentableId" value="LOCAL-00216" />
-      <option name="project" value="LOCAL" />
-      <updated>1726665407961</updated>
+      <workItem from="1736051977763" duration="12154000" />
+      <workItem from="1736076796390" duration="225000" />
+      <workItem from="1736160278278" duration="9030000" />
+      <workItem from="1736224050333" duration="8128000" />
+      <workItem from="1736320122592" duration="3762000" />
     </task>
     <task id="LOCAL-00217" summary="QueueStack">
       <option name="closed" value="true" />
@@ -1007,7 +997,23 @@
       <option name="project" value="LOCAL" />
       <updated>1735993627875</updated>
     </task>
-    <option name="localTasksCounter" value="264" />
+    <task id="LOCAL-00264" summary="Easy Algorithm Learning - 11">
+      <option name="closed" value="true" />
+      <created>1736063820871</created>
+      <option name="number" value="00264" />
+      <option name="presentableId" value="LOCAL-00264" />
+      <option name="project" value="LOCAL" />
+      <updated>1736063820871</updated>
+    </task>
+    <task id="LOCAL-00265" summary="Easy Algorithm Learning - 12">
+      <option name="closed" value="true" />
+      <created>1736168561994</created>
+      <option name="number" value="00265" />
+      <option name="presentableId" value="LOCAL-00265" />
+      <option name="project" value="LOCAL" />
+      <updated>1736168561994</updated>
+    </task>
+    <option name="localTasksCounter" value="266" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1025,8 +1031,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="num2,3" />
-    <MESSAGE value="Warm-up Question" />
     <MESSAGE value="O(N^2) instead of sort() method" />
     <MESSAGE value="O(N) guaranteed when using distinct" />
     <MESSAGE value="O (NlogN) with TreeSet" />
@@ -1050,7 +1054,9 @@
     <MESSAGE value="Easy Algorithm Learning - 07(ChangeTitle)" />
     <MESSAGE value="Easy Algorithm Learning - 08" />
     <MESSAGE value="Easy Algorithm Learning - 10" />
-    <option name="LAST_COMMIT_MESSAGE" value="Easy Algorithm Learning - 10" />
+    <MESSAGE value="Easy Algorithm Learning - 11" />
+    <MESSAGE value="Easy Algorithm Learning - 12" />
+    <option name="LAST_COMMIT_MESSAGE" value="Easy Algorithm Learning - 12" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1089,6 +1095,16 @@
           <url>file://$PROJECT_DIR$/src/BaekJ/BackTracking/N_And_M.java</url>
           <line>32</line>
           <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/EAL/ReO3.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/EAL/ReO3.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
