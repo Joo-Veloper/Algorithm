@@ -1,6 +1,7 @@
 package EAL._03_TwoPointer;
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.Scanner;
 
 public class P01_CombiningTwoArrangements {
@@ -24,7 +25,7 @@ public class P01_CombiningTwoArrangements {
     }
 
     private static ArrayList<Integer> solution(int n, int m, int[] a, int[] b) {
-        ArrayList<Integer> answer = new ArrayList<>();
+       /* ArrayList<Integer> answer = new ArrayList<>();
         int p1 = 0, p2 = 0;
         while (p1 < n && p2 < m) {
             if (a[p1] < b[p2]) answer.add(a[p1++]);
@@ -32,6 +33,21 @@ public class P01_CombiningTwoArrangements {
         }
         while (p1 < n) answer.add(a[p1++]);
         while (p2 < m) answer.add(b[p2++]);
+        return answer;*/
+        ArrayList<Integer> answer = new ArrayList<>();
+
+        for (int num : a) {
+            answer.add(num);
+        }
+
+        for (int num : b) {
+            answer.add(num);
+        }
+
+        Collections.sort(answer);
+
+
         return answer;
     }
+
 }
