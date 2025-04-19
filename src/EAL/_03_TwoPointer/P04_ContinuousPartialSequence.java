@@ -6,9 +6,10 @@ public class P04_ContinuousPartialSequence {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         // N개의 수
-        int n = sc.nextInt();
+        int n = sc.nextInt(); //8
+
         // 특정 숫자의 합이 m
-        int m = sc.nextInt();
+        int m = sc.nextInt(); //6
 
         int[] a = new int[n];
 
@@ -18,25 +19,26 @@ public class P04_ContinuousPartialSequence {
 
         System.out.println(solution(n,m,a));
     }
-
     private static int solution(int n, int m, int[] a) {
         int answer = 0;
         int sum = 0;
         int left = 0;
 
         for (int i = 0; i < n; i++) {
+
             sum += a[i];
 
             while (sum > m) {
                 sum -= a[left++];
             }
+
             if (sum == m) {
                 answer++;
             }
         }
-
         return answer;
     }
+
 }
 /*연속 부분수열
 N개의 수로 이루어진 수열이 주어집니다.
