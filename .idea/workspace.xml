@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="Easy Algorithm Learning - 12" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="merge Error Code">
+      <change afterPath="$PROJECT_DIR$/src/EAL/_04_Hash/P01_ClassPresident.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,18 +56,20 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.P01_ClassPresident.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "Merging main",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/SeungJoo/Spring_Study/JooMart",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "sql.code.style.group",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -86,13 +91,13 @@
       <recent name="BaekJ.SetsAndMaps" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ReO3">
-    <configuration name="P11_StringCompression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EAL.P11_StringCompression" />
+  <component name="RunManager" selected="Application.P01_ClassPresident">
+    <configuration name="P01_ClassPresident" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EAL._04_Hash.P01_ClassPresident" />
       <module name="Do Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="EAL.*" />
+          <option name="PATTERN" value="EAL._04_Hash.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P01_ClassPresident" />
         <item itemvalue="Application.ReO3" />
         <item itemvalue="Application.ReP2" />
         <item itemvalue="Application.ReP1" />
         <item itemvalue="Application.P12_Password" />
-        <item itemvalue="Application.P11_StringCompression" />
       </list>
     </recent_temporary>
   </component>
@@ -615,14 +620,8 @@
       <workItem from="1736160278278" duration="9030000" />
       <workItem from="1736224050333" duration="8128000" />
       <workItem from="1736320122592" duration="3762000" />
-    </task>
-    <task id="LOCAL-00217" summary="QueueStack">
-      <option name="closed" value="true" />
-      <created>1726819467700</created>
-      <option name="number" value="00217" />
-      <option name="presentableId" value="LOCAL-00217" />
-      <option name="project" value="LOCAL" />
-      <updated>1726819467700</updated>
+      <workItem from="1745551065845" duration="228000" />
+      <workItem from="1745734049505" duration="4809000" />
     </task>
     <task id="LOCAL-00218" summary="The Fashion Of Bera">
       <option name="closed" value="true" />
@@ -1008,7 +1007,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736168561994</updated>
     </task>
-    <option name="localTasksCounter" value="266" />
+    <task id="LOCAL-00266" summary="merge Error Code">
+      <option name="closed" value="true" />
+      <created>1745506335120</created>
+      <option name="number" value="00266" />
+      <option name="presentableId" value="LOCAL-00266" />
+      <option name="project" value="LOCAL" />
+      <updated>1745506335120</updated>
+    </task>
+    <option name="localTasksCounter" value="267" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1026,8 +1033,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="O(N^2) instead of sort() method" />
-    <MESSAGE value="O(N) guaranteed when using distinct" />
     <MESSAGE value="O (NlogN) with TreeSet" />
     <MESSAGE value="Time complexity O(N^2 log(N^2))" />
     <MESSAGE value="mock test O(N)" />
@@ -1051,7 +1056,9 @@
     <MESSAGE value="Easy Algorithm Learning - 10" />
     <MESSAGE value="Easy Algorithm Learning - 11" />
     <MESSAGE value="Easy Algorithm Learning - 12" />
-    <option name="LAST_COMMIT_MESSAGE" value="Easy Algorithm Learning - 12" />
+    <MESSAGE value="PriceOfStock" />
+    <MESSAGE value="merge Error Code" />
+    <option name="LAST_COMMIT_MESSAGE" value="merge Error Code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1107,5 +1114,9 @@
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
