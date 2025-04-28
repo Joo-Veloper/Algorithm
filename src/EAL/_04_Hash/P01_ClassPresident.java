@@ -14,9 +14,8 @@ public class P01_ClassPresident {
     }
 
     private static char solution(int n, String str) {
-        char answer=' ';
+        char answer = ' ';
         HashMap<Character, Integer> map = new HashMap<>();
-
 
         for (char c : str.toCharArray()) {
             map.put(c, map.getOrDefault(c, 0) + 1);
@@ -24,9 +23,9 @@ public class P01_ClassPresident {
 
         int max = Integer.MIN_VALUE;
         for (char key : map.keySet()) {
-            if(map.get(key)>max){
-                max=map.get(key);
-                answer=key;
+            if (map.get(key) > max) {
+                max = map.get(key);
+                answer = key;
             }
         }
         return answer;
