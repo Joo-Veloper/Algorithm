@@ -9,6 +9,7 @@ public class P04_Postfix {
         String str = sc.next();
 
         System.out.println(solution(str));
+
     }
 
     private static int solution(String str) {
