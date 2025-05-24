@@ -4,24 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="Easy Algorithm Learning - Stack P04">
-      <change afterPath="$PROJECT_DIR$/src/Practice/Cardt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/Test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/Test4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/Test5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/Test6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/Test7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/Test8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/bitco.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/che.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/sheep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/sudo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/sudoku.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice2/test.java" afterDir="false" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="Remind4">
+      <change afterPath="$PROJECT_DIR$/src/pg/Lv1/PandY.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,6 +68,7 @@
     "Application.P04_Postfix.executor": "Run",
     "Application.P05_AllAnagram.executor": "Run",
     "Application.P05_K_Largest_Number.executor": "Run",
+    "Application.PandY.executor": "Run",
     "Application.SelectSort.executor": "Run",
     "Application.Test (1).executor": "Run",
     "Application.Test.executor": "Run",
@@ -138,7 +123,7 @@
       <recent name="BaekJ.FactorsAndMultiplesAndDecimals" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.test">
+  <component name="RunManager" selected="Application.PandY">
     <configuration name="Cardt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice.Cardt" />
       <module name="Do Algorithm" />
@@ -165,12 +150,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.Test8" />
+    <configuration name="PandY" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pg.Lv1.PandY" />
       <module name="Do Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice.*" />
+          <option name="PATTERN" value="pg.Lv1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -206,11 +191,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PandY" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.P04_Postfix" />
         <item itemvalue="Application.Cardt" />
         <item itemvalue="Application.bitco" />
-        <item itemvalue="Application.Test8" />
       </list>
     </recent_temporary>
   </component>
@@ -724,14 +709,8 @@
       <workItem from="1747979652271" duration="4063000" />
       <workItem from="1747990282053" duration="12714000" />
       <workItem from="1748048164170" duration="4522000" />
-    </task>
-    <task id="LOCAL-00231" summary="N과 M(Ascending)">
-      <option name="closed" value="true" />
-      <created>1729774214617</created>
-      <option name="number" value="00231" />
-      <option name="presentableId" value="LOCAL-00231" />
-      <option name="project" value="LOCAL" />
-      <updated>1729774214617</updated>
+      <workItem from="1748065805435" duration="3216000" />
+      <workItem from="1748083690019" duration="2650000" />
     </task>
     <task id="LOCAL-00232" summary="1">
       <option name="closed" value="true" />
@@ -1117,7 +1096,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748048772727</updated>
     </task>
-    <option name="localTasksCounter" value="280" />
+    <task id="LOCAL-00280" summary="Remind4">
+      <option name="closed" value="true" />
+      <created>1748065955528</created>
+      <option name="number" value="00280" />
+      <option name="presentableId" value="LOCAL-00280" />
+      <option name="project" value="LOCAL" />
+      <updated>1748065955528</updated>
+    </task>
+    <option name="localTasksCounter" value="281" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1135,7 +1122,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Easy Algorithm Learning - 04" />
     <MESSAGE value="The way to visit-07(O(N))" />
     <MESSAGE value="Easy Algorithm Learning(logic change) - 04" />
     <MESSAGE value="Easy Algorithm Learning - 05" />
@@ -1160,7 +1146,8 @@
     <MESSAGE value="Easy Algorithm Learning - Sorting_Searching P01" />
     <MESSAGE value="Easy Algorithm Learning - Stack P03(Kakao)" />
     <MESSAGE value="Easy Algorithm Learning - Stack P04" />
-    <option name="LAST_COMMIT_MESSAGE" value="Easy Algorithm Learning - Stack P04" />
+    <MESSAGE value="Remind4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Remind4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1209,16 +1196,6 @@
           <url>file://$PROJECT_DIR$/src/EAL/ReO3.java</url>
           <line>17</line>
           <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Practice/Test3.java</url>
-          <line>30</line>
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Practice/Test8.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="24" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
