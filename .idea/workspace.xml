@@ -4,8 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="merge Error Code">
-      <change afterPath="$PROJECT_DIR$/src/EAL/_04_Hash/P01_ClassPresident.java" afterDir="false" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="Easy Algorithm Learning - Stack P04">
+      <change afterPath="$PROJECT_DIR$/src/Practice/Cardt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/Test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/Test5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/Test6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/Test7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/Test8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/bitco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/che.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/sheep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/sudo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/sudoku.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice2/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,20 +72,50 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Cardt.executor": "Run",
+    "Application.Main.executor": "Run",
     "Application.P01_ClassPresident.executor": "Run",
+    "Application.P01_CorrectParentheses.executor": "Run",
+    "Application.P02_Anagram.executor": "Run",
+    "Application.P02_RemoveParentheses.executor": "Run",
+    "Application.P03_CraneClawMachine.executor": "Run",
+    "Application.P03_TypesOfSales.executor": "Run",
+    "Application.P04_AllAnagram.executor": "Run",
+    "Application.P04_Postfix.executor": "Run",
+    "Application.P05_AllAnagram.executor": "Run",
+    "Application.P05_K_Largest_Number.executor": "Run",
+    "Application.SelectSort.executor": "Run",
+    "Application.Test (1).executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.Test01.executor": "Run",
+    "Application.Test1.executor": "Run",
+    "Application.Test2.executor": "Run",
+    "Application.Test3.executor": "Run",
+    "Application.Test4.executor": "Run",
+    "Application.Test5.executor": "Run",
+    "Application.Test6.executor": "Run",
+    "Application.Test7.executor": "Run",
+    "Application.Test8.executor": "Run",
+    "Application.bitco.executor": "Run",
+    "Application.pro.executor": "Run",
+    "Application.re01.executor": "Run",
+    "Application.sheep.executor": "Run",
+    "Application.smart.executor": "Run",
+    "Application.sudo.executor": "Run",
+    "Application.test.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/SeungJoo/Spring_Study/JooMart",
+    "last_opened_file_path": "C:/Users/SeungJoo/Desktop/source-code",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "sql.code.style.group",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Java",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -81,23 +127,24 @@
       <recent name="C:\Users\SeungJoo\Algorithm\Do Algorithm" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\SeungJoo\Algorithm\Do Algorithm\src\Practice" />
       <recent name="C:\Users\SeungJoo\Algorithm\Do Algorithm\src\Basic\chap01" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Practice" />
       <recent name="EAL" />
       <recent name="Practice.exercise" />
       <recent name="BaekJ.BackTracking" />
       <recent name="BaekJ.FactorsAndMultiplesAndDecimals" />
-      <recent name="BaekJ.SetsAndMaps" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P01_ClassPresident">
-    <configuration name="P01_ClassPresident" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EAL._04_Hash.P01_ClassPresident" />
+  <component name="RunManager" selected="Application.test">
+    <configuration name="Cardt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.Cardt" />
       <module name="Do Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="EAL._04_Hash.*" />
+          <option name="PATTERN" value="Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P12_Password" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EAL.P12_Password" />
+    <configuration name="P04_Postfix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EAL._05_Stack.P04_Postfix" />
       <module name="Do Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="EAL.*" />
+          <option name="PATTERN" value="EAL._05_Stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +165,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReO3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EAL.ReO3" />
+    <configuration name="Test8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.Test8" />
       <module name="Do Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="EAL.*" />
+          <option name="PATTERN" value="Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,12 +178,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReP1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EAL.ReP1" />
+    <configuration name="bitco" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.bitco" />
       <module name="Do Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="EAL.*" />
+          <option name="PATTERN" value="Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,12 +191,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReP2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EAL.ReP2" />
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice2.test" />
       <module name="Do Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="EAL.*" />
+          <option name="PATTERN" value="Practice2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,11 +206,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.P01_ClassPresident" />
-        <item itemvalue="Application.ReO3" />
-        <item itemvalue="Application.ReP2" />
-        <item itemvalue="Application.ReP1" />
-        <item itemvalue="Application.P12_Password" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.P04_Postfix" />
+        <item itemvalue="Application.Cardt" />
+        <item itemvalue="Application.bitco" />
+        <item itemvalue="Application.Test8" />
       </list>
     </recent_temporary>
   </component>
@@ -621,111 +668,62 @@
       <workItem from="1736224050333" duration="8128000" />
       <workItem from="1736320122592" duration="3762000" />
       <workItem from="1745551065845" duration="228000" />
-      <workItem from="1745734049505" duration="4809000" />
-    </task>
-    <task id="LOCAL-00218" summary="The Fashion Of Bera">
-      <option name="closed" value="true" />
-      <created>1726925316394</created>
-      <option name="number" value="00218" />
-      <option name="presentableId" value="LOCAL-00218" />
-      <option name="project" value="LOCAL" />
-      <updated>1726925316394</updated>
-    </task>
-    <task id="LOCAL-00219" summary="GreenTower">
-      <option name="closed" value="true" />
-      <created>1726926860415</created>
-      <option name="number" value="00219" />
-      <option name="presentableId" value="LOCAL-00219" />
-      <option name="project" value="LOCAL" />
-      <updated>1726926860415</updated>
-    </task>
-    <task id="LOCAL-00220" summary="Factorial">
-      <option name="closed" value="true" />
-      <created>1727005425628</created>
-      <option name="number" value="00220" />
-      <option name="presentableId" value="LOCAL-00220" />
-      <option name="project" value="LOCAL" />
-      <updated>1727005425628</updated>
-    </task>
-    <task id="LOCAL-00221" summary="BinomialCoefficient">
-      <option name="closed" value="true" />
-      <created>1727168402577</created>
-      <option name="number" value="00221" />
-      <option name="presentableId" value="LOCAL-00221" />
-      <option name="project" value="LOCAL" />
-      <updated>1727168402577</updated>
-    </task>
-    <task id="LOCAL-00222" summary="Building Of Bridge">
-      <option name="closed" value="true" />
-      <created>1727172853099</created>
-      <option name="number" value="00222" />
-      <option name="presentableId" value="LOCAL-00222" />
-      <option name="project" value="LOCAL" />
-      <updated>1727172853099</updated>
-    </task>
-    <task id="LOCAL-00223" summary="Factorial2">
-      <option name="closed" value="true" />
-      <created>1727339956439</created>
-      <option name="number" value="00223" />
-      <option name="presentableId" value="LOCAL-00223" />
-      <option name="project" value="LOCAL" />
-      <updated>1727339956439</updated>
-    </task>
-    <task id="LOCAL-00224" summary="피보나치 수열">
-      <option name="closed" value="true" />
-      <created>1727699393514</created>
-      <option name="number" value="00224" />
-      <option name="presentableId" value="LOCAL-00224" />
-      <option name="project" value="LOCAL" />
-      <updated>1727699393514</updated>
-    </task>
-    <task id="LOCAL-00225" summary="재귀의 귀재">
-      <option name="closed" value="true" />
-      <created>1727953703109</created>
-      <option name="number" value="00225" />
-      <option name="presentableId" value="LOCAL-00225" />
-      <option name="project" value="LOCAL" />
-      <updated>1727953703109</updated>
-    </task>
-    <task id="LOCAL-00226" summary="병합 정렬">
-      <option name="closed" value="true" />
-      <created>1728048783881</created>
-      <option name="number" value="00226" />
-      <option name="presentableId" value="LOCAL-00226" />
-      <option name="project" value="LOCAL" />
-      <updated>1728048783881</updated>
-    </task>
-    <task id="LOCAL-00227" summary="칸토어 집합">
-      <option name="closed" value="true" />
-      <created>1728125403519</created>
-      <option name="number" value="00227" />
-      <option name="presentableId" value="LOCAL-00227" />
-      <option name="project" value="LOCAL" />
-      <updated>1728125403519</updated>
-    </task>
-    <task id="LOCAL-00228" summary="별 찍기">
-      <option name="closed" value="true" />
-      <created>1728305486024</created>
-      <option name="number" value="00228" />
-      <option name="presentableId" value="LOCAL-00228" />
-      <option name="project" value="LOCAL" />
-      <updated>1728305486024</updated>
-    </task>
-    <task id="LOCAL-00229" summary="하노이">
-      <option name="closed" value="true" />
-      <created>1729602978296</created>
-      <option name="number" value="00229" />
-      <option name="presentableId" value="LOCAL-00229" />
-      <option name="project" value="LOCAL" />
-      <updated>1729602978296</updated>
-    </task>
-    <task id="LOCAL-00230" summary="N과 M">
-      <option name="closed" value="true" />
-      <created>1729680151319</created>
-      <option name="number" value="00230" />
-      <option name="presentableId" value="LOCAL-00230" />
-      <option name="project" value="LOCAL" />
-      <updated>1729680151319</updated>
+      <workItem from="1745734049505" duration="5500000" />
+      <workItem from="1745755637223" duration="8470000" />
+      <workItem from="1745805473159" duration="6136000" />
+      <workItem from="1745837970910" duration="3142000" />
+      <workItem from="1745898999533" duration="12548000" />
+      <workItem from="1746001765192" duration="14865000" />
+      <workItem from="1746057403555" duration="5728000" />
+      <workItem from="1746101607376" duration="245000" />
+      <workItem from="1746111094486" duration="317000" />
+      <workItem from="1746165524250" duration="8791000" />
+      <workItem from="1746251290268" duration="4113000" />
+      <workItem from="1746279336158" duration="1213000" />
+      <workItem from="1746285023860" duration="1617000" />
+      <workItem from="1746332027401" duration="2938000" />
+      <workItem from="1746430260519" duration="601000" />
+      <workItem from="1746539730159" duration="1734000" />
+      <workItem from="1746582647415" duration="8737000" />
+      <workItem from="1746611309485" duration="2032000" />
+      <workItem from="1746624632177" duration="1297000" />
+      <workItem from="1746628375649" duration="219000" />
+      <workItem from="1746713382602" duration="3738000" />
+      <workItem from="1746753101959" duration="4000" />
+      <workItem from="1746795745661" duration="1784000" />
+      <workItem from="1746850836437" duration="2225000" />
+      <workItem from="1746968249931" duration="3839000" />
+      <workItem from="1747020823622" duration="9000" />
+      <workItem from="1747043962569" duration="598000" />
+      <workItem from="1747057572935" duration="2917000" />
+      <workItem from="1747098278762" duration="580000" />
+      <workItem from="1747114497992" duration="374000" />
+      <workItem from="1747139463670" duration="702000" />
+      <workItem from="1747197219846" duration="9712000" />
+      <workItem from="1747213874100" duration="10751000" />
+      <workItem from="1747261037355" duration="2737000" />
+      <workItem from="1747271544153" duration="109000" />
+      <workItem from="1747281268301" duration="4880000" />
+      <workItem from="1747312883822" duration="4601000" />
+      <workItem from="1747447203348" duration="748000" />
+      <workItem from="1747477535140" duration="8612000" />
+      <workItem from="1747551082918" duration="8000" />
+      <workItem from="1747563969413" duration="6178000" />
+      <workItem from="1747577014259" duration="692000" />
+      <workItem from="1747611498859" duration="4118000" />
+      <workItem from="1747639612128" duration="15760000" />
+      <workItem from="1747702551063" duration="17000" />
+      <workItem from="1747719159982" duration="6590000" />
+      <workItem from="1747787370507" duration="3704000" />
+      <workItem from="1747811417560" duration="594000" />
+      <workItem from="1747834530653" duration="3036000" />
+      <workItem from="1747897939465" duration="457000" />
+      <workItem from="1747907862480" duration="5401000" />
+      <workItem from="1747921675858" duration="2489000" />
+      <workItem from="1747957563462" duration="11000" />
+      <workItem from="1747979652271" duration="4063000" />
+      <workItem from="1747990282053" duration="12714000" />
+      <workItem from="1748048164170" duration="4522000" />
     </task>
     <task id="LOCAL-00231" summary="N과 M(Ascending)">
       <option name="closed" value="true" />
@@ -1015,7 +1013,111 @@
       <option name="project" value="LOCAL" />
       <updated>1745506335120</updated>
     </task>
-    <option name="localTasksCounter" value="267" />
+    <task id="LOCAL-00267" summary="Easy Algorithm Learning - Hash P01">
+      <option name="closed" value="true" />
+      <created>1745741236411</created>
+      <option name="number" value="00267" />
+      <option name="presentableId" value="LOCAL-00267" />
+      <option name="project" value="LOCAL" />
+      <updated>1745741236411</updated>
+    </task>
+    <task id="LOCAL-00268" summary="Easy Algorithm Learning - Hash P01">
+      <option name="closed" value="true" />
+      <created>1745741248269</created>
+      <option name="number" value="00268" />
+      <option name="presentableId" value="LOCAL-00268" />
+      <option name="project" value="LOCAL" />
+      <updated>1745741248269</updated>
+    </task>
+    <task id="LOCAL-00269" summary="Easy Algorithm Learning - Hash P02">
+      <option name="closed" value="true" />
+      <created>1745837998071</created>
+      <option name="number" value="00269" />
+      <option name="presentableId" value="LOCAL-00269" />
+      <option name="project" value="LOCAL" />
+      <updated>1745837998071</updated>
+    </task>
+    <task id="LOCAL-00270" summary="Easy Algorithm Learning - Hash P03">
+      <option name="closed" value="true" />
+      <created>1745902841611</created>
+      <option name="number" value="00270" />
+      <option name="presentableId" value="LOCAL-00270" />
+      <option name="project" value="LOCAL" />
+      <updated>1745902841611</updated>
+    </task>
+    <task id="LOCAL-00271" summary="Easy Algorithm Learning - Hash P04">
+      <option name="closed" value="true" />
+      <created>1746067358788</created>
+      <option name="number" value="00271" />
+      <option name="presentableId" value="LOCAL-00271" />
+      <option name="project" value="LOCAL" />
+      <updated>1746067358788</updated>
+    </task>
+    <task id="LOCAL-00272" summary="Easy Algorithm Learning - Hash P05">
+      <option name="closed" value="true" />
+      <created>1746173021709</created>
+      <option name="number" value="00272" />
+      <option name="presentableId" value="LOCAL-00272" />
+      <option name="project" value="LOCAL" />
+      <updated>1746173021709</updated>
+    </task>
+    <task id="LOCAL-00273" summary="Easy Algorithm Learning - Stack P01">
+      <option name="closed" value="true" />
+      <created>1746252910731</created>
+      <option name="number" value="00273" />
+      <option name="presentableId" value="LOCAL-00273" />
+      <option name="project" value="LOCAL" />
+      <updated>1746252910732</updated>
+    </task>
+    <task id="LOCAL-00274" summary="Easy Algorithm Learning - Stack P02">
+      <option name="closed" value="true" />
+      <created>1746597030388</created>
+      <option name="number" value="00274" />
+      <option name="presentableId" value="LOCAL-00274" />
+      <option name="project" value="LOCAL" />
+      <updated>1746597030388</updated>
+    </task>
+    <task id="LOCAL-00275" summary="Easy Algorithm Learning - Sorting_Searching P01">
+      <option name="closed" value="true" />
+      <created>1747222850074</created>
+      <option name="number" value="00275" />
+      <option name="presentableId" value="LOCAL-00275" />
+      <option name="project" value="LOCAL" />
+      <updated>1747222850074</updated>
+    </task>
+    <task id="LOCAL-00276" summary="Easy Algorithm Learning - Sorting_Searching P01">
+      <option name="closed" value="true" />
+      <created>1747222872525</created>
+      <option name="number" value="00276" />
+      <option name="presentableId" value="LOCAL-00276" />
+      <option name="project" value="LOCAL" />
+      <updated>1747222872525</updated>
+    </task>
+    <task id="LOCAL-00277" summary="Easy Algorithm Learning - Stack P03(Kakao)">
+      <option name="closed" value="true" />
+      <created>1747569450015</created>
+      <option name="number" value="00277" />
+      <option name="presentableId" value="LOCAL-00277" />
+      <option name="project" value="LOCAL" />
+      <updated>1747569450015</updated>
+    </task>
+    <task id="LOCAL-00278" summary="Easy Algorithm Learning - Stack P04">
+      <option name="closed" value="true" />
+      <created>1748000020201</created>
+      <option name="number" value="00278" />
+      <option name="presentableId" value="LOCAL-00278" />
+      <option name="project" value="LOCAL" />
+      <updated>1748000020201</updated>
+    </task>
+    <task id="LOCAL-00279" summary="Easy Algorithm Learning - Stack P04">
+      <option name="closed" value="true" />
+      <created>1748048772726</created>
+      <option name="number" value="00279" />
+      <option name="presentableId" value="LOCAL-00279" />
+      <option name="project" value="LOCAL" />
+      <updated>1748048772727</updated>
+    </task>
+    <option name="localTasksCounter" value="280" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1033,16 +1135,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="O (NlogN) with TreeSet" />
-    <MESSAGE value="Time complexity O(N^2 log(N^2))" />
-    <MESSAGE value="mock test O(N)" />
-    <MESSAGE value="Multiplication of matrices O(N^3)" />
-    <MESSAGE value="Failure rate (O(M+NlogN))" />
-    <MESSAGE value="UnversionedFiles" />
-    <MESSAGE value="update" />
-    <MESSAGE value="Easy Algorithm Learning - 1" />
-    <MESSAGE value="Easy Algorithm Learning - 02" />
-    <MESSAGE value="Easy Algorithm Learning - 03" />
     <MESSAGE value="Easy Algorithm Learning - 04" />
     <MESSAGE value="The way to visit-07(O(N))" />
     <MESSAGE value="Easy Algorithm Learning(logic change) - 04" />
@@ -1058,7 +1150,17 @@
     <MESSAGE value="Easy Algorithm Learning - 12" />
     <MESSAGE value="PriceOfStock" />
     <MESSAGE value="merge Error Code" />
-    <option name="LAST_COMMIT_MESSAGE" value="merge Error Code" />
+    <MESSAGE value="Easy Algorithm Learning - Hash P01" />
+    <MESSAGE value="Easy Algorithm Learning - Hash P02" />
+    <MESSAGE value="Easy Algorithm Learning - Hash P03" />
+    <MESSAGE value="Easy Algorithm Learning - Hash P04" />
+    <MESSAGE value="Easy Algorithm Learning - Hash P05" />
+    <MESSAGE value="Easy Algorithm Learning - Stack P01" />
+    <MESSAGE value="Easy Algorithm Learning - Stack P02" />
+    <MESSAGE value="Easy Algorithm Learning - Sorting_Searching P01" />
+    <MESSAGE value="Easy Algorithm Learning - Stack P03(Kakao)" />
+    <MESSAGE value="Easy Algorithm Learning - Stack P04" />
+    <option name="LAST_COMMIT_MESSAGE" value="Easy Algorithm Learning - Stack P04" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1108,12 +1210,27 @@
           <line>17</line>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Practice/Test3.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Practice/Test8.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
           <option name="timeStamp" value="9" />
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="Practice.Node" memberName="next" />
+      </pinned-members>
+    </pin-to-top-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
