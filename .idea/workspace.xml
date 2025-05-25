@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="Inner(Lv1)">
-      <change afterPath="$PROJECT_DIR$/src/pg/Lv1/DescendingOrder.java" afterDir="false" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="DescendingOrder(Lv1)">
+      <change afterPath="$PROJECT_DIR$/src/pg/Lv1/GcdLcm.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,6 +58,7 @@
   "keyToString": {
     "Application.Cardt.executor": "Run",
     "Application.DescendingOrder.executor": "Run",
+    "Application.GcdLcm.executor": "Run",
     "Application.Inner.executor": "Debug",
     "Application.Main.executor": "Run",
     "Application.P01_ClassPresident.executor": "Run",
@@ -103,7 +104,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Java",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Color Scheme Font",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -126,9 +127,22 @@
       <recent name="BaekJ.FactorsAndMultiplesAndDecimals" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DescendingOrder">
+  <component name="RunManager" selected="Application.GcdLcm">
     <configuration name="DescendingOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pg.Lv1.DescendingOrder" />
+      <module name="Do Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pg.Lv1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GcdLcm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pg.Lv1.GcdLcm" />
       <module name="Do Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -179,26 +193,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice2.test" />
-      <module name="Do Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Practice2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GcdLcm" />
         <item itemvalue="Application.DescendingOrder" />
         <item itemvalue="Application.Inner" />
         <item itemvalue="Application.YinYangPlus" />
         <item itemvalue="Application.PandY" />
-        <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
   </component>
@@ -714,15 +715,9 @@
       <workItem from="1748048164170" duration="4522000" />
       <workItem from="1748065805435" duration="3216000" />
       <workItem from="1748083690019" duration="7087000" />
-      <workItem from="1748155587496" duration="299000" />
-    </task>
-    <task id="LOCAL-00235" summary="Warm-up Question">
-      <option name="closed" value="true" />
-      <created>1734937307238</created>
-      <option name="number" value="00235" />
-      <option name="presentableId" value="LOCAL-00235" />
-      <option name="project" value="LOCAL" />
-      <updated>1734937307239</updated>
+      <workItem from="1748155587496" duration="827000" />
+      <workItem from="1748156435450" duration="86000" />
+      <workItem from="1748156533196" duration="1380000" />
     </task>
     <task id="LOCAL-00236" summary="O(N^2) instead of sort() method">
       <option name="closed" value="true" />
@@ -1108,7 +1103,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748155605231</updated>
     </task>
-    <option name="localTasksCounter" value="284" />
+    <task id="LOCAL-00284" summary="DescendingOrder(Lv1)">
+      <option name="closed" value="true" />
+      <created>1748156016807</created>
+      <option name="number" value="00284" />
+      <option name="presentableId" value="LOCAL-00284" />
+      <option name="project" value="LOCAL" />
+      <updated>1748156016807</updated>
+    </task>
+    <option name="localTasksCounter" value="285" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1126,7 +1129,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Easy Algorithm Learning - 06" />
     <MESSAGE value="Easy Algorithm Learning - 05(Modify)" />
     <MESSAGE value="Easy Algorithm Learning - 07(PalindromicString)" />
     <MESSAGE value="Easy Algorithm Learning - 07(ValidPalindrome)" />
@@ -1151,7 +1153,8 @@
     <MESSAGE value="the number of p and y(Lv1)" />
     <MESSAGE value="Yin and yang plus(Lv1)" />
     <MESSAGE value="Inner(Lv1)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inner(Lv1)" />
+    <MESSAGE value="DescendingOrder(Lv1)" />
+    <option name="LAST_COMMIT_MESSAGE" value="DescendingOrder(Lv1)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1200,6 +1203,11 @@
           <url>file://$PROJECT_DIR$/src/EAL/ReO3.java</url>
           <line>17</line>
           <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pg/Lv1/GcdLcm.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
