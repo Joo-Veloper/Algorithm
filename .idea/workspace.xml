@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="DescendingOrder(Lv1)">
-      <change afterPath="$PROJECT_DIR$/src/pg/Lv1/GcdLcm.java" afterDir="false" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="Euclidean reciprocal method(Lv1)">
+      <change afterPath="$PROJECT_DIR$/src/EAL/_05_Stack/p05_IronStick.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -127,7 +127,7 @@
       <recent name="BaekJ.FactorsAndMultiplesAndDecimals" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.GcdLcm">
+  <component name="RunManager" selected="Application.p05_IronStick">
     <configuration name="DescendingOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pg.Lv1.DescendingOrder" />
       <module name="Do Algorithm" />
@@ -167,19 +167,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PandY" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pg.Lv1.PandY" />
-      <module name="Do Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pg.Lv1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="YinYangPlus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pg.Lv1.YinYangPlus" />
       <module name="Do Algorithm" />
@@ -193,13 +180,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="p05_IronStick" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EAL._05_Stack.p05_IronStick" />
+      <module name="Do Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EAL._05_Stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.p05_IronStick" />
         <item itemvalue="Application.GcdLcm" />
         <item itemvalue="Application.DescendingOrder" />
         <item itemvalue="Application.Inner" />
         <item itemvalue="Application.YinYangPlus" />
-        <item itemvalue="Application.PandY" />
       </list>
     </recent_temporary>
   </component>
@@ -717,15 +717,7 @@
       <workItem from="1748083690019" duration="7087000" />
       <workItem from="1748155587496" duration="827000" />
       <workItem from="1748156435450" duration="86000" />
-      <workItem from="1748156533196" duration="1380000" />
-    </task>
-    <task id="LOCAL-00236" summary="O(N^2) instead of sort() method">
-      <option name="closed" value="true" />
-      <created>1734937356388</created>
-      <option name="number" value="00236" />
-      <option name="presentableId" value="LOCAL-00236" />
-      <option name="project" value="LOCAL" />
-      <updated>1734937356389</updated>
+      <workItem from="1748156533196" duration="2973000" />
     </task>
     <task id="LOCAL-00237" summary="O(N) guaranteed when using distinct">
       <option name="closed" value="true" />
@@ -1111,7 +1103,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748156016807</updated>
     </task>
-    <option name="localTasksCounter" value="285" />
+    <task id="LOCAL-00285" summary="Euclidean reciprocal method(Lv1)">
+      <option name="closed" value="true" />
+      <created>1748164317088</created>
+      <option name="number" value="00285" />
+      <option name="presentableId" value="LOCAL-00285" />
+      <option name="project" value="LOCAL" />
+      <updated>1748164317089</updated>
+    </task>
+    <option name="localTasksCounter" value="286" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1129,7 +1129,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Easy Algorithm Learning - 05(Modify)" />
     <MESSAGE value="Easy Algorithm Learning - 07(PalindromicString)" />
     <MESSAGE value="Easy Algorithm Learning - 07(ValidPalindrome)" />
     <MESSAGE value="Easy Algorithm Learning - 07(ChangeTitle)" />
@@ -1154,7 +1153,8 @@
     <MESSAGE value="Yin and yang plus(Lv1)" />
     <MESSAGE value="Inner(Lv1)" />
     <MESSAGE value="DescendingOrder(Lv1)" />
-    <option name="LAST_COMMIT_MESSAGE" value="DescendingOrder(Lv1)" />
+    <MESSAGE value="Euclidean reciprocal method(Lv1)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Euclidean reciprocal method(Lv1)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1203,11 +1203,6 @@
           <url>file://$PROJECT_DIR$/src/EAL/ReO3.java</url>
           <line>17</line>
           <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/pg/Lv1/GcdLcm.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="13" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
