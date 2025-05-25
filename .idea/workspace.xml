@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="Yin and yang plus(Lv1)">
-      <change afterPath="$PROJECT_DIR$/src/pg/Lv1/Inner.java" afterDir="false" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="Inner(Lv1)">
+      <change afterPath="$PROJECT_DIR$/src/pg/Lv1/DescendingOrder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,6 +57,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Cardt.executor": "Run",
+    "Application.DescendingOrder.executor": "Run",
     "Application.Inner.executor": "Debug",
     "Application.Main.executor": "Run",
     "Application.P01_ClassPresident.executor": "Run",
@@ -125,9 +126,9 @@
       <recent name="BaekJ.FactorsAndMultiplesAndDecimals" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Inner">
-    <configuration name="Inner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pg.Lv1.Inner" />
+  <component name="RunManager" selected="Application.DescendingOrder">
+    <configuration name="DescendingOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pg.Lv1.DescendingOrder" />
       <module name="Do Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -139,12 +140,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P04_Postfix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EAL._05_Stack.P04_Postfix" />
+    <configuration name="Inner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pg.Lv1.Inner" />
       <module name="Do Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="EAL._05_Stack.*" />
+          <option name="PATTERN" value="pg.Lv1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -193,11 +194,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DescendingOrder" />
         <item itemvalue="Application.Inner" />
         <item itemvalue="Application.YinYangPlus" />
         <item itemvalue="Application.PandY" />
         <item itemvalue="Application.test" />
-        <item itemvalue="Application.P04_Postfix" />
       </list>
     </recent_temporary>
   </component>
@@ -713,14 +714,7 @@
       <workItem from="1748048164170" duration="4522000" />
       <workItem from="1748065805435" duration="3216000" />
       <workItem from="1748083690019" duration="7087000" />
-    </task>
-    <task id="LOCAL-00234" summary="num2,3">
-      <option name="closed" value="true" />
-      <created>1734071469525</created>
-      <option name="number" value="00234" />
-      <option name="presentableId" value="LOCAL-00234" />
-      <option name="project" value="LOCAL" />
-      <updated>1734071469526</updated>
+      <workItem from="1748155587496" duration="299000" />
     </task>
     <task id="LOCAL-00235" summary="Warm-up Question">
       <option name="closed" value="true" />
@@ -1106,7 +1100,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748088676181</updated>
     </task>
-    <option name="localTasksCounter" value="283" />
+    <task id="LOCAL-00283" summary="Inner(Lv1)">
+      <option name="closed" value="true" />
+      <created>1748155605230</created>
+      <option name="number" value="00283" />
+      <option name="presentableId" value="LOCAL-00283" />
+      <option name="project" value="LOCAL" />
+      <updated>1748155605231</updated>
+    </task>
+    <option name="localTasksCounter" value="284" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1124,7 +1126,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Easy Algorithm Learning - 05" />
     <MESSAGE value="Easy Algorithm Learning - 06" />
     <MESSAGE value="Easy Algorithm Learning - 05(Modify)" />
     <MESSAGE value="Easy Algorithm Learning - 07(PalindromicString)" />
@@ -1149,7 +1150,8 @@
     <MESSAGE value="Remind4" />
     <MESSAGE value="the number of p and y(Lv1)" />
     <MESSAGE value="Yin and yang plus(Lv1)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Yin and yang plus(Lv1)" />
+    <MESSAGE value="Inner(Lv1)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inner(Lv1)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
