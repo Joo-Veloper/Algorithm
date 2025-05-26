@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="Euclidean reciprocal method(Lv1)">
-      <change afterPath="$PROJECT_DIR$/src/EAL/_05_Stack/p05_IronStick.java" afterDir="false" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="Easy Algorithm Learning - Stack P05">
+      <change afterPath="$PROJECT_DIR$/src/Practice/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pg/Lv1/ASmallString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +57,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ASmallString.executor": "Run",
     "Application.Cardt.executor": "Run",
     "Application.DescendingOrder.executor": "Run",
     "Application.GcdLcm.executor": "Run",
@@ -86,6 +88,7 @@
     "Application.Test8.executor": "Run",
     "Application.YinYangPlus.executor": "Run",
     "Application.bitco.executor": "Run",
+    "Application.p05_IronStick.executor": "Run",
     "Application.pro.executor": "Run",
     "Application.re01.executor": "Run",
     "Application.sheep.executor": "Run",
@@ -127,7 +130,20 @@
       <recent name="BaekJ.FactorsAndMultiplesAndDecimals" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.p05_IronStick">
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="ASmallString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pg.Lv1.ASmallString" />
+      <module name="Do Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pg.Lv1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DescendingOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pg.Lv1.DescendingOrder" />
       <module name="Do Algorithm" />
@@ -154,25 +170,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Inner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pg.Lv1.Inner" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.Test" />
       <module name="Do Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pg.Lv1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="YinYangPlus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pg.Lv1.YinYangPlus" />
-      <module name="Do Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pg.Lv1.*" />
+          <option name="PATTERN" value="Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -195,11 +198,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.ASmallString" />
         <item itemvalue="Application.p05_IronStick" />
         <item itemvalue="Application.GcdLcm" />
         <item itemvalue="Application.DescendingOrder" />
-        <item itemvalue="Application.Inner" />
-        <item itemvalue="Application.YinYangPlus" />
       </list>
     </recent_temporary>
   </component>
@@ -717,15 +720,9 @@
       <workItem from="1748083690019" duration="7087000" />
       <workItem from="1748155587496" duration="827000" />
       <workItem from="1748156435450" duration="86000" />
-      <workItem from="1748156533196" duration="2973000" />
-    </task>
-    <task id="LOCAL-00237" summary="O(N) guaranteed when using distinct">
-      <option name="closed" value="true" />
-      <created>1735029205839</created>
-      <option name="number" value="00237" />
-      <option name="presentableId" value="LOCAL-00237" />
-      <option name="project" value="LOCAL" />
-      <updated>1735029205839</updated>
+      <workItem from="1748156533196" duration="3685000" />
+      <workItem from="1748181306092" duration="11000" />
+      <workItem from="1748237222865" duration="4637000" />
     </task>
     <task id="LOCAL-00238" summary="O (NlogN) with TreeSet">
       <option name="closed" value="true" />
@@ -1111,7 +1108,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748164317089</updated>
     </task>
-    <option name="localTasksCounter" value="286" />
+    <task id="LOCAL-00286" summary="Easy Algorithm Learning - Stack P05">
+      <option name="closed" value="true" />
+      <created>1748166687617</created>
+      <option name="number" value="00286" />
+      <option name="presentableId" value="LOCAL-00286" />
+      <option name="project" value="LOCAL" />
+      <updated>1748166687617</updated>
+    </task>
+    <option name="localTasksCounter" value="287" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1129,7 +1134,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Easy Algorithm Learning - 07(PalindromicString)" />
     <MESSAGE value="Easy Algorithm Learning - 07(ValidPalindrome)" />
     <MESSAGE value="Easy Algorithm Learning - 07(ChangeTitle)" />
     <MESSAGE value="Easy Algorithm Learning - 08" />
@@ -1154,7 +1158,8 @@
     <MESSAGE value="Inner(Lv1)" />
     <MESSAGE value="DescendingOrder(Lv1)" />
     <MESSAGE value="Euclidean reciprocal method(Lv1)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Euclidean reciprocal method(Lv1)" />
+    <MESSAGE value="Easy Algorithm Learning - Stack P05" />
+    <option name="LAST_COMMIT_MESSAGE" value="Easy Algorithm Learning - Stack P05" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1203,6 +1208,11 @@
           <url>file://$PROJECT_DIR$/src/EAL/ReO3.java</url>
           <line>17</line>
           <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pg/Lv1/ASmallString.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
