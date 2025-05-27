@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="Budget(Lv1)">
-      <change afterPath="$PROJECT_DIR$/src/pg/Lv1/AThreeDigitReversal.java" afterDir="false" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="AThreeDigitReversal(Lv1)">
+      <change afterPath="$PROJECT_DIR$/src/pg/Lv1/TheThreeMusketeers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,6 +87,7 @@
     "Application.Test6.executor": "Run",
     "Application.Test7.executor": "Run",
     "Application.Test8.executor": "Run",
+    "Application.TheThreeMusketeers.executor": "Run",
     "Application.YinYangPlus.executor": "Run",
     "Application.bitco.executor": "Run",
     "Application.p05_IronStick.executor": "Run",
@@ -131,7 +132,7 @@
       <recent name="BaekJ.FactorsAndMultiplesAndDecimals" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AThreeDigitReversal">
+  <component name="RunManager" selected="Application.TheThreeMusketeers">
     <configuration name="ASmallString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pg.Lv1.ASmallString" />
       <module name="Do Algorithm" />
@@ -184,12 +185,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="p05_IronStick" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EAL._05_Stack.p05_IronStick" />
+    <configuration name="TheThreeMusketeers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pg.Lv1.TheThreeMusketeers" />
       <module name="Do Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="EAL._05_Stack.*" />
+          <option name="PATTERN" value="pg.Lv1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -199,11 +200,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TheThreeMusketeers" />
         <item itemvalue="Application.AThreeDigitReversal" />
         <item itemvalue="Application.Budget" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.ASmallString" />
-        <item itemvalue="Application.p05_IronStick" />
       </list>
     </recent_temporary>
   </component>
@@ -724,15 +725,7 @@
       <workItem from="1748156533196" duration="3685000" />
       <workItem from="1748181306092" duration="11000" />
       <workItem from="1748237222865" duration="7066000" />
-      <workItem from="1748323840375" duration="1058000" />
-    </task>
-    <task id="LOCAL-00241" summary="mock test O(N)">
-      <option name="closed" value="true" />
-      <created>1735200941971</created>
-      <option name="number" value="00241" />
-      <option name="presentableId" value="LOCAL-00241" />
-      <option name="project" value="LOCAL" />
-      <updated>1735200941971</updated>
+      <workItem from="1748323840375" duration="3944000" />
     </task>
     <task id="LOCAL-00242" summary="Multiplication of matrices O(N^3)">
       <option name="closed" value="true" />
@@ -1118,7 +1111,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748244736648</updated>
     </task>
-    <option name="localTasksCounter" value="290" />
+    <task id="LOCAL-00290" summary="AThreeDigitReversal(Lv1)">
+      <option name="closed" value="true" />
+      <created>1748325086564</created>
+      <option name="number" value="00290" />
+      <option name="presentableId" value="LOCAL-00290" />
+      <option name="project" value="LOCAL" />
+      <updated>1748325086564</updated>
+    </task>
+    <option name="localTasksCounter" value="291" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1136,7 +1137,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Easy Algorithm Learning - 08" />
     <MESSAGE value="Easy Algorithm Learning - 10" />
     <MESSAGE value="Easy Algorithm Learning - 11" />
     <MESSAGE value="Easy Algorithm Learning - 12" />
@@ -1161,7 +1161,8 @@
     <MESSAGE value="Easy Algorithm Learning - Stack P05" />
     <MESSAGE value="SmallString(Lv1)" />
     <MESSAGE value="Budget(Lv1)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Budget(Lv1)" />
+    <MESSAGE value="AThreeDigitReversal(Lv1)" />
+    <option name="LAST_COMMIT_MESSAGE" value="AThreeDigitReversal(Lv1)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
