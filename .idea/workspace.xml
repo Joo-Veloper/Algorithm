@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="TheThreeMusketeers(Lv1)">
-      <change afterPath="$PROJECT_DIR$/src/pg/Lv1/CreateStrangeCharacters.java" afterDir="false" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="CreateStrangeCharacters(Lv1)">
+      <change afterPath="$PROJECT_DIR$/src/pg/Lv1/MinimumRectangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,6 +65,7 @@
     "Application.GcdLcm.executor": "Run",
     "Application.Inner.executor": "Debug",
     "Application.Main.executor": "Run",
+    "Application.MinimumRectangle.executor": "Debug",
     "Application.P01_ClassPresident.executor": "Run",
     "Application.P01_CorrectParentheses.executor": "Run",
     "Application.P02_Anagram.executor": "Run",
@@ -133,7 +134,7 @@
       <recent name="BaekJ.FactorsAndMultiplesAndDecimals" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CreateStrangeCharacters">
+  <component name="RunManager" selected="Application.MinimumRectangle">
     <configuration name="AThreeDigitReversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pg.Lv1.AThreeDigitReversal" />
       <module name="Do Algorithm" />
@@ -173,12 +174,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.Test" />
+    <configuration name="MinimumRectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pg.Lv1.MinimumRectangle" />
       <module name="Do Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice.*" />
+          <option name="PATTERN" value="pg.Lv1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -201,11 +202,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MinimumRectangle" />
         <item itemvalue="Application.CreateStrangeCharacters" />
         <item itemvalue="Application.TheThreeMusketeers" />
         <item itemvalue="Application.AThreeDigitReversal" />
         <item itemvalue="Application.Budget" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -728,15 +729,10 @@
       <workItem from="1748237222865" duration="7066000" />
       <workItem from="1748323840375" duration="4583000" />
       <workItem from="1748344749377" duration="1242000" />
-      <workItem from="1748420838835" duration="2944000" />
-    </task>
-    <task id="LOCAL-00243" summary="Failure rate (O(M+NlogN))">
-      <option name="closed" value="true" />
-      <created>1735302432643</created>
-      <option name="number" value="00243" />
-      <option name="presentableId" value="LOCAL-00243" />
-      <option name="project" value="LOCAL" />
-      <updated>1735302432643</updated>
+      <workItem from="1748420838835" duration="6203000" />
+      <workItem from="1748478846132" duration="1115000" />
+      <workItem from="1748492588530" duration="18000" />
+      <workItem from="1748502081753" duration="3262000" />
     </task>
     <task id="LOCAL-00244" summary="UnversionedFiles">
       <option name="closed" value="true" />
@@ -1122,7 +1118,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748328069414</updated>
     </task>
-    <option name="localTasksCounter" value="292" />
+    <task id="LOCAL-00292" summary="CreateStrangeCharacters(Lv1)">
+      <option name="closed" value="true" />
+      <created>1748425002192</created>
+      <option name="number" value="00292" />
+      <option name="presentableId" value="LOCAL-00292" />
+      <option name="project" value="LOCAL" />
+      <updated>1748425002192</updated>
+    </task>
+    <option name="localTasksCounter" value="293" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1140,7 +1144,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Easy Algorithm Learning - 11" />
     <MESSAGE value="Easy Algorithm Learning - 12" />
     <MESSAGE value="PriceOfStock" />
     <MESSAGE value="merge Error Code" />
@@ -1165,7 +1168,8 @@
     <MESSAGE value="Budget(Lv1)" />
     <MESSAGE value="AThreeDigitReversal(Lv1)" />
     <MESSAGE value="TheThreeMusketeers(Lv1)" />
-    <option name="LAST_COMMIT_MESSAGE" value="TheThreeMusketeers(Lv1)" />
+    <MESSAGE value="CreateStrangeCharacters(Lv1)" />
+    <option name="LAST_COMMIT_MESSAGE" value="CreateStrangeCharacters(Lv1)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1219,6 +1223,26 @@
           <url>file://$PROJECT_DIR$/src/pg/Lv1/ASmallString.java</url>
           <line>16</line>
           <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pg/Lv1/MinimumRectangle.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pg/Lv1/MinimumRectangle.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pg/Lv1/MinimumRectangle.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pg/Lv1/MinimumRectangle.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="18" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
