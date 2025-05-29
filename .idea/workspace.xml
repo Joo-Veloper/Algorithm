@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="CreateStrangeCharacters(Lv1)">
-      <change afterPath="$PROJECT_DIR$/src/pg/Lv1/MinimumRectangle.java" afterDir="false" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="MinimumRectangle(Lv1)">
+      <change afterPath="$PROJECT_DIR$/src/pg/Lv1/ClosestEquivalentLetter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,6 +60,7 @@
     "Application.AThreeDigitReversal.executor": "Run",
     "Application.Budget.executor": "Debug",
     "Application.Cardt.executor": "Run",
+    "Application.ClosestEquivalentLetter.executor": "Debug",
     "Application.CreateStrangeCharacters.executor": "Run",
     "Application.DescendingOrder.executor": "Run",
     "Application.GcdLcm.executor": "Run",
@@ -134,7 +135,7 @@
       <recent name="BaekJ.FactorsAndMultiplesAndDecimals" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MinimumRectangle">
+  <component name="RunManager" selected="Application.ClosestEquivalentLetter">
     <configuration name="AThreeDigitReversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pg.Lv1.AThreeDigitReversal" />
       <module name="Do Algorithm" />
@@ -148,8 +149,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Budget" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pg.Lv1.Budget" />
+    <configuration name="ClosestEquivalentLetter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pg.Lv1.ClosestEquivalentLetter" />
       <module name="Do Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -202,11 +203,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ClosestEquivalentLetter" />
         <item itemvalue="Application.MinimumRectangle" />
         <item itemvalue="Application.CreateStrangeCharacters" />
         <item itemvalue="Application.TheThreeMusketeers" />
         <item itemvalue="Application.AThreeDigitReversal" />
-        <item itemvalue="Application.Budget" />
       </list>
     </recent_temporary>
   </component>
@@ -732,15 +733,7 @@
       <workItem from="1748420838835" duration="6203000" />
       <workItem from="1748478846132" duration="1115000" />
       <workItem from="1748492588530" duration="18000" />
-      <workItem from="1748502081753" duration="3262000" />
-    </task>
-    <task id="LOCAL-00244" summary="UnversionedFiles">
-      <option name="closed" value="true" />
-      <created>1735304907208</created>
-      <option name="number" value="00244" />
-      <option name="presentableId" value="LOCAL-00244" />
-      <option name="project" value="LOCAL" />
-      <updated>1735304907208</updated>
+      <workItem from="1748502081753" duration="4505000" />
     </task>
     <task id="LOCAL-00245" summary="update">
       <option name="closed" value="true" />
@@ -1126,7 +1119,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748425002192</updated>
     </task>
-    <option name="localTasksCounter" value="293" />
+    <task id="LOCAL-00293" summary="MinimumRectangle(Lv1)">
+      <option name="closed" value="true" />
+      <created>1748507003331</created>
+      <option name="number" value="00293" />
+      <option name="presentableId" value="LOCAL-00293" />
+      <option name="project" value="LOCAL" />
+      <updated>1748507003332</updated>
+    </task>
+    <option name="localTasksCounter" value="294" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1144,7 +1145,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Easy Algorithm Learning - 12" />
     <MESSAGE value="PriceOfStock" />
     <MESSAGE value="merge Error Code" />
     <MESSAGE value="Easy Algorithm Learning - Hash P01" />
@@ -1169,7 +1169,8 @@
     <MESSAGE value="AThreeDigitReversal(Lv1)" />
     <MESSAGE value="TheThreeMusketeers(Lv1)" />
     <MESSAGE value="CreateStrangeCharacters(Lv1)" />
-    <option name="LAST_COMMIT_MESSAGE" value="CreateStrangeCharacters(Lv1)" />
+    <MESSAGE value="MinimumRectangle(Lv1)" />
+    <option name="LAST_COMMIT_MESSAGE" value="MinimumRectangle(Lv1)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1243,6 +1244,16 @@
           <url>file://$PROJECT_DIR$/src/pg/Lv1/MinimumRectangle.java</url>
           <line>34</line>
           <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pg/Lv1/ClosestEquivalentLetter.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pg/Lv1/ClosestEquivalentLetter.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="20" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
