@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="ClosestEquivalentLetter(Lv1)">
-      <change afterPath="$PROJECT_DIR$/src/pg/Lv1/CaesarPassword.java" afterDir="false" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="CaesarPassword(Lv1)">
+      <change afterPath="$PROJECT_DIR$/src/pg/Lv1/NumericStringEnglishWords.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,6 +68,7 @@
     "Application.Inner.executor": "Debug",
     "Application.Main.executor": "Run",
     "Application.MinimumRectangle.executor": "Debug",
+    "Application.NumericStringEnglishWords.executor": "Run",
     "Application.P01_ClassPresident.executor": "Run",
     "Application.P01_CorrectParentheses.executor": "Run",
     "Application.P02_Anagram.executor": "Run",
@@ -136,7 +137,7 @@
       <recent name="BaekJ.FactorsAndMultiplesAndDecimals" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CaesarPassword">
+  <component name="RunManager" selected="Application.NumericStringEnglishWords">
     <configuration name="CaesarPassword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pg.Lv1.CaesarPassword" />
       <module name="Do Algorithm" />
@@ -189,8 +190,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TheThreeMusketeers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pg.Lv1.TheThreeMusketeers" />
+    <configuration name="NumericStringEnglishWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pg.Lv1.NumericStringEnglishWords" />
       <module name="Do Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -204,11 +205,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NumericStringEnglishWords" />
         <item itemvalue="Application.CaesarPassword" />
         <item itemvalue="Application.ClosestEquivalentLetter" />
         <item itemvalue="Application.MinimumRectangle" />
         <item itemvalue="Application.CreateStrangeCharacters" />
-        <item itemvalue="Application.TheThreeMusketeers" />
       </list>
     </recent_temporary>
   </component>
@@ -734,15 +735,8 @@
       <workItem from="1748420838835" duration="6203000" />
       <workItem from="1748478846132" duration="1115000" />
       <workItem from="1748492588530" duration="18000" />
-      <workItem from="1748502081753" duration="7183000" />
-    </task>
-    <task id="LOCAL-00246" summary="Easy Algorithm Learning - 1">
-      <option name="closed" value="true" />
-      <created>1735398640750</created>
-      <option name="number" value="00246" />
-      <option name="presentableId" value="LOCAL-00246" />
-      <option name="project" value="LOCAL" />
-      <updated>1735398640750</updated>
+      <workItem from="1748502081753" duration="7834000" />
+      <workItem from="1748603793012" duration="1728000" />
     </task>
     <task id="LOCAL-00247" summary="Easy Algorithm Learning - 1">
       <option name="closed" value="true" />
@@ -1128,7 +1122,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748508269962</updated>
     </task>
-    <option name="localTasksCounter" value="295" />
+    <task id="LOCAL-00295" summary="CaesarPassword(Lv1)">
+      <option name="closed" value="true" />
+      <created>1748513347919</created>
+      <option name="number" value="00295" />
+      <option name="presentableId" value="LOCAL-00295" />
+      <option name="project" value="LOCAL" />
+      <updated>1748513347919</updated>
+    </task>
+    <option name="localTasksCounter" value="296" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1146,7 +1148,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="merge Error Code" />
     <MESSAGE value="Easy Algorithm Learning - Hash P01" />
     <MESSAGE value="Easy Algorithm Learning - Hash P02" />
     <MESSAGE value="Easy Algorithm Learning - Hash P03" />
@@ -1171,7 +1172,8 @@
     <MESSAGE value="CreateStrangeCharacters(Lv1)" />
     <MESSAGE value="MinimumRectangle(Lv1)" />
     <MESSAGE value="ClosestEquivalentLetter(Lv1)" />
-    <option name="LAST_COMMIT_MESSAGE" value="ClosestEquivalentLetter(Lv1)" />
+    <MESSAGE value="CaesarPassword(Lv1)" />
+    <option name="LAST_COMMIT_MESSAGE" value="CaesarPassword(Lv1)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
