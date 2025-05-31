@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="CaesarPassword(Lv1)">
-      <change afterPath="$PROJECT_DIR$/src/pg/Lv1/NumericStringEnglishWords.java" afterDir="false" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="NumericStringEnglishWords(Lv1)">
+      <change afterPath="$PROJECT_DIR$/src/pg/Lv1/Coke.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,6 +62,7 @@
     "Application.CaesarPassword.executor": "Run",
     "Application.Cardt.executor": "Run",
     "Application.ClosestEquivalentLetter.executor": "Debug",
+    "Application.Coke.executor": "Debug",
     "Application.CreateStrangeCharacters.executor": "Run",
     "Application.DescendingOrder.executor": "Run",
     "Application.GcdLcm.executor": "Run",
@@ -137,7 +138,7 @@
       <recent name="BaekJ.FactorsAndMultiplesAndDecimals" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.NumericStringEnglishWords">
+  <component name="RunManager" selected="Application.Coke">
     <configuration name="CaesarPassword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pg.Lv1.CaesarPassword" />
       <module name="Do Algorithm" />
@@ -164,8 +165,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CreateStrangeCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pg.Lv1.CreateStrangeCharacters" />
+    <configuration name="Coke" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pg.Lv1.Coke" />
       <module name="Do Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -205,11 +206,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Coke" />
         <item itemvalue="Application.NumericStringEnglishWords" />
         <item itemvalue="Application.CaesarPassword" />
         <item itemvalue="Application.ClosestEquivalentLetter" />
         <item itemvalue="Application.MinimumRectangle" />
-        <item itemvalue="Application.CreateStrangeCharacters" />
       </list>
     </recent_temporary>
   </component>
@@ -736,15 +737,9 @@
       <workItem from="1748478846132" duration="1115000" />
       <workItem from="1748492588530" duration="18000" />
       <workItem from="1748502081753" duration="7834000" />
-      <workItem from="1748603793012" duration="1728000" />
-    </task>
-    <task id="LOCAL-00247" summary="Easy Algorithm Learning - 1">
-      <option name="closed" value="true" />
-      <created>1735450289131</created>
-      <option name="number" value="00247" />
-      <option name="presentableId" value="LOCAL-00247" />
-      <option name="project" value="LOCAL" />
-      <updated>1735450289131</updated>
+      <workItem from="1748603793012" duration="2286000" />
+      <workItem from="1748608998109" duration="8000" />
+      <workItem from="1748675783280" duration="5022000" />
     </task>
     <task id="LOCAL-00248" summary="Easy Algorithm Learning - 02">
       <option name="closed" value="true" />
@@ -1130,7 +1125,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748513347919</updated>
     </task>
-    <option name="localTasksCounter" value="296" />
+    <task id="LOCAL-00296" summary="NumericStringEnglishWords(Lv1)">
+      <option name="closed" value="true" />
+      <created>1748606109297</created>
+      <option name="number" value="00296" />
+      <option name="presentableId" value="LOCAL-00296" />
+      <option name="project" value="LOCAL" />
+      <updated>1748606109299</updated>
+    </task>
+    <option name="localTasksCounter" value="297" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1148,7 +1151,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Easy Algorithm Learning - Hash P01" />
     <MESSAGE value="Easy Algorithm Learning - Hash P02" />
     <MESSAGE value="Easy Algorithm Learning - Hash P03" />
     <MESSAGE value="Easy Algorithm Learning - Hash P04" />
@@ -1173,7 +1175,8 @@
     <MESSAGE value="MinimumRectangle(Lv1)" />
     <MESSAGE value="ClosestEquivalentLetter(Lv1)" />
     <MESSAGE value="CaesarPassword(Lv1)" />
-    <option name="LAST_COMMIT_MESSAGE" value="CaesarPassword(Lv1)" />
+    <MESSAGE value="NumericStringEnglishWords(Lv1)" />
+    <option name="LAST_COMMIT_MESSAGE" value="NumericStringEnglishWords(Lv1)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1257,6 +1260,16 @@
           <url>file://$PROJECT_DIR$/src/pg/Lv1/ClosestEquivalentLetter.java</url>
           <line>22</line>
           <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pg/Lv1/Coke.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pg/Lv1/Coke.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="25" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
