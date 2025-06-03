@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="SortStrings(Lv1)">
-      <change afterPath="$PROJECT_DIR$/src/pg/Lv1/TheHallOfFame.java" afterDir="false" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="TheHallOfFame(Lv1)">
+      <change afterPath="$PROJECT_DIR$/src/pg/Lv1/CardDummy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,6 +63,7 @@
     "Application.AThreeDigitReversal.executor": "Run",
     "Application.Budget.executor": "Debug",
     "Application.CaesarPassword.executor": "Run",
+    "Application.CardDummy.executor": "Run",
     "Application.Cardt.executor": "Run",
     "Application.ClosestEquivalentLetter.executor": "Debug",
     "Application.Coke.executor": "Run",
@@ -97,7 +98,7 @@
     "Application.Test6.executor": "Run",
     "Application.Test7.executor": "Run",
     "Application.Test8.executor": "Run",
-    "Application.TheHallOfFame.executor": "Run",
+    "Application.TheHallOfFame.executor": "Debug",
     "Application.TheThreeMusketeers.executor": "Run",
     "Application.YinYangPlus.executor": "Run",
     "Application.bitco.executor": "Run",
@@ -143,9 +144,9 @@
       <recent name="BaekJ.FactorsAndMultiplesAndDecimals" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TheHallOfFame">
-    <configuration name="CaesarPassword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pg.Lv1.CaesarPassword" />
+  <component name="RunManager" selected="Application.CardDummy">
+    <configuration name="CardDummy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pg.Lv1.CardDummy" />
       <module name="Do Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -211,11 +212,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CardDummy" />
         <item itemvalue="Application.TheHallOfFame" />
         <item itemvalue="Application.SortStrings" />
         <item itemvalue="Application.Coke" />
         <item itemvalue="Application.NumericStringEnglishWords" />
-        <item itemvalue="Application.CaesarPassword" />
       </list>
     </recent_temporary>
   </component>
@@ -747,15 +748,9 @@
       <workItem from="1748675783280" duration="9208000" />
       <workItem from="1748762839152" duration="4457000" />
       <workItem from="1748836660394" duration="10000" />
-      <workItem from="1748859500463" duration="3463000" />
-    </task>
-    <task id="LOCAL-00250" summary="Easy Algorithm Learning - 03">
-      <option name="closed" value="true" />
-      <created>1735484196558</created>
-      <option name="number" value="00250" />
-      <option name="presentableId" value="LOCAL-00250" />
-      <option name="project" value="LOCAL" />
-      <updated>1735484196558</updated>
+      <workItem from="1748859500463" duration="5209000" />
+      <workItem from="1748932862945" duration="9000" />
+      <workItem from="1748947677258" duration="3006000" />
     </task>
     <task id="LOCAL-00251" summary="Easy Algorithm Learning - 04">
       <option name="closed" value="true" />
@@ -1141,7 +1136,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748767975792</updated>
     </task>
-    <option name="localTasksCounter" value="299" />
+    <task id="LOCAL-00299" summary="TheHallOfFame(Lv1)">
+      <option name="closed" value="true" />
+      <created>1748868288465</created>
+      <option name="number" value="00299" />
+      <option name="presentableId" value="LOCAL-00299" />
+      <option name="project" value="LOCAL" />
+      <updated>1748868288467</updated>
+    </task>
+    <option name="localTasksCounter" value="300" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1159,7 +1162,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Easy Algorithm Learning - Hash P04" />
     <MESSAGE value="Easy Algorithm Learning - Hash P05" />
     <MESSAGE value="Easy Algorithm Learning - Stack P01" />
     <MESSAGE value="Easy Algorithm Learning - Stack P02" />
@@ -1184,7 +1186,8 @@
     <MESSAGE value="NumericStringEnglishWords(Lv1)" />
     <MESSAGE value="Coke(Lv1)" />
     <MESSAGE value="SortStrings(Lv1)" />
-    <option name="LAST_COMMIT_MESSAGE" value="SortStrings(Lv1)" />
+    <MESSAGE value="TheHallOfFame(Lv1)" />
+    <option name="LAST_COMMIT_MESSAGE" value="TheHallOfFame(Lv1)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1286,8 +1289,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/pg/Lv1/TheHallOfFame.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pg/Lv1/TheHallOfFame.java</url>
           <line>27</line>
-          <option name="timeStamp" value="27" />
+          <option name="timeStamp" value="29" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
