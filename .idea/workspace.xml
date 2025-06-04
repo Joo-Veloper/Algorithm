@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="TheHallOfFame(Lv1)">
-      <change afterPath="$PROJECT_DIR$/src/pg/Lv1/CardDummy.java" afterDir="false" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="CardDummy(Lv1)">
+      <change afterPath="$PROJECT_DIR$/src/pg/Lv1/KnightWeapons.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,6 +71,7 @@
     "Application.DescendingOrder.executor": "Run",
     "Application.GcdLcm.executor": "Run",
     "Application.Inner.executor": "Debug",
+    "Application.KnightWeapons.executor": "Debug",
     "Application.Main.executor": "Run",
     "Application.MinimumRectangle.executor": "Debug",
     "Application.NumericStringEnglishWords.executor": "Run",
@@ -144,7 +145,7 @@
       <recent name="BaekJ.FactorsAndMultiplesAndDecimals" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CardDummy">
+  <component name="RunManager" selected="Application.KnightWeapons">
     <configuration name="CardDummy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pg.Lv1.CardDummy" />
       <module name="Do Algorithm" />
@@ -171,8 +172,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumericStringEnglishWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pg.Lv1.NumericStringEnglishWords" />
+    <configuration name="KnightWeapons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pg.Lv1.KnightWeapons" />
       <module name="Do Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -212,11 +213,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.KnightWeapons" />
         <item itemvalue="Application.CardDummy" />
         <item itemvalue="Application.TheHallOfFame" />
         <item itemvalue="Application.SortStrings" />
         <item itemvalue="Application.Coke" />
-        <item itemvalue="Application.NumericStringEnglishWords" />
       </list>
     </recent_temporary>
   </component>
@@ -750,15 +751,8 @@
       <workItem from="1748836660394" duration="10000" />
       <workItem from="1748859500463" duration="5209000" />
       <workItem from="1748932862945" duration="9000" />
-      <workItem from="1748947677258" duration="3006000" />
-    </task>
-    <task id="LOCAL-00251" summary="Easy Algorithm Learning - 04">
-      <option name="closed" value="true" />
-      <created>1735558799323</created>
-      <option name="number" value="00251" />
-      <option name="presentableId" value="LOCAL-00251" />
-      <option name="project" value="LOCAL" />
-      <updated>1735558799323</updated>
+      <workItem from="1748947677258" duration="4771000" />
+      <workItem from="1749012745837" duration="4226000" />
     </task>
     <task id="LOCAL-00252" summary="The way to visit-07(O(N))">
       <option name="closed" value="true" />
@@ -1144,7 +1138,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748868288467</updated>
     </task>
-    <option name="localTasksCounter" value="300" />
+    <task id="LOCAL-00300" summary="CardDummy(Lv1)">
+      <option name="closed" value="true" />
+      <created>1748957143570</created>
+      <option name="number" value="00300" />
+      <option name="presentableId" value="LOCAL-00300" />
+      <option name="project" value="LOCAL" />
+      <updated>1748957143570</updated>
+    </task>
+    <option name="localTasksCounter" value="301" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1162,7 +1164,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Easy Algorithm Learning - Hash P05" />
     <MESSAGE value="Easy Algorithm Learning - Stack P01" />
     <MESSAGE value="Easy Algorithm Learning - Stack P02" />
     <MESSAGE value="Easy Algorithm Learning - Sorting_Searching P01" />
@@ -1187,7 +1188,8 @@
     <MESSAGE value="Coke(Lv1)" />
     <MESSAGE value="SortStrings(Lv1)" />
     <MESSAGE value="TheHallOfFame(Lv1)" />
-    <option name="LAST_COMMIT_MESSAGE" value="TheHallOfFame(Lv1)" />
+    <MESSAGE value="CardDummy(Lv1)" />
+    <option name="LAST_COMMIT_MESSAGE" value="CardDummy(Lv1)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1296,6 +1298,16 @@
           <url>file://$PROJECT_DIR$/src/pg/Lv1/TheHallOfFame.java</url>
           <line>27</line>
           <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pg/Lv1/KnightWeapons.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pg/Lv1/KnightWeapons.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="35" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
