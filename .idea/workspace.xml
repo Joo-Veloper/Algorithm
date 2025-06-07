@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="SecretMap(Lv1)">
-      <change afterPath="$PROJECT_DIR$/src/pg/Lv1/TwentySixteen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="2016(Lv1)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -757,15 +754,7 @@
       <workItem from="1749012745837" duration="4580000" />
       <workItem from="1749046603410" duration="7000" />
       <workItem from="1749102737272" duration="4641000" />
-      <workItem from="1749180600836" duration="4043000" />
-    </task>
-    <task id="LOCAL-00254" summary="Easy Algorithm Learning - 05">
-      <option name="closed" value="true" />
-      <created>1735617569728</created>
-      <option name="number" value="00254" />
-      <option name="presentableId" value="LOCAL-00254" />
-      <option name="project" value="LOCAL" />
-      <updated>1735617569728</updated>
+      <workItem from="1749180600836" duration="5854000" />
     </task>
     <task id="LOCAL-00255" summary="Easy Algorithm Learning - 05">
       <option name="closed" value="true" />
@@ -1151,7 +1140,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749106805498</updated>
     </task>
-    <option name="localTasksCounter" value="303" />
+    <task id="LOCAL-00303" summary="2016(Lv1)">
+      <option name="closed" value="true" />
+      <created>1749188114995</created>
+      <option name="number" value="00303" />
+      <option name="presentableId" value="LOCAL-00303" />
+      <option name="project" value="LOCAL" />
+      <updated>1749188114996</updated>
+    </task>
+    <option name="localTasksCounter" value="304" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1169,7 +1166,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Easy Algorithm Learning - Sorting_Searching P01" />
     <MESSAGE value="Easy Algorithm Learning - Stack P03(Kakao)" />
     <MESSAGE value="Easy Algorithm Learning - Stack P04" />
     <MESSAGE value="Remind4" />
@@ -1194,7 +1190,8 @@
     <MESSAGE value="CardDummy(Lv1)" />
     <MESSAGE value="KnightWeapons(Lv1)" />
     <MESSAGE value="SecretMap(Lv1)" />
-    <option name="LAST_COMMIT_MESSAGE" value="SecretMap(Lv1)" />
+    <MESSAGE value="2016(Lv1)" />
+    <option name="LAST_COMMIT_MESSAGE" value="2016(Lv1)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
