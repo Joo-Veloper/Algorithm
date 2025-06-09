@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="2016(Lv1)" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="Fruits(Lv1)">
+      <change afterPath="$PROJECT_DIR$/src/pg/Lv1/OverPainting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pg/Lv1/SearchPrimeNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,6 +87,7 @@
     "Application.P05_AllAnagram.executor": "Run",
     "Application.P05_K_Largest_Number.executor": "Run",
     "Application.PandY.executor": "Run",
+    "Application.SearchPrimeNumbers.executor": "Run",
     "Application.SecretMap.executor": "Debug",
     "Application.SelectSort.executor": "Run",
     "Application.SortStrings.executor": "Debug",
@@ -144,9 +149,9 @@
       <recent name="BaekJ.FactorsAndMultiplesAndDecimals" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TwentySixteen">
-    <configuration name="CardDummy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pg.Lv1.CardDummy" />
+  <component name="RunManager" selected="Application.SearchPrimeNumbers">
+    <configuration name="KnightWeapons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pg.Lv1.KnightWeapons" />
       <module name="Do Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -158,8 +163,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KnightWeapons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pg.Lv1.KnightWeapons" />
+    <configuration name="SearchPrimeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pg.Lv1.SearchPrimeNumbers" />
       <module name="Do Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -212,11 +217,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SearchPrimeNumbers" />
         <item itemvalue="Application.TwentySixteen" />
         <item itemvalue="Application.SecretMap2" />
         <item itemvalue="Application.SecretMap" />
         <item itemvalue="Application.KnightWeapons" />
-        <item itemvalue="Application.CardDummy" />
       </list>
     </recent_temporary>
   </component>
@@ -755,14 +760,9 @@
       <workItem from="1749046603410" duration="7000" />
       <workItem from="1749102737272" duration="4641000" />
       <workItem from="1749180600836" duration="5854000" />
-    </task>
-    <task id="LOCAL-00255" summary="Easy Algorithm Learning - 05">
-      <option name="closed" value="true" />
-      <created>1735719116504</created>
-      <option name="number" value="00255" />
-      <option name="presentableId" value="LOCAL-00255" />
-      <option name="project" value="LOCAL" />
-      <updated>1735719116505</updated>
+      <workItem from="1749279981065" duration="2636000" />
+      <workItem from="1749361026733" duration="707000" />
+      <workItem from="1749457146227" duration="2082000" />
     </task>
     <task id="LOCAL-00256" summary="Easy Algorithm Learning - 06">
       <option name="closed" value="true" />
@@ -1148,7 +1148,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749188114996</updated>
     </task>
-    <option name="localTasksCounter" value="304" />
+    <task id="LOCAL-00304" summary="Fruits(Lv1)">
+      <option name="closed" value="true" />
+      <created>1749284842790</created>
+      <option name="number" value="00304" />
+      <option name="presentableId" value="LOCAL-00304" />
+      <option name="project" value="LOCAL" />
+      <updated>1749284842791</updated>
+    </task>
+    <option name="localTasksCounter" value="305" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1166,7 +1174,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Easy Algorithm Learning - Stack P03(Kakao)" />
     <MESSAGE value="Easy Algorithm Learning - Stack P04" />
     <MESSAGE value="Remind4" />
     <MESSAGE value="the number of p and y(Lv1)" />
@@ -1191,7 +1198,8 @@
     <MESSAGE value="KnightWeapons(Lv1)" />
     <MESSAGE value="SecretMap(Lv1)" />
     <MESSAGE value="2016(Lv1)" />
-    <option name="LAST_COMMIT_MESSAGE" value="2016(Lv1)" />
+    <MESSAGE value="Fruits(Lv1)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fruits(Lv1)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
