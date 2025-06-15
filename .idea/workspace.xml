@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="CreatingPrimeNumber(Lv1)">
-      <change afterPath="$PROJECT_DIR$/src/pg/Lv1/CreatingPrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pg/Lv1/Babbling.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,6 +61,7 @@
   "keyToString": {
     "Application.ASmallString.executor": "Run",
     "Application.AThreeDigitReversal.executor": "Run",
+    "Application.Babbling.executor": "Run",
     "Application.Budget.executor": "Debug",
     "Application.CaesarPassword.executor": "Run",
     "Application.CardDummy.executor": "Run",
@@ -149,7 +150,20 @@
       <recent name="BaekJ.FactorsAndMultiplesAndDecimals" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CreatingPrimeNumber">
+  <component name="RunManager" selected="Application.Babbling">
+    <configuration name="Babbling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pg.Lv1.Babbling" />
+      <module name="Do Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pg.Lv1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CreatingPrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pg.Lv1.CreatingPrimeNumber" />
       <module name="Do Algorithm" />
@@ -165,19 +179,6 @@
     </configuration>
     <configuration name="SearchPrimeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pg.Lv1.SearchPrimeNumbers" />
-      <module name="Do Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pg.Lv1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SecretMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pg.Lv1.SecretMap" />
       <module name="Do Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -217,11 +218,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Babbling" />
         <item itemvalue="Application.CreatingPrimeNumber" />
         <item itemvalue="Application.SearchPrimeNumbers" />
         <item itemvalue="Application.TwentySixteen" />
         <item itemvalue="Application.SecretMap2" />
-        <item itemvalue="Application.SecretMap" />
       </list>
     </recent_temporary>
   </component>
@@ -766,15 +767,11 @@
       <workItem from="1749467053330" duration="61000" />
       <workItem from="1749551726754" duration="805000" />
       <workItem from="1749565783965" duration="4000" />
-      <workItem from="1749734859110" duration="1664000" />
-    </task>
-    <task id="LOCAL-00258" summary="Easy Algorithm Learning - 07(PalindromicString)">
-      <option name="closed" value="true" />
-      <created>1735815166861</created>
-      <option name="number" value="00258" />
-      <option name="presentableId" value="LOCAL-00258" />
-      <option name="project" value="LOCAL" />
-      <updated>1735815166861</updated>
+      <workItem from="1749734859110" duration="2358000" />
+      <workItem from="1749772595312" duration="1195000" />
+      <workItem from="1749895824248" duration="624000" />
+      <workItem from="1749902862979" duration="26000" />
+      <workItem from="1749970051731" duration="1851000" />
     </task>
     <task id="LOCAL-00259" summary="Easy Algorithm Learning - 07(ValidPalindrome)">
       <option name="closed" value="true" />
@@ -1160,7 +1157,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749551937440</updated>
     </task>
-    <option name="localTasksCounter" value="307" />
+    <task id="LOCAL-00307" summary="CreatingPrimeNumber(Lv1)">
+      <option name="closed" value="true" />
+      <created>1749736533110</created>
+      <option name="number" value="00307" />
+      <option name="presentableId" value="LOCAL-00307" />
+      <option name="project" value="LOCAL" />
+      <updated>1749736533111</updated>
+    </task>
+    <option name="localTasksCounter" value="308" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
