@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="Babbling(Lv1)">
-      <change afterPath="$PROJECT_DIR$/src/pg/Lv1/CatchingBill.java" afterDir="false" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="CatchingBill(Lv1)">
+      <change afterPath="$PROJECT_DIR$/src/pg/Lv1/DivideString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,6 +72,7 @@
     "Application.CreateStrangeCharacters.executor": "Run",
     "Application.CreatingPrimeNumber.executor": "Run",
     "Application.DescendingOrder.executor": "Run",
+    "Application.DivideString.executor": "Run",
     "Application.GcdLcm.executor": "Run",
     "Application.Inner.executor": "Debug",
     "Application.KnightWeapons.executor": "Debug",
@@ -151,7 +152,7 @@
       <recent name="BaekJ.FactorsAndMultiplesAndDecimals" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CatchingBill">
+  <component name="RunManager" selected="Application.DivideString">
     <configuration name="Babbling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pg.Lv1.Babbling" />
       <module name="Do Algorithm" />
@@ -191,6 +192,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DivideString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pg.Lv1.DivideString" />
+      <module name="Do Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pg.Lv1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SearchPrimeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pg.Lv1.SearchPrimeNumbers" />
       <module name="Do Algorithm" />
@@ -204,26 +218,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwentySixteen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pg.Lv1.TwentySixteen" />
-      <module name="Do Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pg.Lv1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DivideString" />
         <item itemvalue="Application.CatchingBill" />
         <item itemvalue="Application.Babbling" />
         <item itemvalue="Application.CreatingPrimeNumber" />
         <item itemvalue="Application.SearchPrimeNumbers" />
-        <item itemvalue="Application.TwentySixteen" />
       </list>
     </recent_temporary>
   </component>
@@ -775,15 +776,9 @@
       <workItem from="1749970051731" duration="2070000" />
       <workItem from="1749985387246" duration="1004000" />
       <workItem from="1750203056628" duration="4580000" />
-      <workItem from="1750218444960" duration="4540000" />
-    </task>
-    <task id="LOCAL-00260" summary="Easy Algorithm Learning - 07(ValidPalindrome)">
-      <option name="closed" value="true" />
-      <created>1735829492562</created>
-      <option name="number" value="00260" />
-      <option name="presentableId" value="LOCAL-00260" />
-      <option name="project" value="LOCAL" />
-      <updated>1735829492563</updated>
+      <workItem from="1750218444960" duration="4599000" />
+      <workItem from="1750251445302" duration="1711000" />
+      <workItem from="1750331880207" duration="1435000" />
     </task>
     <task id="LOCAL-00261" summary="Easy Algorithm Learning - 07(ChangeTitle)">
       <option name="closed" value="true" />
@@ -1169,7 +1164,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749972131639</updated>
     </task>
-    <option name="localTasksCounter" value="309" />
+    <task id="LOCAL-00309" summary="CatchingBill(Lv1)">
+      <option name="closed" value="true" />
+      <created>1750231637664</created>
+      <option name="number" value="00309" />
+      <option name="presentableId" value="LOCAL-00309" />
+      <option name="project" value="LOCAL" />
+      <updated>1750231637664</updated>
+    </task>
+    <option name="localTasksCounter" value="310" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1187,7 +1190,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Inner(Lv1)" />
     <MESSAGE value="DescendingOrder(Lv1)" />
     <MESSAGE value="Euclidean reciprocal method(Lv1)" />
     <MESSAGE value="Easy Algorithm Learning - Stack P05" />
@@ -1212,7 +1214,8 @@
     <MESSAGE value="OverPainting(Lv1)" />
     <MESSAGE value="CreatingPrimeNumber(Lv1)" />
     <MESSAGE value="Babbling(Lv1)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Babbling(Lv1)" />
+    <MESSAGE value="CatchingBill(Lv1)" />
+    <option name="LAST_COMMIT_MESSAGE" value="CatchingBill(Lv1)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
