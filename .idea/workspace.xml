@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="DartGame(Lv1)">
+      <change afterPath="$PROJECT_DIR$/src/EAL/_06_Sorting_Searching/P02_BubbleSort.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Practice/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pg/Lv1/DartGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pg/Lv1/SecretCode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,83 +59,84 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ASmallString.executor": "Run",
-    "Application.AThreeDigitReversal.executor": "Run",
-    "Application.Babbling.executor": "Run",
-    "Application.Budget.executor": "Debug",
-    "Application.CaesarPassword.executor": "Run",
-    "Application.CardDummy.executor": "Run",
-    "Application.Cardt.executor": "Run",
-    "Application.CatchingBill.executor": "Run",
-    "Application.ClosestEquivalentLetter.executor": "Debug",
-    "Application.Coke.executor": "Run",
-    "Application.CreateStrangeCharacters.executor": "Run",
-    "Application.CreatingPrimeNumber.executor": "Run",
-    "Application.DartGame.executor": "Run",
-    "Application.DescendingOrder.executor": "Run",
-    "Application.DivideString.executor": "Run",
-    "Application.GcdLcm.executor": "Run",
-    "Application.Inner.executor": "Debug",
-    "Application.KnightWeapons.executor": "Debug",
-    "Application.Main.executor": "Run",
-    "Application.MinimumRectangle.executor": "Debug",
-    "Application.NumericStringEnglishWords.executor": "Run",
-    "Application.P01_ClassPresident.executor": "Run",
-    "Application.P01_CorrectParentheses.executor": "Run",
-    "Application.P02_Anagram.executor": "Run",
-    "Application.P02_RemoveParentheses.executor": "Run",
-    "Application.P03_CraneClawMachine.executor": "Run",
-    "Application.P03_TypesOfSales.executor": "Run",
-    "Application.P04_AllAnagram.executor": "Run",
-    "Application.P04_Postfix.executor": "Run",
-    "Application.P05_AllAnagram.executor": "Run",
-    "Application.P05_K_Largest_Number.executor": "Run",
-    "Application.PandY.executor": "Run",
-    "Application.SearchPrimeNumbers.executor": "Run",
-    "Application.SecretMap.executor": "Debug",
-    "Application.SelectSort.executor": "Run",
-    "Application.SortStrings.executor": "Debug",
-    "Application.Test (1).executor": "Run",
-    "Application.Test.executor": "Run",
-    "Application.Test01.executor": "Run",
-    "Application.Test1.executor": "Run",
-    "Application.Test2.executor": "Run",
-    "Application.Test3.executor": "Run",
-    "Application.Test4.executor": "Run",
-    "Application.Test5.executor": "Run",
-    "Application.Test6.executor": "Run",
-    "Application.Test7.executor": "Run",
-    "Application.Test8.executor": "Run",
-    "Application.TheHallOfFame.executor": "Debug",
-    "Application.TheThreeMusketeers.executor": "Run",
-    "Application.TwentySixteen.executor": "Run",
-    "Application.YinYangPlus.executor": "Run",
-    "Application.bitco.executor": "Run",
-    "Application.p05_IronStick.executor": "Run",
-    "Application.pro.executor": "Run",
-    "Application.re01.executor": "Run",
-    "Application.sheep.executor": "Run",
-    "Application.smart.executor": "Run",
-    "Application.sudo.executor": "Run",
-    "Application.test.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/SeungJoo/Desktop/source-code",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ASmallString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AThreeDigitReversal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Babbling.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Budget.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.CaesarPassword.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CardDummy.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Cardt.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CatchingBill.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ClosestEquivalentLetter.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Coke.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CreateStrangeCharacters.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CreatingPrimeNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DartGame.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DescendingOrder.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DivideString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GcdLcm.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Inner.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.KnightWeapons.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MinimumRectangle.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.NumericStringEnglishWords.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P01_ClassPresident.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P01_CorrectParentheses.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P02_Anagram.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P02_RemoveParentheses.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P03_CraneClawMachine.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P03_TypesOfSales.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P04_AllAnagram.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P04_Postfix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P05_AllAnagram.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P05_K_Largest_Number.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PandY.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SearchPrimeNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SecretCode.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SecretMap.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.SelectSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SortStrings.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Test (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TheHallOfFame.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.TheThreeMusketeers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TwentySixteen.executor&quot;: &quot;Run&quot;,
+    &quot;Application.YinYangPlus.executor&quot;: &quot;Run&quot;,
+    &quot;Application.bitco.executor&quot;: &quot;Run&quot;,
+    &quot;Application.p05_IronStick.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pro.executor&quot;: &quot;Run&quot;,
+    &quot;Application.re01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sheep.executor&quot;: &quot;Run&quot;,
+    &quot;Application.smart.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sudo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/SeungJoo/Desktop/source-code&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="revise.Test" />
@@ -154,35 +156,9 @@
       <recent name="BaekJ.FactorsAndMultiplesAndDecimals" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DartGame">
-    <configuration name="Babbling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pg.Lv1.Babbling" />
-      <module name="Do Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pg.Lv1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.P02_BubbleSort">
     <configuration name="CatchingBill" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pg.Lv1.CatchingBill" />
-      <module name="Do Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pg.Lv1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CreatingPrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pg.Lv1.CreatingPrimeNumber" />
       <module name="Do Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -220,13 +196,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="P02_BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EAL._06_Sorting_Searching.P02_BubbleSort" />
+      <module name="Do Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EAL._06_Sorting_Searching.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecretCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pg.Lv1.SecretCode" />
+      <module name="Do Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pg.Lv1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P02_BubbleSort" />
+        <item itemvalue="Application.SecretCode" />
         <item itemvalue="Application.DartGame" />
         <item itemvalue="Application.DivideString" />
         <item itemvalue="Application.CatchingBill" />
-        <item itemvalue="Application.Babbling" />
-        <item itemvalue="Application.CreatingPrimeNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -785,15 +787,9 @@
       <workItem from="1750379367108" duration="3427000" />
       <workItem from="1750575187339" duration="71000" />
       <workItem from="1750583980131" duration="8567000" />
-      <workItem from="1750681183989" duration="1277000" />
-    </task>
-    <task id="LOCAL-00262" summary="Easy Algorithm Learning - 08">
-      <option name="closed" value="true" />
-      <created>1735899092795</created>
-      <option name="number" value="00262" />
-      <option name="presentableId" value="LOCAL-00262" />
-      <option name="project" value="LOCAL" />
-      <updated>1735899092795</updated>
+      <workItem from="1750681183989" duration="1920000" />
+      <workItem from="1750771682423" duration="1911000" />
+      <workItem from="1750852134392" duration="1436000" />
     </task>
     <task id="LOCAL-00263" summary="Easy Algorithm Learning - 10">
       <option name="closed" value="true" />
@@ -1179,7 +1175,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750337343283</updated>
     </task>
-    <option name="localTasksCounter" value="311" />
+    <task id="LOCAL-00311" summary="DartGame(Lv1)">
+      <option name="closed" value="true" />
+      <created>1750682763913</created>
+      <option name="number" value="00311" />
+      <option name="presentableId" value="LOCAL-00311" />
+      <option name="project" value="LOCAL" />
+      <updated>1750682763914</updated>
+    </task>
+    <option name="localTasksCounter" value="312" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1197,7 +1201,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Euclidean reciprocal method(Lv1)" />
     <MESSAGE value="Easy Algorithm Learning - Stack P05" />
     <MESSAGE value="SmallString(Lv1)" />
     <MESSAGE value="Budget(Lv1)" />
@@ -1222,7 +1225,8 @@
     <MESSAGE value="Babbling(Lv1)" />
     <MESSAGE value="CatchingBill(Lv1)" />
     <MESSAGE value="DivideString(Lv1)" />
-    <option name="LAST_COMMIT_MESSAGE" value="DivideString(Lv1)" />
+    <MESSAGE value="DartGame(Lv1)" />
+    <option name="LAST_COMMIT_MESSAGE" value="DartGame(Lv1)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
