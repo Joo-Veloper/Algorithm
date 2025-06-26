@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="DartGame(Lv1)">
-      <change afterPath="$PROJECT_DIR$/src/EAL/_06_Sorting_Searching/P02_BubbleSort.java" afterDir="false" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="Easy Algorithm Learning - Sorting_Searching(BubbleSort) 02">
+      <change afterPath="$PROJECT_DIR$/src/EAL/_06_Sorting_Searching/P03_InsertSort.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Practice/Test.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/pg/Lv1/SecretCode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -85,6 +85,7 @@
     &quot;Application.P01_ClassPresident.executor&quot;: &quot;Run&quot;,
     &quot;Application.P01_CorrectParentheses.executor&quot;: &quot;Run&quot;,
     &quot;Application.P02_Anagram.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P02_BubbleSort.executor&quot;: &quot;Debug&quot;,
     &quot;Application.P02_RemoveParentheses.executor&quot;: &quot;Run&quot;,
     &quot;Application.P03_CraneClawMachine.executor&quot;: &quot;Run&quot;,
     &quot;Application.P03_TypesOfSales.executor&quot;: &quot;Run&quot;,
@@ -789,15 +790,9 @@
       <workItem from="1750583980131" duration="8567000" />
       <workItem from="1750681183989" duration="1920000" />
       <workItem from="1750771682423" duration="1911000" />
-      <workItem from="1750852134392" duration="1436000" />
-    </task>
-    <task id="LOCAL-00263" summary="Easy Algorithm Learning - 10">
-      <option name="closed" value="true" />
-      <created>1735993627875</created>
-      <option name="number" value="00263" />
-      <option name="presentableId" value="LOCAL-00263" />
-      <option name="project" value="LOCAL" />
-      <updated>1735993627875</updated>
+      <workItem from="1750852134392" duration="2202000" />
+      <workItem from="1750943487472" duration="541000" />
+      <workItem from="1750947086425" duration="78000" />
     </task>
     <task id="LOCAL-00264" summary="Easy Algorithm Learning - 11">
       <option name="closed" value="true" />
@@ -1183,7 +1178,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750682763914</updated>
     </task>
-    <option name="localTasksCounter" value="312" />
+    <task id="LOCAL-00312" summary="Easy Algorithm Learning - Sorting_Searching(BubbleSort) 02">
+      <option name="closed" value="true" />
+      <created>1750855559918</created>
+      <option name="number" value="00312" />
+      <option name="presentableId" value="LOCAL-00312" />
+      <option name="project" value="LOCAL" />
+      <updated>1750855559918</updated>
+    </task>
+    <option name="localTasksCounter" value="313" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1201,7 +1204,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Easy Algorithm Learning - Stack P05" />
     <MESSAGE value="SmallString(Lv1)" />
     <MESSAGE value="Budget(Lv1)" />
     <MESSAGE value="AThreeDigitReversal(Lv1)" />
@@ -1226,7 +1228,8 @@
     <MESSAGE value="CatchingBill(Lv1)" />
     <MESSAGE value="DivideString(Lv1)" />
     <MESSAGE value="DartGame(Lv1)" />
-    <option name="LAST_COMMIT_MESSAGE" value="DartGame(Lv1)" />
+    <MESSAGE value="Easy Algorithm Learning - Sorting_Searching(BubbleSort) 02" />
+    <option name="LAST_COMMIT_MESSAGE" value="Easy Algorithm Learning - Sorting_Searching(BubbleSort) 02" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
