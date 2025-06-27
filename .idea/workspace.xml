@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="Easy Algorithm Learning - Sorting_Searching(BubbleSort) 02">
-      <change afterPath="$PROJECT_DIR$/src/EAL/_06_Sorting_Searching/P03_InsertSort.java" afterDir="false" />
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="Easy Algorithm Learning - Sorting_Searching(InsertSort) 03">
+      <change afterPath="$PROJECT_DIR$/src/EAL/_06_Sorting_Searching/P04_LRU.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Practice/Test.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/pg/Lv1/SecretCode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -792,15 +792,8 @@
       <workItem from="1750771682423" duration="1911000" />
       <workItem from="1750852134392" duration="2202000" />
       <workItem from="1750943487472" duration="541000" />
-      <workItem from="1750947086425" duration="78000" />
-    </task>
-    <task id="LOCAL-00264" summary="Easy Algorithm Learning - 11">
-      <option name="closed" value="true" />
-      <created>1736063820871</created>
-      <option name="number" value="00264" />
-      <option name="presentableId" value="LOCAL-00264" />
-      <option name="project" value="LOCAL" />
-      <updated>1736063820871</updated>
+      <workItem from="1750947086425" duration="700000" />
+      <workItem from="1751033471823" duration="173000" />
     </task>
     <task id="LOCAL-00265" summary="Easy Algorithm Learning - 12">
       <option name="closed" value="true" />
@@ -1186,7 +1179,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750855559918</updated>
     </task>
-    <option name="localTasksCounter" value="313" />
+    <task id="LOCAL-00313" summary="Easy Algorithm Learning - Sorting_Searching(InsertSort) 03">
+      <option name="closed" value="true" />
+      <created>1750947184176</created>
+      <option name="number" value="00313" />
+      <option name="presentableId" value="LOCAL-00313" />
+      <option name="project" value="LOCAL" />
+      <updated>1750947184177</updated>
+    </task>
+    <option name="localTasksCounter" value="314" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1204,7 +1205,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="SmallString(Lv1)" />
     <MESSAGE value="Budget(Lv1)" />
     <MESSAGE value="AThreeDigitReversal(Lv1)" />
     <MESSAGE value="TheThreeMusketeers(Lv1)" />
@@ -1229,7 +1229,8 @@
     <MESSAGE value="DivideString(Lv1)" />
     <MESSAGE value="DartGame(Lv1)" />
     <MESSAGE value="Easy Algorithm Learning - Sorting_Searching(BubbleSort) 02" />
-    <option name="LAST_COMMIT_MESSAGE" value="Easy Algorithm Learning - Sorting_Searching(BubbleSort) 02" />
+    <MESSAGE value="Easy Algorithm Learning - Sorting_Searching(InsertSort) 03" />
+    <option name="LAST_COMMIT_MESSAGE" value="Easy Algorithm Learning - Sorting_Searching(InsertSort) 03" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
