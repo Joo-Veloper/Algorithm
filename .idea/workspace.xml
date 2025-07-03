@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="SecretCode(Lv1)">
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="a runner who did not finish the race&#10;(Lv1)">
       <change afterPath="$PROJECT_DIR$/src/Practice/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pg/Lv1/IncompleteParticipant.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,6 +75,7 @@
     &quot;Application.DescendingOrder.executor&quot;: &quot;Run&quot;,
     &quot;Application.DivideString.executor&quot;: &quot;Run&quot;,
     &quot;Application.GcdLcm.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IncompleteParticipant.executor&quot;: &quot;Run&quot;,
     &quot;Application.Inner.executor&quot;: &quot;Debug&quot;,
     &quot;Application.KnightWeapons.executor&quot;: &quot;Debug&quot;,
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
@@ -797,15 +797,8 @@
       <workItem from="1751192340523" duration="135000" />
       <workItem from="1751288484848" duration="2388000" />
       <workItem from="1751374595084" duration="2946000" />
-      <workItem from="1751462856022" duration="413000" />
-    </task>
-    <task id="LOCAL-00269" summary="Easy Algorithm Learning - Hash P02">
-      <option name="closed" value="true" />
-      <created>1745837998071</created>
-      <option name="number" value="00269" />
-      <option name="presentableId" value="LOCAL-00269" />
-      <option name="project" value="LOCAL" />
-      <updated>1745837998071</updated>
+      <workItem from="1751462856022" duration="585000" />
+      <workItem from="1751544778113" duration="598000" />
     </task>
     <task id="LOCAL-00270" summary="Easy Algorithm Learning - Hash P03">
       <option name="closed" value="true" />
@@ -1191,7 +1184,15 @@
       <option name="project" value="LOCAL" />
       <updated>1751374832987</updated>
     </task>
-    <option name="localTasksCounter" value="318" />
+    <task id="LOCAL-00318" summary="a runner who did not finish the race&#10;(Lv1)">
+      <option name="closed" value="true" />
+      <created>1751463423118</created>
+      <option name="number" value="00318" />
+      <option name="presentableId" value="LOCAL-00318" />
+      <option name="project" value="LOCAL" />
+      <updated>1751463423119</updated>
+    </task>
+    <option name="localTasksCounter" value="319" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1209,7 +1210,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="MinimumRectangle(Lv1)" />
     <MESSAGE value="ClosestEquivalentLetter(Lv1)" />
     <MESSAGE value="CaesarPassword(Lv1)" />
     <MESSAGE value="NumericStringEnglishWords(Lv1)" />
@@ -1234,7 +1234,8 @@
     <MESSAGE value="Easy Algorithm Learning - Sorting_Searching(CheckRedundancy) 05" />
     <MESSAGE value="NumPair(Lv1)" />
     <MESSAGE value="SecretCode(Lv1)" />
-    <option name="LAST_COMMIT_MESSAGE" value="SecretCode(Lv1)" />
+    <MESSAGE value="a runner who did not finish the race&#10;(Lv1)" />
+    <option name="LAST_COMMIT_MESSAGE" value="a runner who did not finish the race&#10;(Lv1)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
