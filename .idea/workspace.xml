@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="Easy Algorithm Learning - Sorting_Searching(SearchForThisPerson) 08">
+    <list default="true" id="ed98b297-c422-4d00-a93e-b36f3c8b7b6b" name="Changes" comment="CreateMin(LV2)">
       <change afterPath="$PROJECT_DIR$/src/Practice/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pg/Lv2/JadenCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,13 +158,26 @@
       <recent name="BaekJ.FactorsAndMultiplesAndDecimals" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.IncompleteParticipant">
+  <component name="RunManager" selected="Application.JadenCase">
     <configuration name="IncompleteParticipant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pg.Lv1.IncompleteParticipant" />
       <module name="Do Algorithm" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="pg.Lv1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JadenCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pg.Lv2.JadenCase" />
+      <module name="Do Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pg.Lv2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -196,19 +211,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SecretCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pg.Lv1.SecretCode" />
-      <module name="Do Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pg.Lv1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice.Test" />
       <module name="Do Algorithm" />
@@ -224,11 +226,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JadenCase" />
         <item itemvalue="Application.IncompleteParticipant" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.NumPair" />
         <item itemvalue="Application.P02_BubbleSort" />
-        <item itemvalue="Application.SecretCode" />
       </list>
     </recent_temporary>
   </component>
@@ -800,38 +802,16 @@
       <workItem from="1751544778113" duration="1436000" />
       <workItem from="1751626385379" duration="3225000" />
       <workItem from="1751723439408" duration="121000" />
-    </task>
-    <task id="LOCAL-00273" summary="Easy Algorithm Learning - Stack P01">
-      <option name="closed" value="true" />
-      <created>1746252910731</created>
-      <option name="number" value="00273" />
-      <option name="presentableId" value="LOCAL-00273" />
-      <option name="project" value="LOCAL" />
-      <updated>1746252910732</updated>
-    </task>
-    <task id="LOCAL-00274" summary="Easy Algorithm Learning - Stack P02">
-      <option name="closed" value="true" />
-      <created>1746597030388</created>
-      <option name="number" value="00274" />
-      <option name="presentableId" value="LOCAL-00274" />
-      <option name="project" value="LOCAL" />
-      <updated>1746597030388</updated>
-    </task>
-    <task id="LOCAL-00275" summary="Easy Algorithm Learning - Sorting_Searching P01">
-      <option name="closed" value="true" />
-      <created>1747222850074</created>
-      <option name="number" value="00275" />
-      <option name="presentableId" value="LOCAL-00275" />
-      <option name="project" value="LOCAL" />
-      <updated>1747222850074</updated>
-    </task>
-    <task id="LOCAL-00276" summary="Easy Algorithm Learning - Sorting_Searching P01">
-      <option name="closed" value="true" />
-      <created>1747222872525</created>
-      <option name="number" value="00276" />
-      <option name="presentableId" value="LOCAL-00276" />
-      <option name="project" value="LOCAL" />
-      <updated>1747222872525</updated>
+      <workItem from="1751978019366" duration="316000" />
+      <workItem from="1752293439318" duration="41000" />
+      <workItem from="1752304322058" duration="1000" />
+      <workItem from="1752413190521" duration="35000" />
+      <workItem from="1752502897188" duration="286000" />
+      <workItem from="1752587869113" duration="298000" />
+      <workItem from="1752675137223" duration="142000" />
+      <workItem from="1752763150904" duration="197000" />
+      <workItem from="1753105435471" duration="25000" />
+      <workItem from="1753709299851" duration="357000" />
     </task>
     <task id="LOCAL-00277" summary="Easy Algorithm Learning - Stack P03(Kakao)">
       <option name="closed" value="true" />
@@ -1193,7 +1173,39 @@
       <option name="project" value="LOCAL" />
       <updated>1751723552270</updated>
     </task>
-    <option name="localTasksCounter" value="322" />
+    <task id="LOCAL-00322" summary="Make Burger(LV1)">
+      <option name="closed" value="true" />
+      <created>1751978318494</created>
+      <option name="number" value="00322" />
+      <option name="presentableId" value="LOCAL-00322" />
+      <option name="project" value="LOCAL" />
+      <updated>1751978318495</updated>
+    </task>
+    <task id="LOCAL-00323" summary="Lotto(LV1)">
+      <option name="closed" value="true" />
+      <created>1752503178101</created>
+      <option name="number" value="00323" />
+      <option name="presentableId" value="LOCAL-00323" />
+      <option name="project" value="LOCAL" />
+      <updated>1752503178101</updated>
+    </task>
+    <task id="LOCAL-00324" summary="MaxAndMin(LV2)">
+      <option name="closed" value="true" />
+      <created>1752588160227</created>
+      <option name="number" value="00324" />
+      <option name="presentableId" value="LOCAL-00324" />
+      <option name="project" value="LOCAL" />
+      <updated>1752588160227</updated>
+    </task>
+    <task id="LOCAL-00325" summary="CreateMin(LV2)">
+      <option name="closed" value="true" />
+      <created>1752763338411</created>
+      <option name="number" value="00325" />
+      <option name="presentableId" value="LOCAL-00325" />
+      <option name="project" value="LOCAL" />
+      <updated>1752763338411</updated>
+    </task>
+    <option name="localTasksCounter" value="326" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1211,10 +1223,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Coke(Lv1)" />
-    <MESSAGE value="SortStrings(Lv1)" />
-    <MESSAGE value="TheHallOfFame(Lv1)" />
-    <MESSAGE value="CardDummy(Lv1)" />
     <MESSAGE value="KnightWeapons(Lv1)" />
     <MESSAGE value="SecretMap(Lv1)" />
     <MESSAGE value="2016(Lv1)" />
@@ -1236,7 +1244,11 @@
     <MESSAGE value="Easy Algorithm Learning - Sorting_Searching(MischievousBoy) 06" />
     <MESSAGE value="Easy Algorithm Learning - Sorting_Searching(CoordinateSorting) 07" />
     <MESSAGE value="Easy Algorithm Learning - Sorting_Searching(SearchForThisPerson) 08" />
-    <option name="LAST_COMMIT_MESSAGE" value="Easy Algorithm Learning - Sorting_Searching(SearchForThisPerson) 08" />
+    <MESSAGE value="Make Burger(LV1)" />
+    <MESSAGE value="Lotto(LV1)" />
+    <MESSAGE value="MaxAndMin(LV2)" />
+    <MESSAGE value="CreateMin(LV2)" />
+    <option name="LAST_COMMIT_MESSAGE" value="CreateMin(LV2)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
